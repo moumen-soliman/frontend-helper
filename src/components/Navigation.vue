@@ -1,13 +1,13 @@
 <template>
   <div>
     <b-container fluid>
-      <b-navbar cols="12" type="dark" variant="blue" toggleable>
+      <b-navbar class="navbar" cols="12" type="dark" variant="blue" toggleable>
         <b-navbar-toggle target="nav_dropdown_collapse"></b-navbar-toggle>
         <b-collapse is-nav id="nav_dropdown_collapse">
             <b-navbar-brand href="/"><span>&lt;</span><b>Frontend</b>Helper<span>/&gt;</span></b-navbar-brand>
             <!-- Navbar dropdowns -->
             <b-navbar-nav class="ml-auto">
-              <router-link class="spacing nav-link"  v-for="routes in links"
+              <router-link class="nav-link"  v-for="routes in links"
               v-bind:key="routes.id"
               :to="`${routes.page}`" exact>{{routes.text}}</router-link>
             </b-navbar-nav>
@@ -45,29 +45,28 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.spacing {
-  color: rgba(0,0,0,.5) !important;
-}
-.router-link-active {
-  color: rgb(0,0,0) !important;
-  font-weight: 600;
-}
 .container-fluid {
   padding: 0;
-}
-.bg-blue {
-  background: white;
-}
-.navbar-brand {
-  color: rgba(0, 0, 0, 0.8);
-  &:hover {
-    color: black;
+  .navbar {
+    background: white;
+    .nav-link {
+      color: rgba(0,0,0,.5) !important;
+    }
+    .router-link-active {
+      color: rgb(0,0,0) !important;
+      font-weight: 600;
+    }
+    .navbar-brand {
+      color: rgba(0, 0, 0, 0.8);
+      &:hover {
+        color: black;
+      }
+      span {
+        color: rgba(0, 0, 0, 0.4);
+      }
+    }
   }
-  span {
-    color: rgba(0, 0, 0, 0.4);
-  }
 }
-.navbar-dark .navbar-toggler-icon {
 
-}
+
 </style>

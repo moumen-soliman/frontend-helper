@@ -1,7 +1,7 @@
 <template>
   <div class="text-center">
     {{highlightMsg}}
-    <a href="https://github.com/moumen-soliman/frontend-helper">Github Repo</a>
+    <a target="_blank" href="https://github.com/moumen-soliman/frontend-helper">Github Repo</a>
   </div>
 </template>
 
@@ -20,8 +20,8 @@ export default {
 div {
   background: #1e90ff;
   color: white;
-  padding: 5px 0;
-  font-size: 12px;
+  padding: 5px 10px;
+  font-size: 0.8em;
   a {
     color: white;
     text-decoration: underline;

@@ -25,7 +25,7 @@ export default {
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
 body {
-  background: #f7f8f9,
+  background: #f7f8f9 !important,
 }
 #app {
   font-family: 'Ubuntu', sans-serif;
