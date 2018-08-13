@@ -1,8 +1,8 @@
 <template>
   <div>
     <div v-for="post in baba" :key="post.title">
+      <b-img-lazy :src="post.img" width="100"/><br>
       {{post.title}}
-      {{post.img}}
     </div>
   </div>
 </template>

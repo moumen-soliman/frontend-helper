@@ -28,10 +28,10 @@ export default {
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
 body {
-  background: #f7f8f9 !important,
+  background: #f7f8f9 !important;
+  font-family: 'Ubuntu', sans-serif;
 }
 #app {
-  font-family: 'Ubuntu', sans-serif;
   color: #1e90ff;
 }
 </style>
