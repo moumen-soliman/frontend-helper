@@ -1,7 +1,10 @@
 <template>
   <div id="app">
+    <!--highlight message -->
     <HighlightMsg></HighlightMsg>
+    <!-- Main navbar -->
     <Navigation></Navigation>
+    <!-- Web container for all content -->
     <b-container>
       <router-view/>
     </b-container>
@@ -15,8 +18,8 @@ import HighlightMsg from './components/HighlightMsg'
 export default {
   name: 'app',
   components: {
-    'Navigation': Navigation,
-    'HighlightMsg': HighlightMsg
+    Navigation,
+    HighlightMsg
   }
 }
 </script>
