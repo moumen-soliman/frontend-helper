@@ -6,6 +6,9 @@ import About from '../components/About'
 import Contact from '../components/Contact'
 import NotFound from '../components/NotFound'
 
+// Items
+import htmlItem from '../components/itemsPages/htmlItem'
+
 Vue.use(Router)
 
 export default new Router({
@@ -30,6 +33,11 @@ export default new Router({
       path: '*',
       name: 'NotFound',
       component: NotFound
+    },
+    {
+      path: '/html',
+      name: 'htmlItem',
+      component: htmlItem
     }
   ]
 })
