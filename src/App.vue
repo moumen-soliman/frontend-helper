@@ -1,16 +1,22 @@
 <template>
   <div id="app">
+    <HighlightMsg></HighlightMsg>
     <Navigation></Navigation>
-    <router-view/>
+    <b-container>
+      <router-view/>
+    </b-container>
   </div>
 </template>
 
 <script>
 import Navigation from './components/Navigation'
+import HighlightMsg from './components/HighlightMsg'
+
 export default {
   name: 'app',
   components: {
-    'Navigation': Navigation
+    'Navigation': Navigation,
+    'HighlightMsg': HighlightMsg
   }
 }
 </script>
