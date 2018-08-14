@@ -12,16 +12,22 @@
     "img": "css.png"
   },
   {
+    "title": "SVG",
+    "link": "svg",
+    "category": "svgCategory",
+    "img": "svg.png"
+  },
+  {
     "title": "Javascript",
     "link": ["javascript","css-master", "html"],
     "category": "javascriptCategory",
     "img": "javascript.png"
   },
   {
-    "title": "JQuery",
-    "link": "jquery",
-    "category": "jqueryCategory",
-    "img": "jquery.png"
+    "title": "PWA",
+    "link": ["pwa"],
+    "category": "pwaCategory",
+    "img": "pwa.png"
   },
   {
     "title": "Sass",
@@ -148,5 +154,65 @@
     "link": "jscs",
     "category": "jscsCategory",
     "img": "jscs.png"
+  },
+  {
+    "title": "JQuery",
+    "link": "jquery",
+    "category": "jqueryCategory",
+    "img": "jquery.png"
+  },
+  {
+    "title": "Vue.js",
+    "link": "vue",
+    "category": "vueCategory",
+    "img": "vue.png"
+  },
+  {
+    "title": "React.js",
+    "link": "react",
+    "category": "reactCategory",
+    "img": "react.png"
+  },
+  {
+    "title": "Angular.js",
+    "link": "angular",
+    "category": "angularCategory",
+    "img": "angular.png"
+  },
+  {
+    "title": "Jest",
+    "link": "jest",
+    "category": "jestCategory",
+    "img": "jest.jpg"
+  },
+  {
+    "title": "Karma",
+    "link": "karma",
+    "category": "karmaCategory",
+    "img": "karma.png"
+  },
+  {
+    "title": "Protractor",
+    "link": "protractor",
+    "category": "protractorCategory",
+    "img": "protractor.png"
+  },
+  {
+    "title": "Jasmine",
+    "link": "jasmine",
+    "category": "jasmineCategory",
+    "img": "jasmine.png"
+  },
+  {
+    "title": "Mocha",
+    "link": "mocha",
+    "category": "mochaCategory",
+    "img": "mocha.png"
+  },
+  {
+    "title": "Typescript",
+    "link": "typescript",
+    "category": "typescriptCategory",
+    "img": "typescript.png"
   }
 ]
