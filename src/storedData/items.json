@@ -1,20 +1,104 @@
 [
   {
     "title": "HTML",
-    "link": "/html",
+    "link": "html",
     "category": "htmlCategory",
     "img": "html.png"
   },
   {
     "title": "CSS",
-    "link": "/css",
+    "link": ["cascading-style-sheet", "html"],
     "category": "cssCategory",
     "img": "css.png"
   },
   {
     "title": "Javascript",
-    "link": "/javascript",
+    "link": ["javascript","cascading-style-sheet", "html"],
     "category": "javascriptCategory",
     "img": "javascript.png"
+  },
+  {
+    "title": "JQuery",
+    "link": "/jquery",
+    "category": "jqueryCategory",
+    "img": "jquery.png"
+  },
+  {
+    "title": "Sass",
+    "link": "/sass",
+    "category": "sassCategory",
+    "img": "sass.png"
+  },
+  {
+    "title": "PostCSS",
+    "link": "/postcss",
+    "category": "postcssCategory",
+    "img": "postcss.png"
+  },
+  {
+    "title": "Less",
+    "link": "/less",
+    "category": "lessCategory",
+    "img": "less.png"
+  },
+  {
+    "title": "Stylus",
+    "link": "/stylus",
+    "category": "stylusCategory",
+    "img": "stylus.png"
+  },
+  {
+    "title": "Normalize",
+    "link": "/normalize",
+    "category": "normalizeCategory",
+    "img": "normalize.jpg"
+  },
+  {
+    "title": "Bootstrap",
+    "link": "/bootstrap",
+    "category": "bootstrapCategory",
+    "img": "bootstrap.png"
+  },
+  {
+    "title": "Bulma",
+    "link": "/bulma",
+    "category": "bulmaCategory",
+    "img": "bulma.png"
+  },
+  {
+    "title": "Materialize",
+    "link": "/materialize",
+    "category": "materializeCategory",
+    "img": "materialize.png"
+  },
+  {
+    "title": "BEM",
+    "link": "/bem",
+    "category": "bemCategory",
+    "img": "bem.png"
+  },
+  {
+    "title": "OOCSS",
+    "link": "/oocss",
+    "category": "oocssCategory",
+    "img": "oocss.png"
+  },
+  {
+    "title": "SMACSS",
+    "link": "/smacss",
+    "category": "smacssCategory",
+    "img": "smacss.png"
+  },
+  {
+    "title": "SUITCSS",
+    "link": "/suitcss",
+    "category": "suitcssCategory",
+    "img": "suitcss.png"
+  },
+  {
+    "title": "Atomic CSS",
+    "link": "/acss",
+    "category": "acssCategory",
+    "img": "acss.png"
   }
 ]
