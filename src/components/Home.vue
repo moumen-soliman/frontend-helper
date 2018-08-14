@@ -1,8 +1,8 @@
 <template>
-  <div>
-    <div class="full-logos-items">
+  <b-container>
+    <div class="full-logos-items text-center">
       <div class="item" v-for="post in posts" :key="post.title">
-        <router-link class="nav-link" :to="`${post.link}`" exact>
+        <router-link class="nav-link" :to="`/item?page=${post.link}`" exact>
           <div v-if="post.img != 'notfound'">
             <b-img-lazy :src="require(`../assets/images/items/${post.img}`)"/>
           </div>
@@ -12,7 +12,7 @@
         </router-link>
       </div>
     </div>
-  </div>
+  </b-container>
 </template>
 
 <script>
@@ -31,13 +31,12 @@ export default {
 <style lang="scss" scoped>
 .full-logos-items {
   padding: 50px 0;
-  display: flex;
-  justify-content: space-around;
   .item {
     margin: auto;
+    display: inline-block;
     img {
       width: 100px;
-      -webkit-filter: grayscale(100%);
+      -webkit-filter: grayscale(97%);
       &:hover {
         -webkit-filter: grayscale(0);
       }
