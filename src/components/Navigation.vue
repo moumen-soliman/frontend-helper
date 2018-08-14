@@ -8,7 +8,7 @@
               :to="`/`" exact><span>&lt;</span><b>Frontend</b>Helper<span>/&gt;</span></router-link>
             <!-- Navbar dropdowns -->
             <b-navbar-nav class="ml-auto">
-              <router-link class="nav-link"  v-for="routes in links"
+              <router-link class="nav-link" v-for="routes in links"
               v-bind:key="routes.id"
               :to="`${routes.page}`" exact>{{routes.text}}</router-link>
             </b-navbar-nav>
