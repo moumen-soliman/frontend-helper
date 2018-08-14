@@ -7,7 +7,7 @@ import Contact from '../components/Contact'
 import NotFound from '../components/NotFound'
 
 // Items
-import htmlItem from '../components/itemsPages/htmlItem'
+import Item from '../components/itemsPages/Item'
 
 Vue.use(Router)
 
@@ -35,9 +35,9 @@ export default new Router({
       component: NotFound
     },
     {
-      path: '/html',
-      name: 'htmlItem',
-      component: htmlItem
+      path: '/item',
+      name: 'Item',
+      component: Item
     }
   ]
 })
