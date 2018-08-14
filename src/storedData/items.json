@@ -180,6 +180,12 @@
     "img": "angular.png"
   },
   {
+    "title": "Meteor.js",
+    "link": "meteor",
+    "category": "meteorCategory",
+    "img": "meteor.png"
+  },
+  {
     "title": "Jest",
     "link": "jest",
     "category": "jestCategory",
@@ -214,5 +220,41 @@
     "link": "typescript",
     "category": "typescriptCategory",
     "img": "typescript.png"
+  },
+  {
+    "title": "Vuex",
+    "link": "vuex",
+    "category": "vuexCategory",
+    "img": "vuex.png"
+  },
+  {
+    "title": "Redux",
+    "link": "redux",
+    "category": "reduxCategory",
+    "img": "redux.png"
+  },
+  {
+    "title": "MobX",
+    "link": "mobx",
+    "category": "mobxCategory",
+    "img": "mobx.png"
+  },
+  {
+    "title": "RxJS",
+    "link": "rxjs",
+    "category": "rxjsCategory",
+    "img": "rxjs.png"
+  },
+  {
+    "title": "NextJS",
+    "link": "nextjs",
+    "category": "nextjsCategory",
+    "img": "nextjs.png"
+  },
+  {
+    "title": "NuxtJS",
+    "link": "nuxtjs",
+    "category": "nuxtjsCategory",
+    "img": "nuxtjs.png"
   }
 ]
