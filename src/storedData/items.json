@@ -7,98 +7,146 @@
   },
   {
     "title": "CSS",
-    "link": ["cascading-style-sheet", "html"],
+    "link": ["css-master", "html"],
     "category": "cssCategory",
     "img": "css.png"
   },
   {
     "title": "Javascript",
-    "link": ["javascript","cascading-style-sheet", "html"],
+    "link": ["javascript","css-master", "html"],
     "category": "javascriptCategory",
     "img": "javascript.png"
   },
   {
     "title": "JQuery",
-    "link": "/jquery",
+    "link": "jquery",
     "category": "jqueryCategory",
     "img": "jquery.png"
   },
   {
     "title": "Sass",
-    "link": "/sass",
+    "link": "sass",
     "category": "sassCategory",
     "img": "sass.png"
   },
   {
     "title": "PostCSS",
-    "link": "/postcss",
+    "link": "postcss",
     "category": "postcssCategory",
     "img": "postcss.png"
   },
   {
     "title": "Less",
-    "link": "/less",
+    "link": "less",
     "category": "lessCategory",
     "img": "less.png"
   },
   {
     "title": "Stylus",
-    "link": "/stylus",
+    "link": "stylus",
     "category": "stylusCategory",
     "img": "stylus.png"
   },
   {
     "title": "Normalize",
-    "link": "/normalize",
+    "link": "normalize",
     "category": "normalizeCategory",
     "img": "normalize.jpg"
   },
   {
     "title": "Bootstrap",
-    "link": "/bootstrap",
+    "link": "bootstrap",
     "category": "bootstrapCategory",
     "img": "bootstrap.png"
   },
   {
     "title": "Bulma",
-    "link": "/bulma",
+    "link": "bulma",
     "category": "bulmaCategory",
     "img": "bulma.png"
   },
   {
     "title": "Materialize",
-    "link": "/materialize",
+    "link": "materialize",
     "category": "materializeCategory",
     "img": "materialize.png"
   },
   {
     "title": "BEM",
-    "link": "/bem",
+    "link": "bem",
     "category": "bemCategory",
     "img": "bem.png"
   },
   {
     "title": "OOCSS",
-    "link": "/oocss",
+    "link": "oocss",
     "category": "oocssCategory",
     "img": "oocss.png"
   },
   {
     "title": "SMACSS",
-    "link": "/smacss",
+    "link": "smacss",
     "category": "smacssCategory",
     "img": "smacss.png"
   },
   {
     "title": "SUITCSS",
-    "link": "/suitcss",
+    "link": "suitcss",
     "category": "suitcssCategory",
     "img": "suitcss.png"
   },
   {
     "title": "Atomic CSS",
-    "link": "/acss",
+    "link": "acss",
     "category": "acssCategory",
     "img": "acss.png"
+  },
+  {
+    "title": "npm",
+    "link": "npm",
+    "category": "npmCategory",
+    "img": "npm.png"
+  },
+  {
+    "title": "Gulp",
+    "link": "gulp",
+    "category": "gulpCategory",
+    "img": "gulp.png"
+  },
+  {
+    "title": "Grunt",
+    "link": "grunt",
+    "category": "gruntCategory",
+    "img": "grunt.png"
+  },
+  {
+    "title": "Webpack",
+    "link": "webpack",
+    "category": "webpackCategory",
+    "img": "webpack.png"
+  },
+  {
+    "title": "ESLint",
+    "link": "eslint",
+    "category": "eslintCategory",
+    "img": "eslint.png"
+  },
+  {
+    "title": "JSLint",
+    "link": "jslint",
+    "category": "jslintCategory",
+    "img": "jslint.png"
+  },
+  {
+    "title": "JSHint",
+    "link": "jshint",
+    "category": "jshintCategory",
+    "img": "jshint.png"
+  },
+  {
+    "title": "JSCS",
+    "link": "jscs",
+    "category": "jscsCategory",
+    "img": "jscs.png"
   }
 ]

@@ -4,7 +4,8 @@
       <b-navbar class="navbar" cols="12" type="dark" variant="blue" toggleable>
         <b-navbar-toggle target="nav_dropdown_collapse"></b-navbar-toggle>
         <b-collapse is-nav id="nav_dropdown_collapse">
-            <b-navbar-brand href="/"><span>&lt;</span><b>Frontend</b>Helper<span>/&gt;</span></b-navbar-brand>
+              <router-link class="navbar-brand"
+              :to="`/`" exact><span>&lt;</span><b>Frontend</b>Helper<span>/&gt;</span></router-link>
             <!-- Navbar dropdowns -->
             <b-navbar-nav class="ml-auto">
               <router-link class="nav-link"  v-for="routes in links"
@@ -52,8 +53,8 @@ export default {
     .nav-link {
       color: rgba(0,0,0,.5) !important;
     }
-    .router-link-active {
-      color: rgb(0,0,0) !important;
+    .nav-link.router-link-active {
+      color: rgb(0, 0, 0) !important;
       font-weight: 600;
     }
     .navbar-brand {
