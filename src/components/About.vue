@@ -1,13 +1,17 @@
 <template>
   <div>
-    <h1>About</h1>
-    <p>Here is some information. This is the about page</p>
+    <h1>{{info}}</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'About' // this is the name of the component
+  name: 'About', // this is the name of the component
+  data () {
+    return {
+      info: 'About page'
+    }
+  },
 }
 </script>
 <style lang="scss" scoped>
