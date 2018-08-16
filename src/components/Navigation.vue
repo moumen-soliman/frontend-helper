@@ -36,6 +36,11 @@ export default {
         },
         {
           id: 3,
+          text: 'Articles',
+          page: '/Articles'
+        },
+        {
+          id: 4,
           text: 'Contact',
           page: '/Contact'
         }

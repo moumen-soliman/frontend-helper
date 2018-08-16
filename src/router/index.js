@@ -4,6 +4,7 @@ import Router from 'vue-router'
 import Home from '../components/Home'
 import About from '../components/About'
 import Contact from '../components/Contact'
+import Articles from '../components/Articles'
 import NotFound from '../components/NotFound'
 
 // Items
@@ -38,6 +39,11 @@ export default new Router({
       path: '/item',
       name: 'Item',
       component: Item
+    },
+    {
+      path: '/Articles',
+      name: 'Articles',
+      component: Articles
     }
   ]
 })
