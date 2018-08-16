@@ -41,6 +41,11 @@ export default {
         },
         {
           id: 4,
+          text: 'Contributors',
+          page:'/Contributors'
+        },
+        {
+          id: 5,
           text: 'Contact',
           page: '/Contact'
         }
