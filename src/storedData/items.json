@@ -162,6 +162,12 @@
     "img": "jscs.png"
   },
   {
+    "title": "Backbone",
+    "link": ["backbone"],
+    "category": "backboneCategory",
+    "img": "backbone.png"
+  },
+  {
     "title": "JQuery",
     "link": ["jquery"],
     "category": "jqueryCategory",
