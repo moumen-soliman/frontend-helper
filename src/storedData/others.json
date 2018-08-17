@@ -1,0 +1,164 @@
+[
+  {
+    "HTML": [{
+      "related":["html"],
+      "Canvas": [{
+        "definition": "Added in HTML5, the HTML element can be used to draw graphics via scripting in JavaScript. For example, it can be used to draw graphs, make photo compositions, create animations or even do real-time video processing or rendering",
+        "items":[
+          {
+            "title": "HTML5 Cheat-sheet",
+            "related":["html", "canvas"],
+            "link": [{
+              "CheatSheetWorld": "http://cheatsheetworld.com/programming/html5-canvas-cheat-sheet/"
+            }]
+          }
+        ]
+      }],
+      "APIs": [{
+        "definition": "When writing code for the Web with JavaScript, there are a great many APIs available. Below is a list of all the interfaces (that is, types of objects) that you may be able to use while developing your Web app or site.",
+        "items": [
+          {
+            "title": "HTML5 API Permissions",
+            "related":["html", "html-api", "api"],
+            "link": [{
+              "CheatSheetWorld": "http://cheatsheetworld.com/programming/html5-canvas-cheat-sheet/"
+            }]
+          },
+          {
+            "title": "HTML5 API Geolocation MDN",
+            "related":["html", "html-api", "api"],
+            "link": [{
+              "MDN": "https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation"
+            }]
+          },
+          {
+            "title": "HTML5 API Audio",
+            "related":["html", "html-api", "api"],
+            "link": [{
+              "MDN": "https://developer.mozilla.org/es/docs/Web_Audio_API",
+              "CSS-Tricks": "https://css-tricks.com/introduction-web-audio-api/",
+              "HTML5Rocks": "http://www.html5rocks.com/en/tutorials/webaudio/intro/?redirect_from_locale=es"
+            }]
+          },
+          {
+            "title": "HTML5 API File",
+            "related":["html", "html-api", "api"],
+            "link": [{
+              "MDN": "https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications",
+              "W3": "http://www.w3.org/TR/file-system-api/",
+              "HTML5Rocks": "http://www.html5rocks.com/en/tutorials/file/dndfiles/"
+            }]
+          }
+        ]
+      }],
+      "Accessibility": [{
+        "definition": "When writing code for the Web with JavaScript, there are a great many APIs available. Below is a list of all the interfaces (that is, types of objects) that you may be able to use while developing your Web app or site.",
+        "items": [
+          {
+            "title": "ARIA",
+            "related":["html", "html-accessibility", "accessibility"],
+            "link": [{
+              "MDN": "https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA",
+              "Accessibility-in-html5":"https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA",
+              "W3": "http://www.w3.org/WAI/ER/tools/"
+            }]
+          }
+        ]
+      }],
+      "Web-Components": [{
+        "definition": "Components are the building blocks of modern web applications. What best practices should you follow when building your own components so they can stand the test of time?",
+        "items": [
+          {
+            "title": "HTML and DOM",
+            "related":["html", "html-dom", "dom"],
+            "link": [{
+              "Web-components-google": "https://developers.google.com/web/fundamentals/web-components/",
+              "HTML-imports": "https://www.html5rocks.com/en/tutorials/webcomponents/imports/"
+            }]
+          }
+        ]
+      }],
+      "PWA": [{
+        "definition": "Browser vendors want to promote Progressive Web Apps not simply because they are the latest and greatest technology. They want to promote them because Progressive Web Apps represent the best practices for websites and applications.",
+        "items": [
+          {
+            "title": "Service Workers",
+            "related":["html", "html-pwa", "pwa", "sw"],
+            "link": [{
+              "mozilla-book": "https://serviceworke.rs/",
+              "PWA-intro": "https://developers.google.com/web/fundamentals/primers/service-workers/",
+              "W3": "http://www.w3.org/TR/service-workers-1/",
+              "PWA-libraries": "https://www.youtube.com/watch?v=IIRj8DftkqE"
+            }]
+          },
+          {
+            "title": "Offline caching",
+            "related":["html", "html-pwa", "pwa"],
+            "link": [{
+              "Offline Storage for PWA by Addy Osmani": "https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jsbxgywzz",
+              "Guide to using Offline caching": "http://www.html5rocks.com/en/tutorials/appcache/beginner/",
+              "Manifest files W3C": "https://w3c.github.io/manifest/"
+            }]
+          },
+          {
+            "title": "Push Notifications",
+            "related":["html", "html-pwa", "pwa"],
+            "link": [{
+              "Push Notifications On The Web - Google Chrome": "http://deanhume.com/Home/BlogPost/push-notifications-on-the-web---google-chrome/10128",
+              "Push Notifications on the Open Web": "http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web",
+              "Notifications API": "https://notifications.spec.whatwg.org/"
+            }]
+          }
+        ]
+      }],
+      "Client side storage": [{
+        "definition": "With web storage, web applications can store data locally within the user's browser.",
+        "items": [
+          {
+            "title": "Client-Side Storage",
+            "related":["html", "html-pwa", "pwa", "html-api", "api"],
+            "link": [{
+              "Html5rocks tutorials": "http://www.html5rocks.com/en/tutorials/offline/storage/",
+              "Offline cookbook": "https://jakearchibald.com/2014/offline-cookbook/",
+              "Local storage MDN": "https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School/Local_Storage",
+              "freeCodeCamp quick guide to IndexedDB": "https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501"
+            }]
+          }
+        ]
+      }]
+    }],
+    "Performance": [{
+      "related": ["performance"],
+      "Performance-Guide": [{
+        "definition": "Few steps to make your website performance better",
+        "items":[
+          {
+            "title": "Performance quick steps",
+            "related":["html", "performance"],
+            "link": [{
+              "Avoid landing page redirects": "https://developers.google.com/speed/docs/insights/AvoidRedirects",
+              "Enable compression": "https://developers.google.com/speed/docs/insights/EnableCompression",
+              "Improve server response time": "https://developers.google.com/speed/docs/insights/Server",
+              "Leverage browser caching": "https://developers.google.com/speed/docs/insights/LeverageBrowserCaching",
+              "Minify resources": "https://developers.google.com/speed/docs/insights/MinifyResources",
+              "Optimize images": "https://developers.google.com/speed/docs/insights/OptimizeImages",
+              "Optimize CSS Delivery": "https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery",
+              "Prioritize visible content": "https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent",
+              "Remove render-blocking JavaScript": "https://developers.google.com/speed/docs/insights/BlockingJS"
+            }]
+          },
+          {
+            "title": "Performance tools",
+            "related":["html", "performance", "performance-tools"],
+            "link": [{
+              "Mobile & Desktop Performance Testing": "http://webpagetest.org/",
+              "Mobile Performance Testing": "http://mobitest.akamai.com/",
+              "Google Pagespeed Insights Test": "http://bit.ly/GooglePSI",
+              "Mine Google Analytics for Insights": "http://bit.ly/2cylUEM"
+            }]
+          }
+        ]
+      }]
+    }]
+  }
+]
