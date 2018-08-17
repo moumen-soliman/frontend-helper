@@ -157,8 +157,6 @@
       }]
     }],
     "Performance": [{
-      "related": ["performance"],
-      "Performance-Guide": [{
         "definition": "Few steps to make your website performance better",
         "items":[
           {
@@ -187,7 +185,56 @@
             }]
           }
         ]
-      }]
+    }],
+    "SVG": [{
+      "definition": "SVG is a language based on XML for describing two-dimensional vector and mixed vector/raster graphics",
+      "related": ["svg"],
+      "items":[
+        {
+          "title": "SVG Standard",
+          "related":["html", "svg"],
+          "link": [{
+            "SVG Tutorial - W3Schools": "https://www.w3schools.com/graphics/svg_intro.asp",
+            "SVG MDN": "https://developer.mozilla.org/kab/docs/Web/SVG",
+            "SVG W3C": "https://medium.com/sketch-app-sources/preparing-and-exporting-svg-icons-in-sketch-1a3d65b239bb",
+            "Everything You Need To Know About SVG CSS-Tricks": "https://css-tricks.com/lodge/svg/"
+          }]
+        },
+        {
+          "title": "SVG Articles",
+          "related":["svg"],
+          "link": [{
+            "How Designers Should Think About SVG": "https://medium.com/sketch-app-sources/how-designers-should-think-about-svg-b2b92efc4d77",
+            "How to use SVG as a Placeholder, and Other Image Loading Techniques": "https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c",
+            "Preparing and Exporting SVG Icons in Sketch": "https://medium.com/sketch-app-sources/preparing-and-exporting-svg-icons-in-sketch-1a3d65b239bb",
+            "Sketch’s Brilliant New Way to Export Borders as SVG": "https://medium.com/sketch-app-sources/sketchs-brilliant-new-way-to-export-borders-as-svg-bc8fc5f6d5b1",
+            "Let’s make multi-colored icons with SVG symbols and CSS variables": "https://medium.freecodecamp.org/lets-make-your-svg-symbol-icons-multi-colored-with-css-variables-cddd1769fca4",
+            "Exploring ways to export clean .svg icons with Sketch": "https://medium.com/sketch-app-sources/exploring-ways-to-export-clean-svg-icons-with-sketch-the-correct-way-752e73ec4694",
+            "Optimize CSS Delivery": "https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery",
+            "Prioritize visible content": "https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent",
+            "Remove render-blocking JavaScript": "https://developers.google.com/speed/docs/insights/BlockingJS"
+          }]
+        },
+        {
+          "title": "SVG Libraries",
+          "related":["svg"],
+          "link": [{
+            "Animate Plus": "https://github.com/bendc/animateplus",
+            "Bonsai.js": "http://bonsaijs.org/",
+            "C3.js": "https://github.com/masayuki0812/c3",
+            "Charted": "http://www.charted.co/",
+            "Chartist.js": "http://gionkunz.github.io/chartist-js/",
+            "D3.js": "http://d3js.org/",
+            "Frappé": "https://github.com/petercollingridge/DrawSVG",
+            "VelocityJS": "http://julian.com/research/velocity/#svg",
+            "MetricsGraphics.js": "http://metricsgraphicsjs.org/",
+            "DrawSVG": "https://github.com/petercollingridge/DrawSVG",
+            "Two.js": "http://jonobr1.github.io/two.js/",
+            "Vivus": "http://maxwellito.github.io/vivus//",
+            "wheelnav.js": "http://wheelnavjs.softwaretailoring.net/"
+          }]
+        }
+      ]
     }]
   }
 ]
