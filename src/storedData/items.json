@@ -114,6 +114,12 @@
     "img": "npm.png"
   },
   {
+    "title": "yarn",
+    "link": ["yarn"],
+    "category": "yarnCategory",
+    "img": "yarn.png"
+  },
+  {
     "title": "Gulp",
     "link": ["gulp"],
     "category": "gulpCategory",
