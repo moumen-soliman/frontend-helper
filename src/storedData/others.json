@@ -121,7 +121,8 @@
               "Html5rocks tutorials": "http://www.html5rocks.com/en/tutorials/offline/storage/",
               "Offline cookbook": "https://jakearchibald.com/2014/offline-cookbook/",
               "Local storage MDN": "https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School/Local_Storage",
-              "freeCodeCamp quick guide to IndexedDB": "https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501"
+              "freeCodeCamp quick guide to IndexedDB": "https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501",
+              "Client-side storage and Web workers": "https://medium.com/@moumensoliman/part-2-what-can-javascript-really-do-in-client-side-storage-6de18efaf7b5"
             }]
           }
         ]
