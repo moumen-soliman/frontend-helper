@@ -42,7 +42,7 @@
           },
           {
             "title": "HTML5 API File",
-            "related":["html", "html-api", "api"],
+            "related":["html", "html-api", "api", "javascript"],
             "link": [{
               "MDN": "https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications",
               "W3": "http://www.w3.org/TR/file-system-api/",
@@ -83,7 +83,7 @@
         "items": [
           {
             "title": "Service Workers",
-            "related":["html", "html-pwa", "pwa", "sw"],
+            "related":["html", "html-pwa", "pwa", "sw", "javascript"],
             "link": [{
               "mozilla-book": "https://serviceworke.rs/",
               "PWA-intro": "https://developers.google.com/web/fundamentals/primers/service-workers/",
@@ -93,7 +93,7 @@
           },
           {
             "title": "Offline caching",
-            "related":["html", "html-pwa", "pwa"],
+            "related":["html", "html-pwa", "pwa", "javascript"],
             "link": [{
               "Offline Storage for PWA by Addy Osmani": "https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jsbxgywzz",
               "Guide to using Offline caching": "http://www.html5rocks.com/en/tutorials/appcache/beginner/",
@@ -102,7 +102,7 @@
           },
           {
             "title": "Push Notifications",
-            "related":["html", "html-pwa", "pwa"],
+            "related":["html", "html-pwa", "pwa", "javascript"],
             "link": [{
               "Push Notifications On The Web - Google Chrome": "http://deanhume.com/Home/BlogPost/push-notifications-on-the-web---google-chrome/10128",
               "Push Notifications on the Open Web": "http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web",
@@ -116,13 +116,29 @@
         "items": [
           {
             "title": "Client-Side Storage",
-            "related":["html", "html-pwa", "pwa", "html-api", "api"],
+            "related":["html", "html-pwa", "pwa", "html-api", "api", "javascript"],
             "link": [{
               "Html5rocks tutorials": "http://www.html5rocks.com/en/tutorials/offline/storage/",
               "Offline cookbook": "https://jakearchibald.com/2014/offline-cookbook/",
               "Local storage MDN": "https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School/Local_Storage",
               "freeCodeCamp quick guide to IndexedDB": "https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501",
               "Client-side storage and Web workers": "https://medium.com/@moumensoliman/part-2-what-can-javascript-really-do-in-client-side-storage-6de18efaf7b5"
+            }]
+          }
+        ]
+      }],
+      "Web Workers": [{
+        "definition": "Web Workers is a simple means for web content to run scripts in background threads.",
+        "items": [
+          {
+            "title": "Web Workers",
+            "related":["html", "html-web-workers", "web-workers", "html-api", "api", "javascript"],
+            "link": [{
+              "Basics Html5Rocks": "http://www.html5rocks.com/en/tutorials/workers/basics/",
+              "Why Web workers?": "https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/",
+              "Web Workers MDN": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers",
+              "The building blocks of Web Workers": "https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a",
+              "Using web workers for safe, concurrent JavaScript": "https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2?source=search_post---------1&gi=f8362d41089"
             }]
           }
         ]
