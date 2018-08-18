@@ -7,7 +7,7 @@
   },
   {
     "title": "CSS",
-    "link": ["css-master", "html"],
+    "link": ["css-master"],
     "category": "cssCategory",
     "img": "css.png"
   },
@@ -19,7 +19,7 @@
   },
   {
     "title": "Javascript",
-    "link": ["javascript","css-master", "html"],
+    "link": ["javascript"],
     "category": "javascriptCategory",
     "img": "javascript.png"
   },
