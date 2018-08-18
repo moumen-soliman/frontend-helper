@@ -289,6 +289,22 @@
           "Babel (Formerly 6to5)": "https://github.com/babel/babel",
           "ECMAScript 6 compatibility table": "http://kangax.github.io/compat-table/es6/"
         }]
+      },
+      {
+        "title": "Javascript Testing",
+        "related": ["javascript"],
+        "link": [{
+          "mocha": "https://github.com/mochajs/mocha",
+          "jasmine": "https://github.com/jasmine/jasmine",
+          "qunit": "https://github.com/jquery/qunit",
+          "jest": "https://github.com/facebook/jest",
+          "tape": "https://github.com/substack/tape",
+          "TestCafe": "https://github.com/DevExpress/testcafe",
+          "ava": "https://github.com/avajs/ava",
+          "DalekJS": "https://github.com/dalekjs/dalek",
+          "prova": "https://github.com/azer/prova",
+          "Protractor": "https://github.com/angular/protractor"
+        }]
       }
     ]
   }]
