@@ -334,6 +334,47 @@
           "prettier": "https://github.com/prettier/prettier",
           "jsfmt": "https://github.com/rdio/jsfmt"
         }]
+      },
+      {
+        "title": "QA (Linting)",
+        "related": ["javascript"],
+        "link": [{
+          "ESLint": "https://github.com/eslint/eslint",
+          "JSLint": "https://github.com/douglascrockford/JSLint",
+          "JSHint": "https://github.com/jshint/jshint/",
+          "jscs": "https://github.com/jscs-dev/node-jscs",
+          "prettier": "https://github.com/prettier/prettier",
+          "jsfmt": "https://github.com/rdio/jsfmt"
+        }]
+      },
+      {
+        "title": "Javascript DataStructure and Algorithms",
+        "related": ["javascript"],
+        "link": [{
+          "CS in javascript By nzakas": "https://github.com/nzakas/computer-science-in-javascript",
+          "DataStructures and Algorithms By trekhleb": "https://github.com/trekhleb/javascript-algorithms",
+          "Algorithms By mgechev": "https://mgechev.github.io/javascript-algorithms/",
+          "DataStructures and Algorithms By loiane": "https://github.com/loiane/javascript-datastructures-algorithms"
+        }]
+      },
+      {
+        "title": "Javascript Storage Libraries",
+        "related": ["javascript"],
+        "link": [{
+          "store.js": "https://github.com/marcuswestin/store.js",
+          "localForage": "https://github.com/mozilla/localForage",
+          "cross-storage": "https://github.com/zendesk/cross-storage",
+          "jquery-cookie": "https://github.com/carhartl/jquery-cookie",
+          "js-cookie": "https://github.com/js-cookie/js-cookie",
+          "Cookies": "https://github.com/ScottHamper/Cookies",
+          "DB.js": "https://github.com/aaronpowell/db.js/",
+          "jStorage": "https://github.com/andris9/jStorage",
+          "lawnchair.js": "https://github.com/brianleroux/lawnchair/",
+          "sql.js": "https://github.com/kripken/sql.js",
+          "basket.js": "https://github.com/addyosmani/basket.js",
+          "bag.js": "https://github.com/nodeca/bag.js",
+          "basil.js": "https://github.com/Wisembly/basil.js"
+        }]
       }
     ]
   }]
