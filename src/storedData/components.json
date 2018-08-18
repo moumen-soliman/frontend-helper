@@ -265,5 +265,31 @@
         }]
       }
     ]
+  }],
+  "Javascript": [{
+    "definition": "JavaScript (JS) is a lightweight, interpreted or JIT compiled programming language with first-class functions. Most well-known as the scripting language for Web pages, many non-browser environments also use it, such as node.js and Apache CouchDB. JS is a prototype-based, multi-paradigm, dynamic scripting language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript.",
+    "related": ["javascript"],
+    "items": [{
+        "title": "Javascript Fundamentals",
+        "related": ["javascript"],
+        "link": [{
+          "Javascript Fundamentals W3Schools": "https://www.w3schools.com/javascript/",
+          "Javascript Fundamentals MDN": "https://developer.mozilla.org/en-US/docs/Web/javascript",
+          "Javascript Fundamentals W3C": "https://www.w3.org/standards/webdesign/script",
+          "JavaScript Fundamentals Javascript-info": "https://javascript.info/first-steps"
+        }]
+      },
+      {
+        "title": "Javascript ES6",
+        "related": ["javascript"],
+        "link": [{
+          "es6features": "https://github.com/lukehoban/es6features",
+          "es6-features": "https://github.com/rse/es6-features",
+          "es6-cheatsheet": "https://github.com/DrkSephy/es6-cheatsheet",
+          "Babel (Formerly 6to5)": "https://github.com/babel/babel",
+          "ECMAScript 6 compatibility table": "http://kangax.github.io/compat-table/es6/"
+        }]
+      }
+    ]
   }]
 }]
