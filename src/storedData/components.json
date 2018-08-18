@@ -267,7 +267,8 @@
             "Google CSS Style Guide": "https://google.github.io/styleguide/htmlcssguide.html",
             "Guilherme Rv Coelho CSS Style Guide ": "https://github.com/grvcoelho/css",
             "ThinkUp CSS Style Guide": "https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS",
-            "Dropbox CSS Style Guide": "https://github.com/dropbox/css-style-guide"
+            "Dropbox CSS Style Guide": "https://github.com/dropbox/css-style-guide",
+            "Github CSS Style Guide": "https://primer.github.io/"
           }]
         },
         {
@@ -290,6 +291,20 @@
             "Pure.css": "http://purecss.io/",
             "Semantic UI": "http://semantic-ui.com/",
             "Spectre.css": "https://picturepan2.github.io/spectre/index.html"
+          }]
+        },
+        {
+          "title": "CSS Methodologies",
+          "related": ["css"],
+          "link": [{
+            "Atomic OOBEMITSCSS": "https://www.sitepoint.com/atomic-oobemitscss/",
+            "BEM (Block-element-modifier)": "https://en.bem.info/",
+            "Atomic Design": "http://patternlab.io/resources.html",
+            "SUIT CSS": "https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname",
+            "SMACSS": "https://smacss.com/",
+            "ITCSS": "http://itcss.io/",
+            "OOCSS": "https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/",
+            "idiomatic-css": "https://github.com/necolas/idiomatic-css"
           }]
         }
       ]
