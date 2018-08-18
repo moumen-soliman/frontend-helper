@@ -392,6 +392,18 @@
           "jquery.rest": "https://github.com/jpillora/jquery.rest",
           "Ethereum-web3.js": "https://github.com/ethereum/web3.js"
         }]
+      },
+      {
+        "title": "Package Managers",
+        "related": ["javascript"],
+        "link": [{
+          "npmjs": "https://www.npmjs.com/",
+          "bower": "https://github.com/bower/bower",
+          "component": "https://github.com/componentjs/component",
+          "yarn": "https://yarnpkg.com/",
+          "jam": "https://github.com/caolan/jam",
+          "volo": "https://github.com/volojs/volo"
+        }]
       }
     ]
   }]
