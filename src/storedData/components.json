@@ -390,7 +390,8 @@
           "oauth-signature-js": "https://github.com/bettiolo/oauth-signature-js",
           "amygdala": "https://github.com/lincolnloop/amygdala",
           "jquery.rest": "https://github.com/jpillora/jquery.rest",
-          "Ethereum-web3.js": "https://github.com/ethereum/web3.js"
+          "Ethereum-web3.js": "https://github.com/ethereum/web3.js",
+          "js-cookie": "https://github.com/js-cookie/js-cookie"
         }]
       }
     ]
