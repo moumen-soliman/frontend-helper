@@ -129,6 +129,71 @@
           "link": "https://www.amazon.com/CSS-Mastery-Andy-Budd/dp/1430258632/ref=sr_1_1?ie=UTF8&qid=1499288961&sr=8-1&keywords=CSS+Mastery"
         }
       ]
+    }],
+    "Javascript": [{
+      "related": ["javascript"],
+      "books": [
+        {
+          "title": "JavaScript: The Good Parts",
+          "related": ["javascript"],
+          "link": "https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?ie=UTF8&qid=1499178868&sr=8-1&keywords=JavaScript%3A+The+Good+Parts"
+        },
+        {
+          "title": "You Don’t Know JS Book Series (6 Books)",
+          "related": ["javascript"],
+          "link": "https://www.amazon.com/gp/bookseries/B01N9EBP9V/ref=st_afs_B01AY9P0P6#"
+        },
+        {
+          "title": "JavaScript: The Definitive Guide",
+          "related": ["javascript"],
+          "link": "https://www.amazon.com/JavaScript-Definitive-Guide-David-Flanagan/dp/0596101996/ref=sr_1_1?ie=UTF8&qid=1499179521&sr=8-1&keywords=JavaScript%3A+The+Definitive+Guide"
+        },
+        {
+          "title": "Secrets of the JavaScript Ninja",
+          "related": ["javascript"],
+          "link": "https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/ref=sr_1_1?ie=UTF8&qid=1499179612&sr=8-1&keywords=Secrets+of+the+JavaScript+Ninja"
+        },
+        {
+          "title": "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript",
+          "related": ["javascript"],
+          "link": "https://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182/ref=sr_1_1?ie=UTF8&qid=1499179696&sr=8-1&keywords=Effective+JavaScript%3A+68+Specific+Ways+to+Harness+the+Power+of+JavaScript+%28Effective+Software+Development+Series%29"
+        },
+        {
+          "title": "JavaScript Patterns: Build Better Applications with Coding and Design Patterns",
+          "related": ["javascript"],
+          "link": "https://www.amazon.com/JavaScript-Patterns-Better-Applications-Coding/dp/0596806752/ref=sr_1_1?ie=UTF8&qid=1499179764&sr=8-1&keywords=JavaScript+Patterns%3A+Build+Better+Applications+with+Coding+and+Design+Patterns"
+        },
+        {
+          "title": "The Principles of Object-Oriented JavaScript",
+          "related": ["javascript"],
+          "link": "https://www.amazon.com/Principles-Object-Oriented-JavaScript-Nicholas-Zakas/dp/1593275404/ref=sr_1_1?ie=UTF8&qid=1499179833&sr=8-1&keywords=The+Principles+of+Object-Oriented+JavaScript"
+        },
+        {
+          "title": "Eloquent JavaScript: A Modern Introduction to Programming",
+          "related": ["javascript"],
+          "link": "https://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=sr_1_1?ie=UTF8&qid=1499179895&sr=8-1&keywords=Eloquent+JavaScript%3A+A+Modern+Introduction+to+Programming"
+        },
+        {
+          "title": "Exploring ES6",
+          "related": ["javascript"],
+          "link": "http://exploringjs.com/es6.html"
+        },
+        {
+          "title": "Setting up ES6",
+          "related": ["javascript"],
+          "link": "https://leanpub.com/setting-up-es6/read"
+        },
+        {
+          "title": "JavaScript Design Patterns",
+          "related": ["javascript"],
+          "link": "http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/"
+        },
+        {
+          "title": "Javascript Application Design",
+          "related": ["javascript"],
+          "link": "https://www.manning.com/books/javascript-application-design"
+        }
+      ]
     }]
   }
 ]
