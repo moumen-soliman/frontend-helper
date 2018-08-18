@@ -377,7 +377,6 @@
         "related": ["javascript"],
         "link": [{
           "Javascript API Wiki": "https://github.com/ethereum/wiki/wiki/JavaScript-API",
-          "Google Javascript API client": "https://github.com/google/google-api-javascript-client",
           "Javascript APIs MDN": "https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API"
         }]
       },
@@ -387,6 +386,7 @@
         "link": [{
           "axios": "https://github.com/axios/axios",
           "bottleneck": "https://github.com/SGrondin/bottleneck",
+          "Google Javascript API client": "https://github.com/google/google-api-javascript-client",
           "oauth-signature-js": "https://github.com/bettiolo/oauth-signature-js",
           "amygdala": "https://github.com/lincolnloop/amygdala",
           "jquery.rest": "https://github.com/jpillora/jquery.rest",
