@@ -235,6 +235,64 @@
           }]
         }
       ]
+    }],
+    "CSS": [{
+      "definition": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.",
+      "related": ["css"],
+      "items":[
+        {
+          "title": "CSS Standard",
+          "related":["css"],
+          "link": [{
+            "CSS - W3Schools": "https://www.w3schools.com/css/",
+            "CSS MDN": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+            "CSS W3C": "https://www.w3.org/Style/CSS/#specs",
+            "Everything You Need To Know About SVG CSS-Tricks": "https://css-tricks.com/lodge/svg/"
+          }]
+        },
+        {
+          "title": "CSS Preprocessors",
+          "related":["css"],
+          "link": [{
+            "Sass": "https://github.com/sass/sass",
+            "PostCSS": "https://github.com/postcss/postcss",
+            "Stylus": "https://www.w3.org/Style/CSS/#specs",
+            "LESS": "https://github.com/less/less.js"
+          }]
+        },
+        {
+          "title": "CSS Style Guide",
+          "related":["css"],
+          "link": [{
+            "Google CSS Style Guide": "https://google.github.io/styleguide/htmlcssguide.html",
+            "Guilherme Rv Coelho CSS Style Guide ": "https://github.com/grvcoelho/css",
+            "ThinkUp CSS Style Guide": "https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS",
+            "Dropbox CSS Style Guide": "https://github.com/dropbox/css-style-guide"
+          }]
+        },
+        {
+          "title": "CSS Frameworks",
+          "related": ["css"],
+          "link": [{
+            "Bootstrap": "http://getbootstrap.com/",
+            "Bulma": "http://bulma.io/",
+            "inuit.css": "http://inuitcss.com/",
+            "Foundation": "http://foundation.zurb.com/",
+            "Materialize": "http://materializecss.com/",
+            "Strawberry": "https://github.com/jfet97/strawberry",
+            "Wing": "https://kbrsh.github.io/wing/",
+            "UIkit": "http://getuikit.com/",
+            "unsemantic": "http://unsemantic.com/",
+            "Tachyons": "http://tachyons.io/",
+            "Tacit": "https://yegor256.github.io/tacit/",
+            "material-components-web": "https://github.com/material-components/material-components-web",
+            "Milligram": "http://milligram.io",
+            "Pure.css": "http://purecss.io/",
+            "Semantic UI": "http://semantic-ui.com/",
+            "Spectre.css": "https://picturepan2.github.io/spectre/index.html"
+          }]
+        }
+      ]
     }]
   }
 ]

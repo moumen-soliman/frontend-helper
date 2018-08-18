@@ -94,6 +94,21 @@
           "link": "http://svgpocketguide.com/"
         }
       ]
+    }],
+    "CSS": [{
+      "related":["css"],
+      "books": [
+        {
+          "title": "CSS Secrets",
+          "related":["css"],
+          "link": "http://shop.oreilly.com/product/0636920031123.do"
+        },
+        {
+          "title": "CSS: The Missing Manual",
+          "related":["css"],
+          "link": "http://shop.oreilly.com/product/0636920036357.do"
+        }
+      ]
     }]
   }
 ]
