@@ -1,112 +1,132 @@
 [
   {
     "HTML": [{
-      "related":["html"],
+      "related": ["html"],
       "books": [
         {
           "title": "Dive into HTML5",
-          "related":["html"],
+          "related": ["html"],
           "link": "http://diveinto.html5doctor.com/"
         },
         {
           "title": "HTML5: Up and Running",
-          "related":["html"],
+          "related": ["html"],
           "link": "https://www.amazon.com/HTML5-Running-Dive-Future-Development/dp/0596806027/"
         },
         {
           "title": "Using the HTML5 Filesystem API",
-          "related":["html"],
+          "related": ["html"],
           "link": "http://shop.oreilly.com/product/0636920021360.do"
         },
         {
           "title": "HTML5 Game Development Insights",
-          "related":["html"],
+          "related": ["html"],
           "link": "http://www.apress.com/us/book/9781430266976"
         },
         {
           "title": "HTML5 Canvas",
-          "related":["html", "canvas"],
+          "related": ["html", "canvas"],
           "link": "http://shop.oreilly.com/product/0636920013327.do"
         },
         {
           "title": "HTML5 Canvas For Dummies",
-          "related":["html", "canvas"],
+          "related": ["html", "canvas"],
           "link": "http://www.amazon.com/HTML5-Canvas-For-Dummies-Cowan/dp/1118385357"
         },
         {
           "title": "HTML Canvas Deep Dive",
-          "related":["html", "canvas"],
+          "related": ["html", "canvas"],
           "link": "http://joshondesign.com/p/books/canvasdeepdive/title.html"
         }
       ]
     }],
     "SVG": [{
-      "related":["svg"],
+      "related": ["svg"],
       "books": [
         {
           "title": "Building Web Applications with SVG by Jon Frost - 2012",
-          "related":["svg"],
+          "related": ["svg"],
           "link": "http://www.amazon.com/Building-Web-Applications-Developer-Reference/dp/0735660123"
         },
         {
           "title": "Gráficos vetoriais escaláveis by Mauricio Samy Silva - 2012",
-          "related":["svg"],
+          "related": ["svg"],
           "link": "http://www.livrosvg.com.br/"
         },
         {
           "title": "Interactive Data Visualization for the Web by Scott Muray - 2013",
-          "related":["svg"],
+          "related": ["svg"],
           "link": "http://shop.oreilly.com/product/0636920026938.do"
         },
         {
           "title": "Learn SVG Interactively by Jay Nick - 2010",
-          "related":["svg"],
+          "related": ["svg"],
           "link": "https://itunes.apple.com/us/book/learn-svg-interactively/id384843340?mt=11"
         },
         {
           "title": "Learning Raphaël JS Vector Graphics by Damian Dawber - 2013",
-          "related":["svg"],
+          "related": ["svg"],
           "link": "http://www.amazon.com/Learning-Rapha%C3%ABl-JS-Vector-Graphics/dp/1782169164"
         },
         {
           "title": "RaphaelJS: Graphics and Visualization on the Web by Chris Wilson - 2013",
-          "related":["svg"],
+          "related": ["svg"],
           "link": "http://www.amazon.com/RaphaelJS-Graphics-Visualization-Chris-Wilson/dp/1449365361"
         },
         {
           "title": "Sams Teach Yourself SVG in 24 Hours by Micah Laaker",
-          "related":["svg"],
+          "related": ["svg"],
           "link": "http://www.amazon.com/Sams-Teach-Yourself-SVG-Hours/dp/0672322900"
         },
         {
           "title": "SCALABLE, un libro sobre SVG by Jorge Aznar Tobajas - 2014",
-          "related":["svg"],
+          "related": ["svg"],
           "link": "http://www.leanpub.com/scalable/"
         },
         {
           "title": "SVG Essentials by J. David Eisenberg - 2002",
-          "related":["svg"],
+          "related": ["svg"],
           "link": "http://shop.oreilly.com/product/9780596002237.do"
         },
         {
           "title": "SVG Pocket Guide by Joni Trythall - 2014",
-          "related":["svg"],
+          "related": ["svg"],
           "link": "http://svgpocketguide.com/"
         }
       ]
     }],
     "CSS": [{
-      "related":["css"],
+      "related": ["css"],
       "books": [
         {
           "title": "CSS Secrets",
-          "related":["css"],
+          "related": ["css"],
           "link": "http://shop.oreilly.com/product/0636920031123.do"
         },
         {
           "title": "CSS: The Missing Manual",
-          "related":["css"],
+          "related": ["css"],
           "link": "http://shop.oreilly.com/product/0636920036357.do"
+        },
+        {
+          "title": "CSS: The Definitive Guide ",
+          "related": ["css"],
+          "link": "http://www.amazon.com/gp/aws/cart/add.html?ASIN.1=0596527330&Quantity.1=1&AWSAccessKeyId=AKIAJE33OKRWFKUZ45DA&AssociateTag=reactdom-20"
+        },
+        {
+          "title": "The Book of CSS3: A Developer’s Guide to the Future of Web Design",
+          "related": ["css"],
+          "link": "https://www.amazon.com/Book-CSS3-Developers-Future-Design/dp/1593275803/ref=sr_1_1?ie=UTF8&qid=1499288840&sr=8-1&keywords=The+Book+of+CSS3%3A+A+Developer%27s+Guide+to+the+Future+of+Web+Design"
+        },
+        {
+          "title": "CSS Pocket Reference",
+          "related": ["css"],
+          "link": "https://www.amazon.com/CSS-Pocket-Reference-Visual-Presentation/dp/1449399037/ref=sr_1_1?ie=UTF8&qid=1499288980&sr=8-1&keywords=CSS+Pocket+Reference%3A+Visual+Presentation+for+the+Web"
+        },
+        {
+          "title": "CSS Mastery: Advanced Web Standards Solutions",
+          "related": ["css"],
+          "link": "https://www.amazon.com/CSS-Mastery-Andy-Budd/dp/1430258632/ref=sr_1_1?ie=UTF8&qid=1499288961&sr=8-1&keywords=CSS+Mastery"
         }
       ]
     }]
