@@ -34,6 +34,21 @@
           "link": "http://bit.ly/PerformanceProof"
         }
       ]
+    }],
+    "CSS": [{
+      "related":["css"],
+      "conference": [
+        {
+          "title": "CSSConf",
+          "related":["css"],
+          "link": "http://cssconf.org/"
+        },
+        {
+          "title": "Css Dev Conf",
+          "related":["css"],
+          "link": "https://blog.cssdevconf.com/"
+        }
+      ]
     }]
   }
 ]
