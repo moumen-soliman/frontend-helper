@@ -375,6 +375,14 @@
           "bag.js": "https://github.com/nodeca/bag.js",
           "basil.js": "https://github.com/Wisembly/basil.js"
         }]
+      },
+      {
+        "title": "Javascript RegExp",
+        "related": ["javascript"],
+        "link": [{
+          "RegExr": "http://regexr.com/",
+          "RegEx101": "https://regex101.com/#javascript"
+        }]
       }
     ]
   }]
