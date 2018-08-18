@@ -60,6 +60,8 @@ export default {
   padding: 0;
   .navbar {
     background: white;
+    margin-top: 30px;
+    margin-bottom: 20px;
     .nav-link {
       color: rgba(0,0,0,.5) !important;
     }

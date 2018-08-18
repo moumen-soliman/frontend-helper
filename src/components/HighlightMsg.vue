@@ -22,6 +22,10 @@ div {
   color: white;
   padding: 5px 10px;
   font-size: 0.8em;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 22;
   a {
     color: white;
     text-decoration: underline;
