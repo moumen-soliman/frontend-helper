@@ -382,7 +382,7 @@
       },
       {
         "title": "Javascript API Libraries",
-        "related": ["javascript"],
+        "related": ["javascript", "js-api-libraries"],
         "link": [{
           "axios": "https://github.com/axios/axios",
           "bottleneck": "https://github.com/SGrondin/bottleneck",
@@ -394,15 +394,17 @@
         }]
       },
       {
-        "title": "Package Managers",
-        "related": ["javascript"],
+        "title": "Javascript Package Managers",
+        "related": ["javascript", "package-managers"],
         "link": [{
-          "npmjs": "https://www.npmjs.com/",
+          "npm": "https://www.npmjs.com/",
           "bower": "https://github.com/bower/bower",
           "component": "https://github.com/componentjs/component",
           "yarn": "https://yarnpkg.com/",
           "jam": "https://github.com/caolan/jam",
-          "volo": "https://github.com/volojs/volo"
+          "volo": "https://github.com/volojs/volo",
+          "Duo": "duojs.org",
+          "JSPM": "jspm.io"
         }]
       }
     ]
