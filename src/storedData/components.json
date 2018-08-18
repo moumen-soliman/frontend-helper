@@ -322,6 +322,18 @@
           "dustjs": "https://github.com/linkedin/dustjs/",
           "eco": "https://github.com/sstephenson/eco/"
         }]
+      },
+      {
+        "title": "QA (Linting)",
+        "related": ["javascript"],
+        "link": [{
+          "ESLint": "https://github.com/eslint/eslint",
+          "JSLint": "https://github.com/douglascrockford/JSLint",
+          "JSHint": "https://github.com/jshint/jshint/",
+          "jscs": "https://github.com/jscs-dev/node-jscs",
+          "prettier": "https://github.com/prettier/prettier",
+          "jsfmt": "https://github.com/rdio/jsfmt"
+        }]
       }
     ]
   }]
