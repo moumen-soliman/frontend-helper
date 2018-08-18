@@ -1,7 +1,6 @@
 <template>
   <div>
-          {{currentPage}}
-
+    {{currentPage}}
     <div v-for="post in filteredPage" :key="post.title">
       <b-img-lazy :src="post.img" width="100"/><br>
       {{post.title}}
@@ -25,8 +24,8 @@ export default {
     filteredPage () {
       return this.items
         .filter(post => {
-          var zaz = post.link.indexOf(this.currentPage.toLowerCase()) > -1
-          return zaz
+          var includedLink = post.link.indexOf(this.currentPage.toLowerCase()) > -1
+          return includedLink
         })
     }
   }
