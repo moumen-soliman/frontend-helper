@@ -84,6 +84,61 @@
           "link": "https://codeburst.io/how-to-create-a-beautiful-animated-loader-with-nothing-but-css-d1962fc5a66c"
         }
       ]
+    }],
+    "Javascript": [{
+      "related":["javascript"],
+      "tutorials": [
+        {
+          "title": "CSS Diner",
+          "related": ["javascript"],
+          "link": "https://flukeout.github.io/"
+        },
+        {
+          "title": "CSS 101",
+          "related": ["javascript"],
+          "link": "http://www.css-101.org/"
+        },
+        {
+          "title": "CSS Grid PlayGround",
+          "related": ["javascript"],
+          "link": "https://mozilladevelopers.github.io/playground/"
+        },
+        {
+          "title": "Community Curated CSS Resources",
+          "related": ["javascript"],
+          "link": "https://hackr.io/tutorials/learn-css"
+        },
+        {
+          "title": "30 Seconds of CSS",
+          "related": ["javascript"],
+          "link": "https://atomiks.github.io/30-seconds-of-css/"
+        },
+        {
+          "title": "Alignment with Flexbox",
+          "related": ["javascript"],
+          "link": "https://youtu.be/UdvFZh8DMUs"
+        },
+        {
+          "title": "Make the Perfect Responsive Grid with CSS",
+          "related": ["javascript"],
+          "link": "https://codeburst.io/make-the-perfect-responsive-grid-with-css-df6862984e6"
+        },
+        {
+          "title": "How To Animate Using CSS",
+          "related": ["javascript"],
+          "link": "https://codeburst.io/how-to-animate-using-css-27e04208ee8"
+        },
+        {
+          "title": "Clearing your Front End Job Interview — CSS",
+          "related": ["javascript"],
+          "link": "https://codeburst.io/clearing-your-front-end-job-interview-css-95bdd82871f2"
+        },
+        {
+          "title": "How to create a beautiful animated loader with nothing but CSS",
+          "related": ["javascript"],
+          "link": "https://codeburst.io/how-to-create-a-beautiful-animated-loader-with-nothing-but-css-d1962fc5a66c"
+        }
+      ]
     }]
   }
 ]
