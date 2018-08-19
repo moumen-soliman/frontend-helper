@@ -418,6 +418,40 @@
           "Brunch": "http://brunch.io/",
           "Grunt": "http://gruntjs.com/"
         }]
+      },
+      {
+        "title": "MV* Frameworks and Libraries",
+        "related": ["javascript", "js-frameworks", "js-libraries"],
+        "link": [{
+          "angular.js": "https://github.com/angular/angular.js",
+          "vue": "https://github.com/vuejs/vue",
+          "ember.js": "https://github.com/emberjs/ember.js",
+          "react": "https://facebook.github.io/react/",
+          "backbone": "https://github.com/jashkenas/backbone",
+          "meteor": "https://github.com/meteor/meteor",
+          "ractive": "https://github.com/ractivejs/ractive",
+          "aurelia": "http://aurelia.io",
+          "knockout": "https://github.com/knockout/knockout",
+          "spine": "https://github.com/spine/spine",
+          "espresso.js": "https://github.com/techlayer/espresso.js",
+          "canjs": "https://github.com/canjs/canjs",
+          "hyperapp": "https://github.com/hyperapp/hyperapp",
+          "preact": "https://github.com/developit/preact",
+          "nativescript": "https://github.com/NativeScript/NativeScript",
+          "react-native": "https://github.com/facebook/react-native",
+          "riot": "https://github.com/riot/riot",
+          "thorax": "https://github.com/walmartlabs/thorax",
+          "chaplin": "https://github.com/chaplinjs/chaplin",
+          "marionette": "https://github.com/marionettejs/backbone.marionette",
+          "ripple": "https://github.com/ripplejs/ripple",
+          "rivets": "https://github.com/mikeric/rivets",
+          "derby": "https://github.com/derbyjs/derby",
+          "way.js": "https://github.com/gwendall/way.js",
+          "mithril.js": "https://github.com/lhorie/mithril.js",
+          "jsblocks": "https://github.com/astoilkov/jsblocks",
+          "LiquidLava": "http://www.lava-framework.com/",
+          "feathers": "https://github.com/feathersjs/feathers"
+        }]
       }
     ]
   }]
