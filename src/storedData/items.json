@@ -28,10 +28,10 @@
     "img": "javascript.png"
   },
   {
-    "title": "PWA",
+    "title": "Progressive web apps",
     "link": ["pwa"],
     "category": "pwaCategory",
-    "def": "",
+    "def": "Progressive web apps use modern web APIs along with traditional progressive enhancement strategy to create cross-platform web applications. These apps work everywhere and provide several features that give them the same user experience advantages as native apps. This set of docs tells you all you need to know about them.",
     "img": "pwa.png"
   },
   {
