@@ -1,54 +1,44 @@
 [
   {
-    "HTML": [{
-      "related":["html"],
-      "conference": [
-        {
-          "title": "HTML5 Developer Conference",
-          "related":["html"],
-          "link": "http://html5devconf.com/videos.html"
-        },
-        {
-          "title": "Dart: HTML of the Future, Today!",
-          "related":["html"],
-          "link": "https://www.youtube.com/watch?v=euCNWhs7ivQ"
-        },
-        {
-          "title": "Google I/O 2012 - GRITS: PvP Gaming with HTML, by Colton McAnlis",
-          "related":["html", "canvas"],
-          "link": "https://www.youtube.com/watch?v=Prkyd5n0P7k"
-        },
-        {
-          "title": "HTML5 Canvas Animation with Javascript, by Josh Robertson",
-          "related":["html", "canvas"],
-          "link": "https://www.youtube.com/watch?v=sLt9WeyGVEQ"
-        },
-        {
-          "title": "The Making of an HTML5 Platform Game, by David Geary",
-          "related":["html", "canvas"],
-          "link": "https://www.youtube.com/watch?v=S256vAqGY6c"
-        },
-        {
-          "title": "Performance Proof google",
-          "related": ["html", "performance", "performance-tool"],
-          "link": "http://bit.ly/PerformanceProof"
-        }
-      ]
-    }],
-    "CSS": [{
-      "related":["css"],
-      "conference": [
-        {
-          "title": "CSSConf",
-          "related":["css"],
-          "link": "http://cssconf.org/"
-        },
-        {
-          "title": "Css Dev Conf",
-          "related":["css"],
-          "link": "https://blog.cssdevconf.com/"
-        }
-      ]
-    }]
+    "title": "HTML5 Developer Conference",
+    "related":["html"],
+    "link": "http://html5devconf.com/videos.html"
+  },
+  {
+    "title": "Dart: HTML of the Future, Today!",
+    "related":["html"],
+    "link": "https://www.youtube.com/watch?v=euCNWhs7ivQ"
+  },
+  {
+    "title": "Google I/O 2012 - GRITS: PvP Gaming with HTML, by Colton McAnlis",
+    "related":["html", "canvas"],
+    "link": "https://www.youtube.com/watch?v=Prkyd5n0P7k"
+  },
+  {
+    "title": "HTML5 Canvas Animation with Javascript, by Josh Robertson",
+    "related":["html", "canvas"],
+    "link": "https://www.youtube.com/watch?v=sLt9WeyGVEQ"
+  },
+  {
+    "title": "The Making of an HTML5 Platform Game, by David Geary",
+    "related":["html", "canvas"],
+    "link": "https://www.youtube.com/watch?v=S256vAqGY6c"
+  },
+  {
+    "title": "Performance Proof google",
+    "related": ["html", "performance", "performance-tool"],
+    "link": "http://bit.ly/PerformanceProof"
+  },
+
+
+  {
+    "title": "CSSConf",
+    "related":["css"],
+    "link": "http://cssconf.org/"
+  },
+  {
+    "title": "Css Dev Conf",
+    "related":["css"],
+    "link": "https://blog.cssdevconf.com/"
   }
 ]
