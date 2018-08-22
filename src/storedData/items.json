@@ -3,282 +3,329 @@
     "title": "HTML",
     "link": ["html"],
     "category": "htmlCategory",
+    "def": "HTML (Hypertext Markup Language) is a text-based approach to describing how content contained within an HTML file is structured. This markup tells a web browser how to display the text, images and other forms of multimedia on a webpage.",
     "img": "html.png"
   },
   {
     "title": "CSS",
     "link": ["css"],
     "category": "cssCategory",
+    "def": "Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views. It allows for the separation of presentation and content, and includes the characteristics of layouts, colors and fonts. CSS builds upon HTML to make webpages more interactive and appealing to the user.",
     "img": "css.png"
   },
   {
     "title": "SVG",
     "link": ["svg"],
     "category": "svgCategory",
+    "def": "SVG is similar to Adobe's proprietary Flash technology, but it is a text-based open Web standard instead of a closed binary format. It is explicitly designed to work with other web standards such as CSS, DOM, and SMIL.",
     "img": "svg.png"
   },
   {
     "title": "Javascript",
     "link": ["javascript"],
     "category": "javascriptCategory",
+    "def": "",
     "img": "javascript.png"
   },
   {
     "title": "PWA",
     "link": ["pwa"],
     "category": "pwaCategory",
+    "def": "",
     "img": "pwa.png"
   },
   {
     "title": "Sass",
     "link": ["sass"],
     "category": "sassCategory",
+    "def": "",
     "img": "sass.png"
   },
   {
     "title": "PostCSS",
     "link": ["postcss"],
     "category": "postcssCategory",
+    "def": "",
     "img": "postcss.png"
   },
   {
     "title": "Less",
     "link": ["less"],
     "category": "lessCategory",
+    "def": "",
     "img": "less.png"
   },
   {
     "title": "Stylus",
     "link": ["stylus"],
     "category": "stylusCategory",
+    "def": "",
     "img": "stylus.png"
   },
   {
     "title": "Normalize",
     "link": ["normalize"],
     "category": "normalizeCategory",
+    "def": "",
     "img": "normalize.jpg"
   },
   {
     "title": "Bootstrap",
     "link": ["bootstrap"],
     "category": "bootstrapCategory",
+    "def": "",
     "img": "bootstrap.png"
   },
   {
     "title": "Bulma",
     "link": ["bulma"],
     "category": "bulmaCategory",
+    "def": "",
     "img": "bulma.png"
   },
   {
     "title": "Materialize",
     "link": ["materialize"],
     "category": "materializeCategory",
+    "def": "",
     "img": "materialize.png"
   },
   {
     "title": "BEM",
     "link": ["bem"],
     "category": "bemCategory",
+    "def": "",
     "img": "bem.png"
   },
   {
     "title": "OOCSS",
     "link": ["oocss"],
     "category": "oocssCategory",
+    "def": "",
     "img": "oocss.png"
   },
   {
     "title": "SMACSS",
     "link": ["smacss"],
     "category": "smacssCategory",
+    "def": "",
     "img": "smacss.png"
   },
   {
     "title": "SUITCSS",
     "link": ["suitcss"],
     "category": "suitcssCategory",
+    "def": "",
     "img": "suitcss.png"
   },
   {
     "title": "Atomic CSS",
     "link": ["acss"],
     "category": "acssCategory",
+    "def": "",
     "img": "acss.png"
   },
   {
     "title": "npm",
     "link": ["npm"],
     "category": "npmCategory",
+    "def": "",
     "img": "npm.png"
   },
   {
     "title": "yarn",
     "link": ["yarn"],
     "category": "yarnCategory",
+    "def": "",
     "img": "yarn.png"
   },
   {
     "title": "Gulp",
     "link": ["gulp"],
     "category": "gulpCategory",
+    "def": "",
     "img": "gulp.png"
   },
   {
     "title": "Grunt",
     "link": ["grunt"],
     "category": "gruntCategory",
+    "def": "",
     "img": "grunt.png"
   },
   {
     "title": "Webpack",
     "link": ["webpack"],
     "category": "webpackCategory",
+    "def": "",
     "img": "webpack.png"
   },
   {
     "title": "ESLint",
     "link": ["eslint"],
     "category": "eslintCategory",
+    "def": "",
     "img": "eslint.png"
   },
   {
     "title": "JSLint",
     "link": ["jslint"],
     "category": "jslintCategory",
+    "def": "",
     "img": "jslint.png"
   },
   {
     "title": "JSHint",
     "link": ["jshint"],
     "category": "jshintCategory",
+    "def": "",
     "img": "jshint.png"
   },
   {
     "title": "JSCS",
     "link": ["jscs"],
     "category": "jscsCategory",
+    "def": "",
     "img": "jscs.png"
   },
   {
     "title": "Backbone",
     "link": ["backbone"],
     "category": "backboneCategory",
+    "def": "",
     "img": "backbone.png"
   },
   {
     "title": "JSON",
     "link": ["json"],
     "category": "jsonCategory",
+    "def": "",
     "img": "json.png"
   },
   {
     "title": "JQuery",
     "link": ["jquery"],
     "category": "jqueryCategory",
+    "def": "",
     "img": "jquery.png"
   },
   {
     "title": "Vue.js",
     "link": ["vue"],
     "category": "vueCategory",
+    "def": "",
     "img": "vue.png"
   },
   {
     "title": "React.js",
     "link": ["react"],
     "category": "reactCategory",
+    "def": "",
     "img": "react.png"
   },
   {
     "title": "Angular.js",
     "link": ["angular"],
     "category": "angularCategory",
+    "def": "",
     "img": "angular.png"
   },
   {
     "title": "Meteor.js",
     "link": ["meteor"],
     "category": "meteorCategory",
+    "def": "",
     "img": "meteor.png"
   },
   {
     "title": "Jest",
     "link": ["jest"],
     "category": "jestCategory",
+    "def": "",
     "img": "jest.jpg"
   },
   {
     "title": "Karma",
     "link": ["karma"],
     "category": "karmaCategory",
+    "def": "",
     "img": "karma.png"
   },
   {
     "title": "Protractor",
     "link": ["protractor"],
     "category": "protractorCategory",
+    "def": "",
     "img": "protractor.png"
   },
   {
     "title": "Jasmine",
     "link": ["jasmine"],
     "category": "jasmineCategory",
+    "def": "",
     "img": "jasmine.png"
   },
   {
     "title": "Mocha",
     "link": ["mocha"],
     "category": "mochaCategory",
+    "def": "",
     "img": "mocha.png"
   },
   {
     "title": "Typescript",
     "link": ["typescript"],
     "category": "typescriptCategory",
+    "def": "",
     "img": "typescript.png"
   },
   {
     "title": "Vuex",
     "link": ["vuex"],
     "category": "vuexCategory",
+    "def": "",
     "img": "vuex.png"
   },
   {
     "title": "Redux",
     "link": ["redux"],
     "category": "reduxCategory",
+    "def": "",
     "img": "redux.png"
   },
   {
     "title": "MobX",
     "link": ["mobx"],
     "category": "mobxCategory",
+    "def": "",
     "img": "mobx.png"
   },
   {
     "title": "RxJS",
     "link": ["rxjs"],
     "category": "rxjsCategory",
+    "def": "",
     "img": "rxjs.png"
   },
   {
     "title": "NextJS",
     "link": ["nextjs"],
     "category": "nextjsCategory",
+    "def": "",
     "img": "nextjs.png"
   },
   {
     "title": "NuxtJS",
     "link": ["nuxtjs"],
     "category": "nuxtjsCategory",
+    "def": "",
     "img": "nuxtjs.png"
   },
   {
     "title": "Web Accessibility",
     "link": ["webaim"],
     "category": "webaimCategory",
+    "def": "",
     "img": "webaim.png"
   }
 ]
