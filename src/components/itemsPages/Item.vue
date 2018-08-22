@@ -80,6 +80,9 @@ export default {
   border: 1px solid #e3e3e3;
   color: #373757;
   text-decoration: none;
+  &:hover {
+    border: 1px solid #1e90ff;
+  }
 }
 h3 {
   color: #373757;
