@@ -38,28 +38,28 @@
     "title": "Sass",
     "link": ["sass"],
     "category": "sassCategory",
-    "def": "",
+    "def": "Sass is a stylesheet language with a main implementation in Ruby. It is an extension of CSS that makes improvements to the old stylesheet format, such as being able to declare variables and using a cleaner nesting syntax.",
     "img": "sass.png"
   },
   {
     "title": "PostCSS",
     "link": ["postcss"],
     "category": "postcssCategory",
-    "def": "",
+    "def": "PostCSS is a tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more.",
     "img": "postcss.png"
   },
   {
     "title": "Less",
     "link": ["less"],
     "category": "lessCategory",
-    "def": "",
+    "def": "Less (which stands for Leaner Style Sheets) is a backwards-compatible language extension for CSS. This is the official documentation for Less, the language and Less.js, the JavaScript tool that converts your Less styles to CSS styles.",
     "img": "less.png"
   },
   {
     "title": "Stylus",
     "link": ["stylus"],
     "category": "stylusCategory",
-    "def": "",
+    "def": "Stylus is a revolutionary new language, providing an efficient, dynamic, and expressive way to generate CSS. Supporting both an indented syntax and regular CSS style.",
     "img": "stylus.png"
   },
   {
