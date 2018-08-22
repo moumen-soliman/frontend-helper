@@ -1,5 +1,6 @@
 <template>
   <b-container>
+    <router-link class="backHome-arrow" :to="`/`" exact>⮪</router-link>
     <b-row>
       <div class="item-container" v-for="post in filiteredPage">
         <b-col>
@@ -66,6 +67,20 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.fa-arrow-left:before {
+  content:"\f060"
+}
+.backHome-arrow {
+  width: 39px;
+  height: 40px;
+  background: #dedfe0;
+  border-radius: 5px;
+  padding: 0px 7px;
+  font-size: 26px;
+  border: 1px solid #e3e3e3;
+  color: #373757;
+  text-decoration: none;
+}
 h3 {
   color: #373757;
 }
