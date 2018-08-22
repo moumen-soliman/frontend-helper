@@ -2,56 +2,56 @@
   {
     "title": "HTML",
     "link": ["html"],
-    "url": "htmlCategory",
+    "url": "https://www.w3.org/html/",
     "overview": "HTML (Hypertext Markup Language) is a text-based approach to describing how content contained within an HTML file is structured. This markup tells a web browser how to display the text, images and other forms of multimedia on a webpage.",
     "img": "html.png"
   },
   {
     "title": "CSS",
     "link": ["css"],
-    "url": "cssCategory",
+    "url": "https://www.w3.org/Style/CSS/Overview.en.html",
     "overview": "Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views. It allows for the separation of presentation and content, and includes the characteristics of layouts, colors and fonts. CSS builds upon HTML to make webpages more interactive and appealing to the user.",
     "img": "css.png"
   },
   {
     "title": "SVG",
     "link": ["svg"],
-    "url": "svgCategory",
+    "url": "https://www.w3.org/TR/SVG2/",
     "overview": "Scalable Vector Graphics (SVG) is similar to Adobe's proprietary Flash technology, but it is a text-based open Web standard instead of a closed binary format. It is explicitly designed to work with other web standards such as CSS, DOM, and SMIL.",
     "img": "svg.png"
   },
   {
     "title": "Javascript",
     "link": ["javascript"],
-    "url": "javascriptCategory",
+    "url": "https://www.javascript.com/",
     "overview": "JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive (e.x. having complex animations, clickable buttons, popup menus, etc.).  There are also more advanced server side versions of javascript such as Node.Js which allow you to add more functionality to a website than simply downloading files (such as realtime collaboration between multiple computers). Inside a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to provide programmatic control over them.",
     "img": "javascript.png"
   },
   {
     "title": "Progressive web apps",
     "link": ["pwa"],
-    "url": "pwaCategory",
+    "url": "https://developers.google.com/web/progressive-web-apps/",
     "overview": "Progressive web apps use modern web APIs along with traditional progressive enhancement strategy to create cross-platform web applications. These apps work everywhere and provide several features that give them the same user experience advantages as native apps. This set of docs tells you all you need to know about them.",
     "img": "pwa.png"
   },
   {
     "title": "Sass",
     "link": ["sass"],
-    "url": "sassCategory",
+    "url": "https://sass-lang.com/",
     "overview": "Sass is a stylesheet language with a main implementation in Ruby. It is an extension of CSS that makes improvements to the old stylesheet format, such as being able to declare variables and using a cleaner nesting syntax.",
     "img": "sass.png"
   },
   {
     "title": "PostCSS",
     "link": ["postcss"],
-    "url": "postcssCategory",
+    "url": "https://postcss.org/",
     "overview": "PostCSS is a tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more.",
     "img": "postcss.png"
   },
   {
     "title": "Less",
     "link": ["less"],
-    "url": "lessCategory",
+    "url": "http://lesscss.org/",
     "overview": "Less (which stands for Leaner Style Sheets) is a backwards-compatible language extension for CSS. This is the official documentation for Less, the language and Less.js, the JavaScript tool that converts your Less styles to CSS styles.",
     "img": "less.png"
   },
