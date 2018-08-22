@@ -5,6 +5,7 @@ import Home from '../components/Home'
 import About from '../components/About'
 import Contact from '../components/Contact'
 import Articles from '../components/Articles'
+import Conferences from '../components/Conferences'
 import Contributors from '../components/Contributors'
 import NotFound from '../components/NotFound'
 
@@ -45,6 +46,11 @@ export default new Router({
       path: '/Articles',
       name: 'Articles',
       component: Articles
+    },
+    {
+      path: '/Conferences',
+      name: 'Conferences',
+      component: Conferences
     },
     {
       path: '/Contributors',

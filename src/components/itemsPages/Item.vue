@@ -45,13 +45,6 @@
           <li><a :href="post.link" target="_blank">{{post.title}}</a><br></li>
         </b-col>
       </b-row>
-      <hr>
-      <h3>Conferences</h3><br>
-      <b-row>
-        <b-col cols="6" v-for="post in filiteredConf">
-          <li><a :href="post.link" target="_blank">{{post.title}}</a><br></li>
-        </b-col>
-      </b-row>
     </div>
   </b-container>
 </template>
@@ -61,7 +54,6 @@ import items from '../../storedData/items.json';
 import components from '../../storedData/components.json';
 import books from '../../storedData/books.json';
 import tutorials from '../../storedData/tutorials.json';
-import conf from '../../storedData/conference.json';
 
 export default {
   name: 'Item',
@@ -71,7 +63,6 @@ export default {
       components: components,
       books: books,
       tutorials: tutorials,
-      conf: conf,
       currentPage: this.$route.query.page,
       info : null
     }
@@ -104,14 +95,7 @@ export default {
             var includedLink = post.related.toString().indexOf(this.currentPage.toLowerCase()) > -1
             return includedLink;
           });
-      },
-      filiteredConf () {
-        return this.conf
-          .filter(post => {
-            var includedLink = post.related.toString().indexOf(this.currentPage.toLowerCase()) > -1
-            return includedLink;
-          });
-      },
+      }
     }
   }
 </script>

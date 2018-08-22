@@ -41,11 +41,16 @@ export default {
         },
         {
           id: 4,
+          text: 'Conferences',
+          page:'/Conferences'
+        },
+        {
+          id: 5,
           text: 'Contributors',
           page:'/Contributors'
         },
         {
-          id: 5,
+          id: 6,
           text: 'Contact',
           page: '/Contact'
         }

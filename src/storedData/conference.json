@@ -1,44 +1,344 @@
 [
   {
-    "title": "HTML5 Developer Conference",
-    "related":["html"],
-    "link": "http://html5devconf.com/videos.html"
+    "conference": "CodeMash",
+    "location": "Sandusky, Ohio",
+    "date": "January 9 - 12, 2018",
+    "link": "http://www.codemash.org/"
   },
   {
-    "title": "Dart: HTML of the Future, Today!",
-    "related":["html"],
-    "link": "https://www.youtube.com/watch?v=euCNWhs7ivQ"
+    "conference": "NDC London",
+    "location": "London, United Kingdom",
+    "date": "January 15 - 19, 2018",
+    "link": "http://ndc-london.com/"
   },
   {
-    "title": "Google I/O 2012 - GRITS: PvP Gaming with HTML, by Colton McAnlis",
-    "related":["html", "canvas"],
-    "link": "https://www.youtube.com/watch?v=Prkyd5n0P7k"
+    "conference": "React Foo",
+    "location": "Pune, India",
+    "date": "January 19 - 20, 2018",
+    "link": "https://reactfoo.in/"
   },
   {
-    "title": "HTML5 Canvas Animation with Javascript, by Josh Robertson",
-    "related":["html", "canvas"],
-    "link": "https://www.youtube.com/watch?v=sLt9WeyGVEQ"
+    "conference": "DNN Summit",
+    "location": "Denver, Colorado",
+    "date": "February 6 - 10, 2018",
+    "link": "http://www.dnnsummit.org/"
   },
   {
-    "title": "The Making of an HTML5 Platform Game, by David Geary",
-    "related":["html", "canvas"],
-    "link": "https://www.youtube.com/watch?v=S256vAqGY6c"
+    "conference": "Forward JS",
+    "location": "San Francisco, California",
+    "date": "February 11 - 16, 2018",
+    "link": "https://forwardjs.com/"
   },
   {
-    "title": "Performance Proof google",
-    "related": ["html", "performance", "performance-tool"],
-    "link": "http://bit.ly/PerformanceProof"
-  },
-
-
-  {
-    "title": "CSSConf",
-    "related":["css"],
-    "link": "http://cssconf.org/"
+    "conference": "Front Fest",
+    "location": "Madrid, Spain",
+    "date": "February 17, 2018",
+    "link": "http://frontfest.es/"
   },
   {
-    "title": "Css Dev Conf",
-    "related":["css"],
-    "link": "https://blog.cssdevconf.com/"
+    "conference": "DevNexus",
+    "location": "Atlanta, Georgia",
+    "date": "February 21 - 23, 2018",
+    "link": "https://devnexus.com/"
+  },
+  {
+    "conference": "Assert(js)",
+    "location": "San Antonio, Texas",
+    "date": "February 22, 2018",
+    "link": "https://www.assertjs.com/"
+  },
+  {
+    "conference": "JSConf Iceland",
+    "location": "Reykjavik, Iceland",
+    "date": "March 1 - 2, 2018",
+    "link": "https://2018.jsconf.is/"
+  },
+  {
+    "conference": "ngVikings",
+    "location": "Helsinki, Finland",
+    "date": "March 1 - 2, 2018",
+    "link": "https://ngvikings.org/"
+  },
+  {
+    "conference": ".concat()",
+    "location": "Salzburg, Austria",
+    "date": "March 3, 2018",
+    "link": "https://conc.at/"
+  },
+  {
+    "conference": "ConFoo Montreal",
+    "location": "Montreal, Canada",
+    "date": "March 7 - 9, 2018",
+    "link": "https://confoo.ca/en/"
+  },
+  {
+    "conference": "ReactFest",
+    "location": "London, United Kingdom",
+    "date": "March 9, 2018",
+    "link": "https://reactfest.com/"
+  },
+  {
+    "conference": "EmberConf",
+    "location": "Portland, Oregon",
+    "date": "March 13 - 14, 2018",
+    "link": "http://emberconf.com/"
+  },
+  {
+    "conference": "UpFront Conf",
+    "location": "Manchester, United Kingdom",
+    "date": "March 16, 2018",
+    "link": "http://upfrontconf.com/"
+  },
+  {
+    "conference": "CSSConf AU",
+    "location": "Melbourne, Australia",
+    "date": "March 20, 2018",
+    "link": "https://2018.cssconf.com.au/"
+  },
+  {
+    "conference": "JSConf AU",
+    "location": "Melbourne, Australia",
+    "date": "March 21 - 22, 2018",
+    "link": "https://2018.jsconfau.com/"
+  },
+  {
+    "conference": "JazzCon.Tech",
+    "location": "New Orleans, Louisiana",
+    "date": "March 21 - 23, 2018",
+    "link": "http://jazzcon.tech/"
+  },
+  {
+    "conference": "Render",
+    "location": "Oxford, United Kingdom",
+    "date": "March 23, 2018",
+    "link": "http://render-conf.com/"
+  },
+  {
+    "conference": "VueConf US",
+    "location": "New Orleans, Louisiana",
+    "date": "March 26 - 28, 2018",
+    "link": "http://www.vueconf.us/"
+  },
+  {
+    "conference": "#PerfMatters US",
+    "location": "Redwood City, California",
+    "date": "March 27 - 28, 2018",
+    "link": "https://perfmattersconf.com/"
+  },
+  {
+    "conference": "CSS Dev Conf",
+    "location": "XAmoy(Xiamen), China",
+    "date": "March 31, 2018",
+    "link": "https://css.w3ctech.com/?l=en"
+  },
+  {
+    "conference": "ForwardJS Ottawa",
+    "location": "Ottawa, Canada",
+    "date": "April 3 - 6, 2018",
+    "link": "https://forwardjs.com/ottawa"
+  },
+  {
+    "conference": "University of Illinois Web Conference",
+    "location": "Champaign, Illinois",
+    "date": "April 4 - 8, 2018",
+    "link": "http://webcon.illinois.edu/"
+  },
+  {
+    "conference": "Frontend NE",
+    "location": "Newcastle Upon Tyne, United Kingdom",
+    "date": "April 5, 2018",
+    "link": "https://2018.frontendne.co.uk/"
+  },
+  {
+    "conference": "ng-conf",
+    "location": "Salt Lake City, Utah",
+    "date": "April 18 - 20, 2018",
+    "link": "https://www.ng-conf.org/"
+  },
+  {
+    "conference": "React Amsterdam",
+    "location": "Amsterdam, The Netherlands",
+    "date": "April 13, 2018",
+    "link": "https://react.amsterdam/"
+  },
+  {
+    "conference": "JSHeroes",
+    "location": "Cluj Napoca, Romania",
+    "date": "April 18 - 20, 2018",
+    "link": "https://jsheroes.io/"
+  },
+  {
+    "conference": "Stir Trek",
+    "location": "Columbus, OH",
+    "date": "May 4, 2018",
+    "link": "https://stirtrek.com/"
+  },
+  {
+    "conference": "NDC Minnesota",
+    "location": "St. Paul, Minnesota",
+    "date": "May 7 - 10, 2018",
+    "link": "https://ndcminnesota.com/"
+  },
+  {
+    "conference": "JS Day Italy",
+    "location": "Verona, Italy",
+    "date": "May 9 - 10, 2018",
+    "link": "https://jsday.it/"
+  },
+  {
+    "conference": "ReactEurope",
+    "location": "Paris, France",
+    "date": "May 15 - 18, 2018",
+    "link": "https://www.react-europe.org/"
+  },
+  {
+    "conference": "RevolutionConf",
+    "location": "Virginia Beach, Virginia",
+    "date": "May 17 - 18, 2018",
+    "link": "https://revolutionconf.com/"
+  },
+  {
+    "conference": "200OK",
+    "location": "Tulsa, Oklahoma",
+    "date": "May 18, 2018",
+    "link": "http://200ok.us/"
+  },
+  {
+    "conference": "NationJS",
+    "location": "Washington, D.C.",
+    "date": "May 18, 2018",
+    "link": "http://nationjs.com/"
+  },
+  {
+    "conference": "JS Day ES",
+    "location": "Madrid, Spain",
+    "date": "May 19, 2018",
+    "link": "http://2018.jsday.es/"
+  },
+  {
+    "conference": "HolyJS Piter",
+    "location": "Piter, Russia",
+    "date": "May 19 - 20, 2018",
+    "link": "https://holyjs-piter.ru/en/"
+  },
+  {
+    "conference": "Front-Trends",
+    "location": "Warsaw, Poland",
+    "date": "May 24 - 25, 2018",
+    "link": "http://front-trends.com/"
+  },
+  {
+    "conference": "You Gotta Love Frontend",
+    "location": "Kiev, Ukraine",
+    "date": "May 24 - 25, 2018",
+    "link": "http://yglf.com.ua/"
+  },
+  {
+    "conference": "DevSum",
+    "location": "Stockholm, Sweden",
+    "date": "May 31 - June 1, 2018",
+    "link": "http://www.devsum.se/"
+  },
+  {
+    "conference": "Music City Tech",
+    "location": "Nashville, Tennessee",
+    "date": "May 31 - June 2, 2018",
+    "link": "http://www.musiccitytech.com/"
+  },
+  {
+    "conference": "Frontend United",
+    "location": "Utrecht, Netherlands",
+    "date": "May 31 - June 3, 2018",
+    "link": "http://frontendunited.org/"
+  },
+  {
+    "conference": "CSSConf EU",
+    "location": "Berlin, Germany",
+    "date": "June 1, 2018",
+    "link": "http://cssconf.eu/"
+  },
+  {
+    "conference": "Amsterdam JS",
+    "location": "Amsterdam, The Netherlands",
+    "date": "June 1, 2018",
+    "link": "http://amsterdamjs.com/"
+  },
+  {
+    "conference": "JSConf EU",
+    "location": "Berlin, Germany",
+    "date": "June 2 - 3, 2018",
+    "link": "http://jsconf.eu/"
+  },
+  {
+    "conference": "Web Rebels",
+    "location": "Oslo, Norway",
+    "date": "June 4 - 5, 2018",
+    "link": "https://webrebels.org/"
+  },
+  {
+    "conference": "Prairie Dev Con",
+    "location": "Winnipeg, Canada",
+    "date": "June 5 - 6, 2018",
+    "link": "http://www.prairiedevcon.com/"
+  },
+  {
+    "conference": "Syntax Code & Craft Convention",
+    "location": "Charleston, South Carolina",
+    "date": "June 6 - 8, 2018",
+    "link": "https://2018.syntaxcon.com/"
+  },
+  {
+    "conference": "DEVit Web Conference",
+    "location": "Thessaloniki, Greece",
+    "date": "June 9, 2018",
+    "link": "http://devitconf.org/"
+  },
+  {
+    "conference": "O'Reilly Fluent",
+    "location": "San Jose, California",
+    "date": "June 11 - 14, 2018",
+    "link": "http://conferences.oreilly.com/fluent/fl-ca"
+  },
+  {
+    "conference": "NDC Oslo",
+    "location": "Oslo, Norway",
+    "date": "June 11 - 15, 2018",
+    "link": "http://ndcoslo.com/"
+  },
+  {
+    "conference": "BuzzJS",
+    "location": "New York City, New York",
+    "date": "June 15, 2018",
+    "link": "http://buzzjs.com/"
+  },
+  {
+    "conference": "ScotlandCSS",
+    "location": "Edinburgh, Scotland",
+    "date": "June 18, 2018",
+    "link": "http://scotlandcss.com/"
+  },
+  {
+    "conference": "ScotlandJS",
+    "location": "Edinburgh, Scotland",
+    "date": "June 19 - 20, 2018",
+    "link": "http://scotlandjs.com/"
+  },
+  {
+    "conference": "enterJS",
+    "location": "Darmstadt, Germany",
+    "date": "June 19 - 21, 2018",
+    "link": "https://www.enterjs.de/"
+  },
+  {
+    "conference": "AngularUP",
+    "location": "Tel Aviv, Israel",
+    "date": "June 21, 2018",
+    "link": "http://angular-up.com/"
+  },
+  {
+    "conference": "Dinosaurjs",
+    "location": "Denver, Colorado",
+    "date": "June 21 - 22, 2018",
+    "link": "https://dinosaurjs.org/"
   }
 ]
