@@ -87,7 +87,7 @@ h3 {
 .item-container {
   width: 100%;
   img {
-    width: 40px;
+    width: 65px;
     margin: auto;
     float: right;
   }
