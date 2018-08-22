@@ -1,7 +1,7 @@
 <template>
   <b-container>
     <b-row>
-      <div v-for="post in filiteredPage">
+      <div class="item-container" v-for="post in filiteredPage">
         <b-col>
           <b-img-lazy class="pull-right" :src="require(`../../assets/images/items/${post.img}`)"/>
         </b-col>
@@ -68,14 +68,18 @@ export default {
 h3 {
   color: #373757;
 }
-.item-details {
-  color: #373757;
-}
-img {
+.item-container {
+  width: 100%;
+  img {
     width: 40px;
     margin: auto;
     float: right;
+  }
+  .item-details {
+    color: #373757;
+  }
 }
+
 .main-ul {
   list-style: none;
   background: white;
