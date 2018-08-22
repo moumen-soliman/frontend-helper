@@ -80,21 +80,21 @@
     "title": "Bulma",
     "link": ["bulma"],
     "category": "bulmaCategory",
-    "overview": "",
+    "overview": "Modern CSS framework based on Flexbox",
     "img": "bulma.png"
   },
   {
     "title": "Materialize",
     "link": ["materialize"],
     "category": "materializeCategory",
-    "overview": "",
+    "overview": "A modern responsive front-end framework based on Material Design",
     "img": "materialize.png"
   },
   {
     "title": "BEM",
     "link": ["bem"],
     "category": "bemCategory",
-    "overview": "",
+    "overview": "BEM — Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development",
     "img": "bem.png"
   },
   {
