@@ -122,63 +122,63 @@
     "title": "Atomic CSS",
     "link": ["acss"],
     "category": "acssCategory",
-    "overview": "",
+    "overview": "Atomic CSS is a collection of single purpose styling units for maximum reuse that fits well with components in templated frameworks such as React, Ember or Angular. For more information we recommend that you read 'Challenging CSS best practices', watch the Atomic CSS presentation, or check this deck.",
     "img": "acss.png"
   },
   {
     "title": "npm",
     "link": ["npm"],
     "category": "npmCategory",
-    "overview": "",
+    "overview": "npm is the package manager for JavaScript and the world’s largest software registry. Discover packages of reusable code — and assemble them in powerful new ways.",
     "img": "npm.png"
   },
   {
     "title": "yarn",
     "link": ["yarn"],
     "category": "yarnCategory",
-    "overview": "",
+    "overview": "Yarn is a package manager for your code. It allows you to use and share code with other developers from around the world. Yarn does this quickly, securely, and reliably so you don’t ever have to worry.",
     "img": "yarn.png"
   },
   {
     "title": "Gulp",
     "link": ["gulp"],
     "category": "gulpCategory",
-    "overview": "",
+    "overview": "Automation - gulp is a toolkit that helps you automate painful or time-consuming tasks in your development workflow and Platform-agnostic - Integrations are built into all major IDEs and people are using gulp with PHP, .NET, Node.js, Java, and other platforms and Strong Ecosystem - Use npm modules to do anything you want + over 2000 curated plugins for streaming file transformations",
     "img": "gulp.png"
   },
   {
     "title": "Grunt",
     "link": ["grunt"],
     "category": "gruntCategory",
-    "overview": "",
+    "overview": "The Grunt ecosystem is huge and it's growing every day. With literally hundreds of plugins to choose from, you can use Grunt to automate just about anything with a minimum of effort. If someone hasn't already built what you need, authoring and publishing your own Grunt plugin to npm is a breeze.",
     "img": "grunt.png"
   },
   {
     "title": "Webpack",
     "link": ["webpack"],
     "category": "webpackCategory",
-    "overview": "",
+    "overview": " webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles.",
     "img": "webpack.png"
   },
   {
     "title": "ESLint",
     "link": ["eslint"],
     "category": "eslintCategory",
-    "overview": "",
+    "overview": "The pluggable linting utility for JavaScript and JSX",
     "img": "eslint.png"
   },
   {
     "title": "JSLint",
     "link": ["jslint"],
     "category": "jslintCategory",
-    "overview": "",
+    "overview": "jslint.js contains the jslint function. It parses and analyzes a source file, returning an object with information about the file. It can also take an object that sets options.",
     "img": "jslint.png"
   },
   {
     "title": "JSHint",
     "link": ["jshint"],
     "category": "jshintCategory",
-    "overview": "",
+    "overview": "JSHint is a static code analysis tool used in software development for checking if JavaScript source code complies with coding rules. JSHint was created in 2011 by Anton Kovalyov as a fork of the JSLint project",
     "img": "jshint.png"
   },
   {
