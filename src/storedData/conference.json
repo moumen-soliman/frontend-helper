@@ -4,6 +4,7 @@
     "location": "Sandusky, Ohio",
     "date": "January 9 - 12, 2018",
     "month":"january",
+    "year": "2018",
     "link": "http://www.codemash.org/"
   },
   {
@@ -11,6 +12,7 @@
     "location": "London, United Kingdom",
     "date": "January 15 - 19, 2018",
     "month":"january",
+    "year": "2018",
     "link": "http://ndc-london.com/"
   },
   {
@@ -18,6 +20,7 @@
     "location": "Pune, India",
     "date": "January 19 - 20, 2018",
     "month":"january",
+    "year": "2018",
     "link": "https://reactfoo.in/"
   },
   {
@@ -25,6 +28,7 @@
     "location": "Denver, Colorado",
     "date": "February 6 - 10, 2018",
     "month":"february",
+    "year": "2018",
     "link": "http://www.dnnsummit.org/"
   },
   {
@@ -32,6 +36,7 @@
     "location": "San Francisco, California",
     "date": "February 11 - 16, 2018",
     "month":"february",
+    "year": "2018",
     "link": "https://forwardjs.com/"
   },
   {
@@ -39,6 +44,7 @@
     "location": "Madrid, Spain",
     "date": "February 17, 2018",
     "month":"february",
+    "year": "2018",
     "link": "http://frontfest.es/"
   },
   {
@@ -46,6 +52,7 @@
     "location": "Atlanta, Georgia",
     "date": "February 21 - 23, 2018",
     "month":"february",
+    "year": "2018",
     "link": "https://devnexus.com/"
   },
   {
@@ -53,6 +60,7 @@
     "location": "San Antonio, Texas",
     "date": "February 22, 2018",
     "month":"february",
+    "year": "2018",
     "link": "https://www.assertjs.com/"
   },
   {
@@ -60,6 +68,7 @@
     "location": "Reykjavik, Iceland",
     "date": "March 1 - 2, 2018",
     "month":"march",
+    "year": "2018",
     "link": "https://2018.jsconf.is/"
   },
   {
@@ -67,6 +76,7 @@
     "location": "Helsinki, Finland",
     "date": "March 1 - 2, 2018",
     "month":"march",
+    "year": "2018",
     "link": "https://ngvikings.org/"
   },
   {
@@ -74,6 +84,7 @@
     "location": "Salzburg, Austria",
     "date": "March 3, 2018",
     "month":"march",
+    "year": "2018",
     "link": "https://conc.at/"
   },
   {
@@ -81,6 +92,7 @@
     "location": "Montreal, Canada",
     "date": "March 7 - 9, 2018",
     "month":"march",
+    "year": "2018",
     "link": "https://confoo.ca/en/"
   },
   {
@@ -88,6 +100,7 @@
     "location": "London, United Kingdom",
     "date": "March 9, 2018",
     "month":"march",
+    "year": "2018",
     "link": "https://reactfest.com/"
   },
   {
@@ -95,6 +108,7 @@
     "location": "Portland, Oregon",
     "date": "March 13 - 14, 2018",
     "month":"march",
+    "year": "2018",
     "link": "http://emberconf.com/"
   },
   {
@@ -102,6 +116,7 @@
     "location": "Manchester, United Kingdom",
     "date": "March 16, 2018",
     "month":"march",
+    "year": "2018",
     "link": "http://upfrontconf.com/"
   },
   {
@@ -109,6 +124,7 @@
     "location": "Melbourne, Australia",
     "date": "March 20, 2018",
     "month":"march",
+    "year": "2018",
     "link": "https://2018.cssconf.com.au/"
   },
   {
@@ -116,6 +132,7 @@
     "location": "Melbourne, Australia",
     "date": "March 21 - 22, 2018",
     "month":"march",
+    "year": "2018",
     "link": "https://2018.jsconfau.com/"
   },
   {
@@ -123,6 +140,7 @@
     "location": "New Orleans, Louisiana",
     "date": "March 21 - 23, 2018",
     "month":"march",
+    "year": "2018",
     "link": "http://jazzcon.tech/"
   },
   {
@@ -130,6 +148,7 @@
     "location": "Oxford, United Kingdom",
     "date": "March 23, 2018",
     "month":"march",
+    "year": "2018",
     "link": "http://render-conf.com/"
   },
   {
@@ -137,6 +156,7 @@
     "location": "New Orleans, Louisiana",
     "date": "March 26 - 28, 2018",
     "month":"march",
+    "year": "2018",
     "link": "http://www.vueconf.us/"
   },
   {
@@ -144,6 +164,7 @@
     "location": "Redwood City, California",
     "date": "March 27 - 28, 2018",
     "month":"march",
+    "year": "2018",
     "link": "https://perfmattersconf.com/"
   },
   {
@@ -151,6 +172,7 @@
     "location": "XAmoy(Xiamen), China",
     "date": "March 31, 2018",
     "month":"march",
+    "year": "2018",
     "link": "https://css.w3ctech.com/?l=en"
   },
   {
@@ -158,6 +180,7 @@
     "location": "Ottawa, Canada",
     "date": "April 3 - 6, 2018",
     "month":"march",
+    "year": "2018",
     "link": "https://forwardjs.com/ottawa"
   },
   {
@@ -165,6 +188,7 @@
     "location": "Champaign, Illinois",
     "date": "April 4 - 8, 2018",
     "month":"april",
+    "year": "2018",
     "link": "http://webcon.illinois.edu/"
   },
   {
@@ -172,6 +196,7 @@
     "location": "Newcastle Upon Tyne, United Kingdom",
     "date": "April 5, 2018",
     "month":"april",
+    "year": "2018",
     "link": "https://2018.frontendne.co.uk/"
   },
   {
@@ -179,6 +204,7 @@
     "location": "Salt Lake City, Utah",
     "date": "April 18 - 20, 2018",
     "month":"april",
+    "year": "2018",
     "link": "https://www.ng-conf.org/"
   },
   {
@@ -186,6 +212,7 @@
     "location": "Amsterdam, The Netherlands",
     "date": "April 13, 2018",
     "month":"april",
+    "year": "2018",
     "link": "https://react.amsterdam/"
   },
   {
@@ -193,6 +220,7 @@
     "location": "Cluj Napoca, Romania",
     "date": "April 18 - 20, 2018",
     "month":"april",
+    "year": "2018",
     "link": "https://jsheroes.io/"
   },
   {
@@ -200,6 +228,7 @@
     "location": "Columbus, OH",
     "date": "May 4, 2018",
     "month":"may",
+    "year": "2018",
     "link": "https://stirtrek.com/"
   },
   {
@@ -207,6 +236,7 @@
     "location": "St. Paul, Minnesota",
     "date": "May 7 - 10, 2018",
     "month":"may",
+    "year": "2018",
     "link": "https://ndcminnesota.com/"
   },
   {
@@ -214,6 +244,7 @@
     "location": "Verona, Italy",
     "date": "May 9 - 10, 2018",
     "month":"may",
+    "year": "2018",
     "link": "https://jsday.it/"
   },
   {
@@ -221,6 +252,7 @@
     "location": "Paris, France",
     "date": "May 15 - 18, 2018",
     "month":"may",
+    "year": "2018",
     "link": "https://www.react-europe.org/"
   },
   {
@@ -228,6 +260,7 @@
     "location": "Virginia Beach, Virginia",
     "date": "May 17 - 18, 2018",
     "month":"may",
+    "year": "2018",
     "link": "https://revolutionconf.com/"
   },
   {
@@ -235,6 +268,7 @@
     "location": "Tulsa, Oklahoma",
     "date": "May 18, 2018",
     "month":"may",
+    "year": "2018",
     "link": "http://200ok.us/"
   },
   {
@@ -242,6 +276,7 @@
     "location": "Washington, D.C.",
     "date": "May 18, 2018",
     "month":"may",
+    "year": "2018",
     "link": "http://nationjs.com/"
   },
   {
@@ -249,6 +284,7 @@
     "location": "Madrid, Spain",
     "date": "May 19, 2018",
     "month":"may",
+    "year": "2018",
     "link": "http://2018.jsday.es/"
   },
   {
@@ -256,6 +292,7 @@
     "location": "Piter, Russia",
     "date": "May 19 - 20, 2018",
     "month":"may",
+    "year": "2018",
     "link": "https://holyjs-piter.ru/en/"
   },
   {
@@ -263,6 +300,7 @@
     "location": "Warsaw, Poland",
     "date": "May 24 - 25, 2018",
     "month":"may",
+    "year": "2018",
     "link": "http://front-trends.com/"
   },
   {
@@ -270,6 +308,7 @@
     "location": "Kiev, Ukraine",
     "date": "May 24 - 25, 2018",
     "month":"may",
+    "year": "2018",
     "link": "http://yglf.com.ua/"
   },
   {
@@ -277,6 +316,7 @@
     "location": "Stockholm, Sweden",
     "date": "May 31 - June 1, 2018",
     "month":"may",
+    "year": "2018",
     "link": "http://www.devsum.se/"
   },
   {
@@ -284,6 +324,7 @@
     "location": "Nashville, Tennessee",
     "date": "May 31 - June 2, 2018",
     "month":"may",
+    "year": "2018",
     "link": "http://www.musiccitytech.com/"
   },
   {
@@ -291,6 +332,7 @@
     "location": "Utrecht, Netherlands",
     "date": "May 31 - June 3, 2018",
     "month":"may",
+    "year": "2018",
     "link": "http://frontendunited.org/"
   },
   {
@@ -298,6 +340,7 @@
     "location": "Berlin, Germany",
     "date": "June 1, 2018",
     "month":"june",
+    "year": "2018",
     "link": "http://cssconf.eu/"
   },
   {
@@ -305,6 +348,7 @@
     "location": "Amsterdam, The Netherlands",
     "date": "June 1, 2018",
     "month":"june",
+    "year": "2018",
     "link": "http://amsterdamjs.com/"
   },
   {
@@ -312,6 +356,7 @@
     "location": "Berlin, Germany",
     "date": "June 2 - 3, 2018",
     "month":"june",
+    "year": "2018",
     "link": "http://jsconf.eu/"
   },
   {
@@ -319,6 +364,7 @@
     "location": "Oslo, Norway",
     "date": "June 4 - 5, 2018",
     "month":"june",
+    "year": "2018",
     "link": "https://webrebels.org/"
   },
   {
@@ -326,6 +372,7 @@
     "location": "Winnipeg, Canada",
     "date": "June 5 - 6, 2018",
     "month":"june",
+    "year": "2018",
     "link": "http://www.prairiedevcon.com/"
   },
   {
@@ -333,6 +380,7 @@
     "location": "Charleston, South Carolina",
     "date": "June 6 - 8, 2018",
     "month":"june",
+    "year": "2018",
     "link": "https://2018.syntaxcon.com/"
   },
   {
@@ -340,6 +388,7 @@
     "location": "Thessaloniki, Greece",
     "date": "June 9, 2018",
     "month":"june",
+    "year": "2018",
     "link": "http://devitconf.org/"
   },
   {
@@ -347,6 +396,7 @@
     "location": "San Jose, California",
     "date": "June 11 - 14, 2018",
     "month":"june",
+    "year": "2018",
     "link": "http://conferences.oreilly.com/fluent/fl-ca"
   },
   {
@@ -354,6 +404,7 @@
     "location": "Oslo, Norway",
     "date": "June 11 - 15, 2018",
     "month":"june",
+    "year": "2018",
     "link": "http://ndcoslo.com/"
   },
   {
@@ -361,6 +412,7 @@
     "location": "New York City, New York",
     "date": "June 15, 2018",
     "month":"june",
+    "year": "2018",
     "link": "http://buzzjs.com/"
   },
   {
@@ -368,6 +420,7 @@
     "location": "Edinburgh, Scotland",
     "date": "June 18, 2018",
     "month":"june",
+    "year": "2018",
     "link": "http://scotlandcss.com/"
   },
   {
@@ -375,6 +428,7 @@
     "location": "Edinburgh, Scotland",
     "date": "June 19 - 20, 2018",
     "month":"june",
+    "year": "2018",
     "link": "http://scotlandjs.com/"
   },
   {
@@ -382,6 +436,7 @@
     "location": "Darmstadt, Germany",
     "date": "June 19 - 21, 2018",
     "month":"june",
+    "year": "2018",
     "link": "https://www.enterjs.de/"
   },
   {
@@ -389,6 +444,7 @@
     "location": "Tel Aviv, Israel",
     "date": "June 21, 2018",
     "month":"june",
+    "year": "2018",
     "link": "http://angular-up.com/"
   },
   {
@@ -396,6 +452,7 @@
     "location": "Denver, Colorado",
     "date": "June 21 - 22, 2018",
     "month":"june",
+    "year": "2018",
     "link": "https://dinosaurjs.org/"
   },
   {
@@ -403,6 +460,7 @@
     "location": "Odessa, Ukraine",
     "date": "July 6 - 8, 2018",
     "month":"july",
+    "year": "2018",
     "link": "http://odessajs.org/"
   },
   {
@@ -410,6 +468,7 @@
     "location": "Portland, Oregon",
     "date": "July 11 - 13, 2018",
     "month":"july",
+    "year": "2018",
     "link": "https://infinite.red/ChainReactConf"
   },
   {
@@ -417,6 +476,7 @@
     "location": "Kansas City, Missouri",
     "date": "July 11-13, 2018",
     "month":"july",
+    "year": "2018",
     "link": "http://www.kcdc.info/"
   },
   {
@@ -424,6 +484,7 @@
     "location": "London, United Kingdom",
     "date": "July 11 - 13, 2018",
     "month":"july",
+    "year": "2018",
     "link": "https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things"
   },
   {
@@ -431,6 +492,7 @@
     "location": "San Francisco, California",
     "date": "July 23 - 25, 2018",
     "month":"july",
+    "year": "2018",
     "link": "http://nodesummit.com/"
   },
   {
@@ -438,6 +500,7 @@
     "location": "Omaha, Nebraska",
     "date": "July 27, 2018",
     "month":"july",
+    "year": "2018",
     "link": "https://nejsconf.com/"
   },
   {
@@ -445,6 +508,7 @@
     "location": "Melbourne, Australia",
     "date": "August 1 - 2, 2018",
     "month":"august",
+    "year": "2018",
     "link": "http://www.webdirections.org/code/"
   },
   {
@@ -452,6 +516,7 @@
     "location": "Columbia, South Carolina",
     "date": "August 8 - 10, 2018",
     "month":"august",
+    "year": "2018",
     "link": "http://convergese.com/"
   },
   {
@@ -459,6 +524,7 @@
     "location": "Minneapolis, Minnesota",
     "date": "August 8 - 10, 2018",
     "month":"august",
+    "year": "2018",
     "link": "http://midwestjs.com/"
   },
   {
@@ -466,6 +532,7 @@
     "location": "Salt Lake City, Utah",
     "date": "August 16 - 17, 2018",
     "month":"august",
+    "year": "2018",
     "link": "http://www.reactrally.com/"
   },
   {
@@ -473,6 +540,7 @@
     "location": "Carlsbad, California",
     "date": "August 21 - 23, 2018",
     "month":"august",
+    "year": "2018",
     "link": "http://jsconf.us/"
   },
   {
@@ -480,6 +548,7 @@
     "location": "Porto Alegre, Brazil",
     "date": "August 24 - 25, 2018",
     "month":"august",
+    "year": "2018",
     "link": "https://braziljs.org/conf/"
   },
   {
@@ -487,6 +556,7 @@
     "location": "Rovinj, Croatia",
     "date": "August 29 - September 1, 2018",
     "month":"august",
+    "year": "2018",
     "link": "http://websummercamp.com/"
   },
   {
@@ -494,6 +564,7 @@
     "location": "Zurich, Switzerland",
     "date": "August 30 - Agust 31, 2018",
     "month":"august",
+    "year": "2018",
     "link": "https://frontendconf.ch/"
   },
   {
@@ -501,6 +572,7 @@
     "location": "Fort Lauderdale, Florida",
     "date": "August 30 - September 3, 2018",
     "month":"",
+    "year": "2018",
     "link": "https://www.codercruise.com/"
   },
   {
@@ -508,6 +580,7 @@
     "location": "Barcelona, Spain",
     "date": "September 3 - 7, 2018",
     "month":"september",
+    "year": "2018",
     "link": "http://fullstackfest.com/"
   },
   {
@@ -515,6 +588,7 @@
     "location": "Wrocław, Poland",
     "date": "September 5 - 6, 2018",
     "month":"september",
+    "year": "2018",
     "link": "https://react-native.eu/"
   },
   {
@@ -522,6 +596,7 @@
     "location": "Wrocław, Poland",
     "date": "September 5 - 6, 2018",
     "month":"september",
+    "year": "2018",
     "link": "http://react-next.com/"
   },
   {
@@ -529,6 +604,7 @@
     "location": "Tallinn, Estonia",
     "date": "September 7, 2018",
     "month":"september",
+    "year": "2018",
     "link": "http://refresh.rocks/"
   },
   {
@@ -536,6 +612,7 @@
     "location": "Sydney, Australia",
     "date": "September 17 - 21, 2018",
     "month":"september",
+    "year": "2018",
     "link": "http://ndcsydney.com/"
   },
   {
@@ -543,6 +620,7 @@
     "location": "New York, New York",
     "date": "September 20 - 21, 2018",
     "month":"september",
+    "year": "2018",
     "link": "http://empireconf.org/"
   },
   {
@@ -550,6 +628,7 @@
     "location": "Chicago, Illinois",
     "date": "September 22, 2018",
     "month":"september",
+    "year": "2018",
     "link": "https://chicagojs.org/"
   },
   {
@@ -557,6 +636,7 @@
     "location": "Boston, Massachusetts",
     "date": "September 29 - 30, 2018",
     "month":"september",
+    "year": "2018",
     "link": "http://www.reactboston.com/"
   },
   {
@@ -564,6 +644,7 @@
     "location": "St. Louis, Missouri",
     "date": "September 26 - 28, 2018",
     "month":"september",
+    "year": "2018",
     "link": "https://thestrangeloop.com/"
   },
   {
@@ -571,6 +652,7 @@
     "location": "Alicante, Spain",
     "date": "September 13 - 15, 2018",
     "month":"september",
+    "year": "2018",
     "link": "http://reactalicante.es/"
   },
   {
@@ -578,6 +660,7 @@
     "location": "Park City, Utah",
     "date": "October 2 - 3, 2018",
     "month":"october",
+    "year": "2018",
     "link": "https://www.frameworksummit.com/"
   },
   {
@@ -585,6 +668,7 @@
     "location": "Verona, Italy",
     "date": "October 5, 2018",
     "month":"october",
+    "year": "2018",
     "link": "http://www.reactjsday.it/"
   },
   {
@@ -592,6 +676,7 @@
     "location": "St. Louis, Missouri",
     "date": "October 8 - 10, 2018",
     "month":"october",
+    "year": "2018",
     "link": "http://www.devupconf.org/"
   },
   {
@@ -599,6 +684,7 @@
     "location": "Vancouver, Canada",
     "date": "October 10 - 12, 2018",
     "month":"october",
+    "year": "2018",
     "link": "https://events.linuxfoundation.org/events/js-interactive-2018/"
   },
   {
@@ -606,6 +692,7 @@
     "location": "Amsterdam, The Netherlands",
     "date": "October 11 - 12, 2018",
     "month":"october",
+    "year": "2018",
     "link": "https://emberfest.eu/"
   },
   {
@@ -613,6 +700,7 @@
     "location": "Birmingham, United Kingdom",
     "date": "October 12 - 14, 2018",
     "month":"october",
+    "year": "2018",
     "link": "http://hackference.co.uk/"
   },
   {
@@ -620,6 +708,7 @@
     "location": "Bochum, Germany",
     "date": "October 13 - 14, 2018",
     "month":"october",
+    "year": "2018",
     "link": "https://ruhrjs.de/"
   },
   {
@@ -627,6 +716,7 @@
     "location": "Braga, Portugal",
     "date": "October 15 - 19, 2018",
     "month":"october",
+    "year": "2018",
     "link": "https://www.mirrorconf.com/"
   },
   {
@@ -634,6 +724,7 @@
     "location": "Atlanta, Georgia",
     "date": "October 17 - 19, 2018",
     "month":"october",
+    "year": "2018",
     "link": "http://connect.tech/"
   },
   {
@@ -641,6 +732,7 @@
     "location": "Raleigh, North Carolina",
     "date": "October 21 - 23, 2018",
     "month":"october",
+    "year": "2018",
     "link": "https://allthingsopen.org/"
   },
   {
@@ -648,6 +740,7 @@
     "location": "Trondheim, Norway",
     "date": "October 22, 2018",
     "month":"october",
+    "year": "2018",
     "link": "https://2018.trondheimdc.no/"
   },
   {
@@ -655,6 +748,7 @@
     "location": "Oklahoma City, Oklahoma",
     "date": "November 1, 2018",
     "month":"november",
+    "year": "2018",
     "link": "http://thunderplainsconf.com/"
   },
   {
@@ -662,6 +756,7 @@
     "location": "Richmond, Virginia",
     "date": "November 2, 2018",
     "month":"november",
+    "year": "2018",
     "link": "https://www.rvajavascript.com/"
   },
   {
@@ -669,6 +764,7 @@
     "location": "Kilkenny, Ireland",
     "date": "November 4 - 7, 2018",
     "month":"november",
+    "year": "2018",
     "link": "http://www.nodeconf.eu/"
   },
   {
@@ -676,6 +772,7 @@
     "location": "London, United Kingdom",
     "date": "November 6 - 7, 2018",
     "month":"november",
+    "year": "2018",
     "link": "http://angularconnect.com/"
   },
   {
@@ -683,6 +780,7 @@
     "location": "Austin, Texas",
     "date": "November 6 - 7, 2018",
     "month":"november",
+    "year": "2018",
     "link": "http://www.developerweek.com/Austin/"
   },
   {
@@ -690,6 +788,7 @@
     "location": "Brighton, United Kingdom",
     "date": "November 8 - 9, 2018",
     "month":"november",
+    "year": "2018",
     "link": "https://ffconf.org/"
   },
   {
@@ -697,6 +796,7 @@
     "location": "Paris, France",
     "date": "November 8, 2018",
     "month":"november",
+    "year": "2018",
     "link": "https://www.dotcss.io/"
   },
   {
@@ -704,6 +804,7 @@
     "location": "Paris, France",
     "date": "November 9, 2018",
     "month":"november",
+    "year": "2018",
     "link": "https://www.dotjs.io/"
   },
   {
@@ -711,6 +812,7 @@
     "location": "Copenhagen, Denmark",
     "date": "November 13 - 14, 2018",
     "month":"november",
+    "year": "2018",
     "link": "https://2018.coldfront.co/"
   },
   {
@@ -718,6 +820,7 @@
     "location": "Medellin, Colombia",
     "date": "November 16 - 17, 2018",
     "month":"november",
+    "year": "2018",
     "link": "https://jsconf.co/"
   },
   {
@@ -725,6 +828,7 @@
     "location": "Moscow, Russia",
     "date": "November 24 - 25, 2018",
     "month":"november",
+    "year": "2018",
     "link": "https://holyjs-moscow.ru/en/"
   },
   {
@@ -732,6 +836,7 @@
     "location": "Toronto, Canada",
     "date": "November 29 - 30, 2018",
     "month":"november",
+    "year": "2018",
     "link": "https://fsto.co/"
   },
   {
@@ -739,6 +844,7 @@
     "location": "Warsaw, Poland",
     "date": "December 4 - 5, 2018",
     "month":"december",
+    "year": "2018",
     "link": "http://www.frontend-con.io/"
   }
 ]
