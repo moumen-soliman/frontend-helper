@@ -24,7 +24,7 @@
     "title": "Javascript",
     "link": ["javascript"],
     "category": "javascriptCategory",
-    "def": "",
+    "def": "JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive (e.x. having complex animations, clickable buttons, popup menus, etc.).  There are also more advanced server side versions of javascript such as Node.Js which allow you to add more functionality to a website than simply downloading files (such as realtime collaboration between multiple computers). Inside a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to provide programmatic control over them.",
     "img": "javascript.png"
   },
   {
