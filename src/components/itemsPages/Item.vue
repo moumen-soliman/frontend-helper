@@ -7,7 +7,7 @@
         </b-col>
         <b-col class="item-details">
           <h2>{{post.title}}</h2>
-          <p>{{post.def}}</p>
+          <p>{{post.overview}}</p>
           <a :href="'https://github.com/topics/'+post.title.toLowerCase()" target="_blank">Github Topics</a>
         </b-col>
       </div>

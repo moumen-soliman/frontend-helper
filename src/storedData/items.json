@@ -3,329 +3,329 @@
     "title": "HTML",
     "link": ["html"],
     "category": "htmlCategory",
-    "def": "HTML (Hypertext Markup Language) is a text-based approach to describing how content contained within an HTML file is structured. This markup tells a web browser how to display the text, images and other forms of multimedia on a webpage.",
+    "overview": "HTML (Hypertext Markup Language) is a text-based approach to describing how content contained within an HTML file is structured. This markup tells a web browser how to display the text, images and other forms of multimedia on a webpage.",
     "img": "html.png"
   },
   {
     "title": "CSS",
     "link": ["css"],
     "category": "cssCategory",
-    "def": "Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views. It allows for the separation of presentation and content, and includes the characteristics of layouts, colors and fonts. CSS builds upon HTML to make webpages more interactive and appealing to the user.",
+    "overview": "Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views. It allows for the separation of presentation and content, and includes the characteristics of layouts, colors and fonts. CSS builds upon HTML to make webpages more interactive and appealing to the user.",
     "img": "css.png"
   },
   {
     "title": "SVG",
     "link": ["svg"],
     "category": "svgCategory",
-    "def": "SVG is similar to Adobe's proprietary Flash technology, but it is a text-based open Web standard instead of a closed binary format. It is explicitly designed to work with other web standards such as CSS, DOM, and SMIL.",
+    "overview": "SVG is similar to Adobe's proprietary Flash technology, but it is a text-based open Web standard instead of a closed binary format. It is explicitly designed to work with other web standards such as CSS, DOM, and SMIL.",
     "img": "svg.png"
   },
   {
     "title": "Javascript",
     "link": ["javascript"],
     "category": "javascriptCategory",
-    "def": "JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive (e.x. having complex animations, clickable buttons, popup menus, etc.).  There are also more advanced server side versions of javascript such as Node.Js which allow you to add more functionality to a website than simply downloading files (such as realtime collaboration between multiple computers). Inside a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to provide programmatic control over them.",
+    "overview": "JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive (e.x. having complex animations, clickable buttons, popup menus, etc.).  There are also more advanced server side versions of javascript such as Node.Js which allow you to add more functionality to a website than simply downloading files (such as realtime collaboration between multiple computers). Inside a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to provide programmatic control over them.",
     "img": "javascript.png"
   },
   {
     "title": "Progressive web apps",
     "link": ["pwa"],
     "category": "pwaCategory",
-    "def": "Progressive web apps use modern web APIs along with traditional progressive enhancement strategy to create cross-platform web applications. These apps work everywhere and provide several features that give them the same user experience advantages as native apps. This set of docs tells you all you need to know about them.",
+    "overview": "Progressive web apps use modern web APIs along with traditional progressive enhancement strategy to create cross-platform web applications. These apps work everywhere and provide several features that give them the same user experience advantages as native apps. This set of docs tells you all you need to know about them.",
     "img": "pwa.png"
   },
   {
     "title": "Sass",
     "link": ["sass"],
     "category": "sassCategory",
-    "def": "Sass is a stylesheet language with a main implementation in Ruby. It is an extension of CSS that makes improvements to the old stylesheet format, such as being able to declare variables and using a cleaner nesting syntax.",
+    "overview": "Sass is a stylesheet language with a main implementation in Ruby. It is an extension of CSS that makes improvements to the old stylesheet format, such as being able to declare variables and using a cleaner nesting syntax.",
     "img": "sass.png"
   },
   {
     "title": "PostCSS",
     "link": ["postcss"],
     "category": "postcssCategory",
-    "def": "PostCSS is a tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more.",
+    "overview": "PostCSS is a tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more.",
     "img": "postcss.png"
   },
   {
     "title": "Less",
     "link": ["less"],
     "category": "lessCategory",
-    "def": "Less (which stands for Leaner Style Sheets) is a backwards-compatible language extension for CSS. This is the official documentation for Less, the language and Less.js, the JavaScript tool that converts your Less styles to CSS styles.",
+    "overview": "Less (which stands for Leaner Style Sheets) is a backwards-compatible language extension for CSS. This is the official documentation for Less, the language and Less.js, the JavaScript tool that converts your Less styles to CSS styles.",
     "img": "less.png"
   },
   {
     "title": "Stylus",
     "link": ["stylus"],
     "category": "stylusCategory",
-    "def": "Stylus is a revolutionary new language, providing an efficient, dynamic, and expressive way to generate CSS. Supporting both an indented syntax and regular CSS style.",
+    "overview": "Stylus is a revolutionary new language, providing an efficient, dynamic, and expressive way to generate CSS. Supporting both an indented syntax and regular CSS style.",
     "img": "stylus.png"
   },
   {
     "title": "Normalize",
     "link": ["normalize"],
     "category": "normalizeCategory",
-    "def": "",
+    "overview": "",
     "img": "normalize.jpg"
   },
   {
     "title": "Bootstrap",
     "link": ["bootstrap"],
     "category": "bootstrapCategory",
-    "def": "",
+    "overview": "",
     "img": "bootstrap.png"
   },
   {
     "title": "Bulma",
     "link": ["bulma"],
     "category": "bulmaCategory",
-    "def": "",
+    "overview": "",
     "img": "bulma.png"
   },
   {
     "title": "Materialize",
     "link": ["materialize"],
     "category": "materializeCategory",
-    "def": "",
+    "overview": "",
     "img": "materialize.png"
   },
   {
     "title": "BEM",
     "link": ["bem"],
     "category": "bemCategory",
-    "def": "",
+    "overview": "",
     "img": "bem.png"
   },
   {
     "title": "OOCSS",
     "link": ["oocss"],
     "category": "oocssCategory",
-    "def": "",
+    "overview": "",
     "img": "oocss.png"
   },
   {
     "title": "SMACSS",
     "link": ["smacss"],
     "category": "smacssCategory",
-    "def": "",
+    "overview": "",
     "img": "smacss.png"
   },
   {
     "title": "SUITCSS",
     "link": ["suitcss"],
     "category": "suitcssCategory",
-    "def": "",
+    "overview": "",
     "img": "suitcss.png"
   },
   {
     "title": "Atomic CSS",
     "link": ["acss"],
     "category": "acssCategory",
-    "def": "",
+    "overview": "",
     "img": "acss.png"
   },
   {
     "title": "npm",
     "link": ["npm"],
     "category": "npmCategory",
-    "def": "",
+    "overview": "",
     "img": "npm.png"
   },
   {
     "title": "yarn",
     "link": ["yarn"],
     "category": "yarnCategory",
-    "def": "",
+    "overview": "",
     "img": "yarn.png"
   },
   {
     "title": "Gulp",
     "link": ["gulp"],
     "category": "gulpCategory",
-    "def": "",
+    "overview": "",
     "img": "gulp.png"
   },
   {
     "title": "Grunt",
     "link": ["grunt"],
     "category": "gruntCategory",
-    "def": "",
+    "overview": "",
     "img": "grunt.png"
   },
   {
     "title": "Webpack",
     "link": ["webpack"],
     "category": "webpackCategory",
-    "def": "",
+    "overview": "",
     "img": "webpack.png"
   },
   {
     "title": "ESLint",
     "link": ["eslint"],
     "category": "eslintCategory",
-    "def": "",
+    "overview": "",
     "img": "eslint.png"
   },
   {
     "title": "JSLint",
     "link": ["jslint"],
     "category": "jslintCategory",
-    "def": "",
+    "overview": "",
     "img": "jslint.png"
   },
   {
     "title": "JSHint",
     "link": ["jshint"],
     "category": "jshintCategory",
-    "def": "",
+    "overview": "",
     "img": "jshint.png"
   },
   {
     "title": "JSCS",
     "link": ["jscs"],
     "category": "jscsCategory",
-    "def": "",
+    "overview": "",
     "img": "jscs.png"
   },
   {
     "title": "Backbone",
     "link": ["backbone"],
     "category": "backboneCategory",
-    "def": "",
+    "overview": "",
     "img": "backbone.png"
   },
   {
     "title": "JSON",
     "link": ["json"],
     "category": "jsonCategory",
-    "def": "",
+    "overview": "",
     "img": "json.png"
   },
   {
     "title": "JQuery",
     "link": ["jquery"],
     "category": "jqueryCategory",
-    "def": "",
+    "overview": "",
     "img": "jquery.png"
   },
   {
     "title": "Vue.js",
     "link": ["vue"],
     "category": "vueCategory",
-    "def": "",
+    "overview": "",
     "img": "vue.png"
   },
   {
     "title": "React.js",
     "link": ["react"],
     "category": "reactCategory",
-    "def": "",
+    "overview": "",
     "img": "react.png"
   },
   {
     "title": "Angular.js",
     "link": ["angular"],
     "category": "angularCategory",
-    "def": "",
+    "overview": "",
     "img": "angular.png"
   },
   {
     "title": "Meteor.js",
     "link": ["meteor"],
     "category": "meteorCategory",
-    "def": "",
+    "overview": "",
     "img": "meteor.png"
   },
   {
     "title": "Jest",
     "link": ["jest"],
     "category": "jestCategory",
-    "def": "",
+    "overview": "",
     "img": "jest.jpg"
   },
   {
     "title": "Karma",
     "link": ["karma"],
     "category": "karmaCategory",
-    "def": "",
+    "overview": "",
     "img": "karma.png"
   },
   {
     "title": "Protractor",
     "link": ["protractor"],
     "category": "protractorCategory",
-    "def": "",
+    "overview": "",
     "img": "protractor.png"
   },
   {
     "title": "Jasmine",
     "link": ["jasmine"],
     "category": "jasmineCategory",
-    "def": "",
+    "overview": "",
     "img": "jasmine.png"
   },
   {
     "title": "Mocha",
     "link": ["mocha"],
     "category": "mochaCategory",
-    "def": "",
+    "overview": "",
     "img": "mocha.png"
   },
   {
     "title": "Typescript",
     "link": ["typescript"],
     "category": "typescriptCategory",
-    "def": "",
+    "overview": "",
     "img": "typescript.png"
   },
   {
     "title": "Vuex",
     "link": ["vuex"],
     "category": "vuexCategory",
-    "def": "",
+    "overview": "",
     "img": "vuex.png"
   },
   {
     "title": "Redux",
     "link": ["redux"],
     "category": "reduxCategory",
-    "def": "",
+    "overview": "",
     "img": "redux.png"
   },
   {
     "title": "MobX",
     "link": ["mobx"],
     "category": "mobxCategory",
-    "def": "",
+    "overview": "",
     "img": "mobx.png"
   },
   {
     "title": "RxJS",
     "link": ["rxjs"],
     "category": "rxjsCategory",
-    "def": "",
+    "overview": "",
     "img": "rxjs.png"
   },
   {
     "title": "NextJS",
     "link": ["nextjs"],
     "category": "nextjsCategory",
-    "def": "",
+    "overview": "",
     "img": "nextjs.png"
   },
   {
     "title": "NuxtJS",
     "link": ["nuxtjs"],
     "category": "nuxtjsCategory",
-    "def": "",
+    "overview": "",
     "img": "nuxtjs.png"
   },
   {
     "title": "Web Accessibility",
     "link": ["webaim"],
     "category": "webaimCategory",
-    "def": "",
+    "overview": "",
     "img": "webaim.png"
   }
 ]
