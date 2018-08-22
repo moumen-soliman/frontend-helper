@@ -2,329 +2,329 @@
   {
     "title": "HTML",
     "link": ["html"],
-    "category": "htmlCategory",
+    "url": "htmlCategory",
     "overview": "HTML (Hypertext Markup Language) is a text-based approach to describing how content contained within an HTML file is structured. This markup tells a web browser how to display the text, images and other forms of multimedia on a webpage.",
     "img": "html.png"
   },
   {
     "title": "CSS",
     "link": ["css"],
-    "category": "cssCategory",
+    "url": "cssCategory",
     "overview": "Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views. It allows for the separation of presentation and content, and includes the characteristics of layouts, colors and fonts. CSS builds upon HTML to make webpages more interactive and appealing to the user.",
     "img": "css.png"
   },
   {
     "title": "SVG",
     "link": ["svg"],
-    "category": "svgCategory",
+    "url": "svgCategory",
     "overview": "Scalable Vector Graphics (SVG) is similar to Adobe's proprietary Flash technology, but it is a text-based open Web standard instead of a closed binary format. It is explicitly designed to work with other web standards such as CSS, DOM, and SMIL.",
     "img": "svg.png"
   },
   {
     "title": "Javascript",
     "link": ["javascript"],
-    "category": "javascriptCategory",
+    "url": "javascriptCategory",
     "overview": "JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive (e.x. having complex animations, clickable buttons, popup menus, etc.).  There are also more advanced server side versions of javascript such as Node.Js which allow you to add more functionality to a website than simply downloading files (such as realtime collaboration between multiple computers). Inside a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to provide programmatic control over them.",
     "img": "javascript.png"
   },
   {
     "title": "Progressive web apps",
     "link": ["pwa"],
-    "category": "pwaCategory",
+    "url": "pwaCategory",
     "overview": "Progressive web apps use modern web APIs along with traditional progressive enhancement strategy to create cross-platform web applications. These apps work everywhere and provide several features that give them the same user experience advantages as native apps. This set of docs tells you all you need to know about them.",
     "img": "pwa.png"
   },
   {
     "title": "Sass",
     "link": ["sass"],
-    "category": "sassCategory",
+    "url": "sassCategory",
     "overview": "Sass is a stylesheet language with a main implementation in Ruby. It is an extension of CSS that makes improvements to the old stylesheet format, such as being able to declare variables and using a cleaner nesting syntax.",
     "img": "sass.png"
   },
   {
     "title": "PostCSS",
     "link": ["postcss"],
-    "category": "postcssCategory",
+    "url": "postcssCategory",
     "overview": "PostCSS is a tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more.",
     "img": "postcss.png"
   },
   {
     "title": "Less",
     "link": ["less"],
-    "category": "lessCategory",
+    "url": "lessCategory",
     "overview": "Less (which stands for Leaner Style Sheets) is a backwards-compatible language extension for CSS. This is the official documentation for Less, the language and Less.js, the JavaScript tool that converts your Less styles to CSS styles.",
     "img": "less.png"
   },
   {
     "title": "Stylus",
     "link": ["stylus"],
-    "category": "stylusCategory",
+    "url": "stylusCategory",
     "overview": "Stylus is a revolutionary new language, providing an efficient, dynamic, and expressive way to generate CSS. Supporting both an indented syntax and regular CSS style.",
     "img": "stylus.png"
   },
   {
     "title": "Normalize",
     "link": ["normalize"],
-    "category": "normalizeCategory",
+    "url": "normalizeCategory",
     "overview": "Normalizr is a small, but powerful utility for taking JSON with a schema definition and returning nested entities with their IDs, gathered in dictionaries.",
     "img": "normalize.jpg"
   },
   {
     "title": "Bootstrap",
     "link": ["bootstrap"],
-    "category": "bootstrapCategory",
+    "url": "bootstrapCategory",
     "overview": "Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.",
     "img": "bootstrap.png"
   },
   {
     "title": "Bulma",
     "link": ["bulma"],
-    "category": "bulmaCategory",
+    "url": "bulmaCategory",
     "overview": "Modern CSS framework based on Flexbox",
     "img": "bulma.png"
   },
   {
     "title": "Materialize",
     "link": ["materialize"],
-    "category": "materializeCategory",
+    "url": "materializeCategory",
     "overview": "A modern responsive front-end framework based on Material Design",
     "img": "materialize.png"
   },
   {
     "title": "BEM",
     "link": ["bem"],
-    "category": "bemCategory",
+    "url": "bemCategory",
     "overview": "BEM — Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development",
     "img": "bem.png"
   },
   {
     "title": "Object-Oriented CSS",
     "link": ["oocss"],
-    "category": "oocssCategory",
+    "url": "oocssCategory",
     "overview": "How do you scale CSS for thousands of pages? Object Oriented CSS is an answer. It’s an approach for writing CSS that’s fast, maintainable, and standards-based. It adds much needed predictability to CSS so that even beginners can participate in writing beautiful websites. Nicole Sullivan first presented it at Web Directions North in Denver and the response has been overwhelming.",
     "img": "oocss.png"
   },
   {
     "title": "Scalable and Modular Architecture for CSS",
     "link": ["smacss"],
-    "category": "smacssCategory",
+    "url": "smacssCategory",
     "overview": "SMACSS (pronounced “smacks”) is more style guide than rigid framework. There is no library within here for you to download or install. There is no git repository for you to clone. SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. It is an attempt to document a consistent approach to site development when using CSS. And really, who isn’t building a site with CSS these days?!",
     "img": "smacss.png"
   },
   {
     "title": "SUITCSS",
     "link": ["suitcss"],
-    "category": "suitcssCategory",
+    "url": "suitcssCategory",
     "overview": "SUIT CSS is a reliable and testable styling methodology for component-based UI development. A collection of CSS packages and build tools are available as modules. SUIT CSS plays well with React, Ember, Angular, and other component-based approaches to UI development.",
     "img": "suitcss.png"
   },
   {
     "title": "Atomic CSS",
     "link": ["acss"],
-    "category": "acssCategory",
+    "url": "acssCategory",
     "overview": "Atomic CSS is a collection of single purpose styling units for maximum reuse that fits well with components in templated frameworks such as React, Ember or Angular. For more information we recommend that you read 'Challenging CSS best practices', watch the Atomic CSS presentation, or check this deck.",
     "img": "acss.png"
   },
   {
     "title": "npm",
     "link": ["npm"],
-    "category": "npmCategory",
+    "url": "npmCategory",
     "overview": "npm is the package manager for JavaScript and the world’s largest software registry. Discover packages of reusable code — and assemble them in powerful new ways.",
     "img": "npm.png"
   },
   {
     "title": "yarn",
     "link": ["yarn"],
-    "category": "yarnCategory",
+    "url": "yarnCategory",
     "overview": "Yarn is a package manager for your code. It allows you to use and share code with other developers from around the world. Yarn does this quickly, securely, and reliably so you don’t ever have to worry.",
     "img": "yarn.png"
   },
   {
     "title": "Gulp",
     "link": ["gulp"],
-    "category": "gulpCategory",
+    "url": "gulpCategory",
     "overview": "Automation - gulp is a toolkit that helps you automate painful or time-consuming tasks in your development workflow and Platform-agnostic - Integrations are built into all major IDEs and people are using gulp with PHP, .NET, Node.js, Java, and other platforms and Strong Ecosystem - Use npm modules to do anything you want + over 2000 curated plugins for streaming file transformations",
     "img": "gulp.png"
   },
   {
     "title": "Grunt",
     "link": ["grunt"],
-    "category": "gruntCategory",
+    "url": "gruntCategory",
     "overview": "The Grunt ecosystem is huge and it's growing every day. With literally hundreds of plugins to choose from, you can use Grunt to automate just about anything with a minimum of effort. If someone hasn't already built what you need, authoring and publishing your own Grunt plugin to npm is a breeze.",
     "img": "grunt.png"
   },
   {
     "title": "Webpack",
     "link": ["webpack"],
-    "category": "webpackCategory",
+    "url": "webpackCategory",
     "overview": " webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles.",
     "img": "webpack.png"
   },
   {
     "title": "ESLint",
     "link": ["eslint"],
-    "category": "eslintCategory",
+    "url": "eslintCategory",
     "overview": "The pluggable linting utility for JavaScript and JSX",
     "img": "eslint.png"
   },
   {
     "title": "JSLint",
     "link": ["jslint"],
-    "category": "jslintCategory",
+    "url": "jslintCategory",
     "overview": "jslint.js contains the jslint function. It parses and analyzes a source file, returning an object with information about the file. It can also take an object that sets options.",
     "img": "jslint.png"
   },
   {
     "title": "JSHint",
     "link": ["jshint"],
-    "category": "jshintCategory",
+    "url": "jshintCategory",
     "overview": "JSHint is a static code analysis tool used in software development for checking if JavaScript source code complies with coding rules. JSHint was created in 2011 by Anton Kovalyov as a fork of the JSLint project",
     "img": "jshint.png"
   },
   {
     "title": "JSCS",
     "link": ["jscs"],
-    "category": "jscsCategory",
+    "url": "jscsCategory",
     "overview": "JSCS has merged with ESLint!, JSCS is a code style linter and formatter for your style guide",
     "img": "jscs.png"
   },
   {
     "title": "Backbone",
     "link": ["backbone"],
-    "category": "backboneCategory",
+    "url": "backboneCategory",
     "overview": "Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.",
     "img": "backbone.png"
   },
   {
     "title": "JSON",
     "link": ["json"],
-    "category": "jsonCategory",
+    "url": "jsonCategory",
     "overview": "JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the JavaScript Programming Language, Standard ECMA-262 3rd ",
     "img": "json.png"
   },
   {
     "title": "JQuery",
     "link": ["jquery"],
-    "category": "jqueryCategory",
+    "url": "jqueryCategory",
     "overview": "jQuery is a lightweight library that simplifies programming with JavaScript. It builds on top of browser function and accomplishes programming tasks with fewer lines of code.",
     "img": "jquery.png"
   },
   {
     "title": "VueJS",
     "link": ["vue"],
-    "category": "vueCategory",
+    "url": "vueCategory",
     "overview": "Vue is a JavaScript framework for building websites. The intent of Vue is to make the integration of other JavaScript libraries easy. It is designed to organize and simplify web development.",
     "img": "vue.png"
   },
   {
     "title": "ReactJS",
     "link": ["react"],
-    "category": "reactCategory",
+    "url": "reactCategory",
     "overview": "React makes it simple to develop interactive user interfaces. It uses the Model View Controller (MVC) concept to manage individual pages in your web application.",
     "img": "react.png"
   },
   {
     "title": "AngularJS",
     "link": ["angular"],
-    "category": "angularCategory",
+    "url": "angularCategory",
     "overview": "Angular is a platform that makes it easy to build applications with the web. Angular combines declarative templates, dependency injection, end to end tooling, and integrated best practices to solve development challenges. Angular empowers developers to build applications that live on the web, mobile, or the desktop",
     "img": "angular.png"
   },
   {
     "title": "Meteor",
     "link": ["meteor"],
-    "category": "meteorCategory",
+    "url": "meteorCategory",
     "overview": "Meteor is a full-stack JavaScript platform for developing modern web and mobile applications. Meteor includes a key set of technologies for building connected-client reactive applications, a build tool, and a curated set of packages from the Node.js and general JavaScript community.",
     "img": "meteor.png"
   },
   {
     "title": "Jest",
     "link": ["jest"],
-    "category": "jestCategory",
+    "url": "jestCategory",
     "overview": "Jest is the de facto unit testing framework for ReactJS project. It is provided and used by Facebook themselves. But it's not a library as easy as mocha for instance. Here is the story of our Jest usage on a real world project, react-admin",
     "img": "jest.jpg"
   },
   {
     "title": "Karma",
     "link": ["karma"],
-    "category": "karmaCategory",
+    "url": "karmaCategory",
     "overview": "n the AngularJS team, we rely on testing and we always seek better tools to make our life easier. That's why we created Karma - a test runner that fits all our needs.",
     "img": "karma.png"
   },
   {
     "title": "Protractor",
     "link": ["protractor"],
-    "category": "protractorCategory",
+    "url": "protractorCategory",
     "overview": "Protractor is an end-to-end test framework for Angular and AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would.",
     "img": "protractor.png"
   },
   {
     "title": "Jasmine",
     "link": ["jasmine"],
-    "category": "jasmineCategory",
+    "url": "jasmineCategory",
     "overview": "Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests.",
     "img": "jasmine.png"
   },
   {
     "title": "Mocha",
     "link": ["mocha"],
-    "category": "mochaCategory",
+    "url": "mochaCategory",
     "overview": "Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases",
     "img": "mocha.png"
   },
   {
     "title": "Typescript",
     "link": ["typescript"],
-    "category": "typescriptCategory",
+    "url": "typescriptCategory",
     "overview": "TypeScript is an open source programming language developed by Microsoft and first released in 2012. It is designed to add type safety to JavaScript while conforming as closely as possible to the syntax and semantics of the ECMAScript standard.",
     "img": "typescript.png"
   },
   {
     "title": "Vuex",
     "link": ["vuex"],
-    "category": "vuexCategory",
+    "url": "vuexCategory",
     "overview": "Vuex is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion. It also integrates with Vue's official devtools extension to provide advanced features such as zero-config time-travel debugging and state snapshot export / import.",
     "img": "vuex.png"
   },
   {
     "title": "Redux",
     "link": ["redux"],
-    "category": "reduxCategory",
+    "url": "reduxCategory",
     "overview": "Redux is a predictable state container for JavaScript apps, It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger.",
     "img": "redux.png"
   },
   {
     "title": "MobX",
     "link": ["mobx"],
-    "category": "mobxCategory",
+    "url": "mobxCategory",
     "overview": "MobX is a battle tested library that makes state management simple and scalable by transparently applying functional reactive programming (TFRP). The philosophy behind MobX is very simple.",
     "img": "mobx.png"
   },
   {
     "title": "RxJS",
     "link": ["rxjs"],
-    "category": "rxjsCategory",
+    "url": "rxjsCategory",
     "overview": "RxJS is a library for reactive programming using Observables, to make it easier to compose asynchronous or callback-based code. This project is a rewrite of Reactive-Extensions/RxJS with better performance, better modularity, better debuggable call stacks, while staying mostly backwards compatible, with some breaking changes that reduce the API surface",
     "img": "rxjs.png"
   },
   {
     "title": "NextJS",
     "link": ["nextjs"],
-    "category": "nextjsCategory",
+    "url": "nextjsCategory",
     "overview": "",
     "img": "nextjs.png"
   },
   {
     "title": "NuxtJS",
     "link": ["nuxtjs"],
-    "category": "nuxtjsCategory",
+    "url": "nuxtjsCategory",
     "overview": "Nuxt.js is a framework for creating Universal Vue.js Applications, Nuxt.js presets all the configuration needed to make your development of a Vue.js Application Server Rendered more enjoyable.",
     "img": "nuxtjs.png"
   },
   {
     "title": "Web Accessibility",
     "link": ["webaim"],
-    "category": "webaimCategory",
+    "url": "webaimCategory",
     "overview": "When websites and web tools are properly designed and coded, people with disabilities can use them. However, currently many sites and tools are developed with accessibility barriers that make them difficult or impossible for some people to use, Making the web accessible benefits individuals, businesses, and society. International web standards define what is needed for accessibility.",
     "img": "webaim.png"
   }

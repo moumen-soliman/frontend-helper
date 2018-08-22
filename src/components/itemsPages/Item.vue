@@ -8,7 +8,8 @@
         <b-col class="item-details">
           <h2>{{post.title}}</h2>
           <p>{{post.overview}}</p>
-          <a :href="'https://github.com/topics/'+post.link" target="_blank">Github Topics</a>
+          <a :href="'https://github.com/topics/'+post.link" target="_blank">Github Topics</a> -
+          <a :href="post.url" target="_blank">Website</a>
         </b-col>
       </div>
     </b-row>
