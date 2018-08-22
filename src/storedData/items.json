@@ -58,56 +58,56 @@
   {
     "title": "Stylus",
     "link": ["stylus"],
-    "url": "stylusCategory",
+    "url": "http://stylus-lang.com/",
     "overview": "Stylus is a revolutionary new language, providing an efficient, dynamic, and expressive way to generate CSS. Supporting both an indented syntax and regular CSS style.",
     "img": "stylus.png"
   },
   {
     "title": "Normalize",
     "link": ["normalize"],
-    "url": "normalizeCategory",
+    "url": "https://necolas.github.io/normalize.css/",
     "overview": "Normalizr is a small, but powerful utility for taking JSON with a schema definition and returning nested entities with their IDs, gathered in dictionaries.",
     "img": "normalize.jpg"
   },
   {
     "title": "Bootstrap",
     "link": ["bootstrap"],
-    "url": "bootstrapCategory",
+    "url": "https://getbootstrap.com/",
     "overview": "Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.",
     "img": "bootstrap.png"
   },
   {
     "title": "Bulma",
     "link": ["bulma"],
-    "url": "bulmaCategory",
+    "url": "https://bulma.io/",
     "overview": "Modern CSS framework based on Flexbox",
     "img": "bulma.png"
   },
   {
     "title": "Materialize",
     "link": ["materialize"],
-    "url": "materializeCategory",
+    "url": "https://materializecss.com/",
     "overview": "A modern responsive front-end framework based on Material Design",
     "img": "materialize.png"
   },
   {
     "title": "BEM",
     "link": ["bem"],
-    "url": "bemCategory",
+    "url": "http://getbem.com/",
     "overview": "BEM — Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development",
     "img": "bem.png"
   },
   {
     "title": "Object-Oriented CSS",
     "link": ["oocss"],
-    "url": "oocssCategory",
+    "url": "http://oocss.org/",
     "overview": "How do you scale CSS for thousands of pages? Object Oriented CSS is an answer. It’s an approach for writing CSS that’s fast, maintainable, and standards-based. It adds much needed predictability to CSS so that even beginners can participate in writing beautiful websites. Nicole Sullivan first presented it at Web Directions North in Denver and the response has been overwhelming.",
     "img": "oocss.png"
   },
   {
     "title": "Scalable and Modular Architecture for CSS",
     "link": ["smacss"],
-    "url": "smacssCategory",
+    "url": "https://smacss.com/",
     "overview": "SMACSS (pronounced “smacks”) is more style guide than rigid framework. There is no library within here for you to download or install. There is no git repository for you to clone. SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. It is an attempt to document a consistent approach to site development when using CSS. And really, who isn’t building a site with CSS these days?!",
     "img": "smacss.png"
   },
