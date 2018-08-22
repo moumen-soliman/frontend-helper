@@ -137,6 +137,8 @@
       "Mine Google Analytics for Insights": "http://bit.ly/2cylUEM"
     }]
   },
+
+
   {
     "title": "SVG Standard",
     "related": ["html", "svg"],
@@ -181,6 +183,8 @@
       "wheelnav.js": "http://wheelnavjs.softwaretailoring.net/"
     }]
   },
+
+
   {
     "title": "CSS Standard",
     "related": ["css"],
@@ -248,6 +252,8 @@
       "idiomatic-css": "https://github.com/necolas/idiomatic-css"
     }]
   },
+
+
   {
     "title": "Javascript Fundamentals",
     "related": ["javascript"],
