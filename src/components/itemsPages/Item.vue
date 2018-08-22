@@ -15,27 +15,53 @@
       </div>
     </b-row>
     <hr>
+    <div class="item-collection">
       <h3>Related Links</h3><br>
-    <b-row>
-      <b-col cols="4" v-for="post in filiteredMap">
-        <ul class="main-ul">
-          <li><h5>{{post.title}}</h5></li>
-          <ul>
-            <div v-for="(key,index,value) in post.link">
-              <div v-for="(key, index, value) in key">
-                <li><a :href="key" target="_blank">{{index}}</a><br></li>
+      <b-row>
+        <b-col cols="4" v-for="post in filiteredMap">
+          <ul class="main-ul">
+            <li><h5>{{post.title}}</h5></li>
+            <ul>
+              <div v-for="(key,index,value) in post.link">
+                <div v-for="(key, index, value) in key">
+                  <li><a :href="key" target="_blank">{{index}}</a><br></li>
+                </div>
               </div>
-            </div>
+            </ul>
           </ul>
-        </ul>
-      </b-col>
-    </b-row>
+        </b-col>
+      </b-row>
+      <hr>
+      <h3>Books</h3><br>
+      <b-row>
+        <b-col cols="6" v-for="post in filiteredBooks">
+          <li><a :href="post.link" target="_blank">{{post.title}}</a><br></li>
+        </b-col>
+      </b-row>
+      <hr>
+      <h3>Tutorials</h3><br>
+      <b-row>
+        <b-col cols="6" v-for="post in filiteredTutorials">
+          <li><a :href="post.link" target="_blank">{{post.title}}</a><br></li>
+        </b-col>
+      </b-row>
+      <hr>
+      <h3>Conferences</h3><br>
+      <b-row>
+        <b-col cols="6" v-for="post in filiteredConf">
+          <li><a :href="post.link" target="_blank">{{post.title}}</a><br></li>
+        </b-col>
+      </b-row>
+    </div>
   </b-container>
 </template>
 
 <script>
 import items from '../../storedData/items.json';
 import components from '../../storedData/components.json';
+import books from '../../storedData/books.json';
+import tutorials from '../../storedData/tutorials.json';
+import conf from '../../storedData/conference.json';
 
 export default {
   name: 'Item',
@@ -43,25 +69,49 @@ export default {
     return {
       items: items,
       components: components,
+      books: books,
+      tutorials: tutorials,
+      conf: conf,
       currentPage: this.$route.query.page,
       info : null
     }
   },
   computed: {
-    filiteredPage () {
-      return this.items
-        .filter(post => {
-          var includedLink = post.link.indexOf(this.currentPage.toLowerCase()) > -1
-          return includedLink
-        });
-    },
-    filiteredMap () {
-      return this.components
-        .filter(post => {
-          var includedLink = post.related.toString().indexOf(this.currentPage.toLowerCase()) > -1
-          return includedLink;
-        });
-      }
+      filiteredPage () {
+        return this.items
+          .filter(post => {
+            var includedLink = post.link.indexOf(this.currentPage.toLowerCase()) > -1
+            return includedLink
+          });
+      },
+      filiteredMap () {
+        return this.components
+          .filter(post => {
+            var includedLink = post.related.toString().indexOf(this.currentPage.toLowerCase()) > -1
+            return includedLink;
+          });
+      },
+      filiteredBooks () {
+        return this.books
+          .filter(post => {
+            var includedLink = post.related.toString().indexOf(this.currentPage.toLowerCase()) > -1
+            return includedLink;
+          });
+      },
+      filiteredTutorials () {
+        return this.tutorials
+          .filter(post => {
+            var includedLink = post.related.toString().indexOf(this.currentPage.toLowerCase()) > -1
+            return includedLink;
+          });
+      },
+      filiteredConf () {
+        return this.conf
+          .filter(post => {
+            var includedLink = post.related.toString().indexOf(this.currentPage.toLowerCase()) > -1
+            return includedLink;
+          });
+      },
     }
   }
 </script>
@@ -127,6 +177,12 @@ h3 {
     li {
       margin: 5px auto;
     }
+  }
+}
+.item-collection {
+  li {
+    padding: 0;
+    margin: 15px 0;
   }
 }
 </style>
