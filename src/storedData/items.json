@@ -66,14 +66,14 @@
     "title": "Normalize",
     "link": ["normalize"],
     "category": "normalizeCategory",
-    "overview": "",
+    "overview": "Normalizr is a small, but powerful utility for taking JSON with a schema definition and returning nested entities with their IDs, gathered in dictionaries.",
     "img": "normalize.jpg"
   },
   {
     "title": "Bootstrap",
     "link": ["bootstrap"],
     "category": "bootstrapCategory",
-    "overview": "",
+    "overview": "Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.",
     "img": "bootstrap.png"
   },
   {
