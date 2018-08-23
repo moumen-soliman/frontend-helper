@@ -264,5 +264,17 @@
     "title": "Creating Interfaces with Bulma by Jeremy Thomas",
     "related": ["bulma"],
     "link": "https://www.amazon.com/Creating-Interfaces-Bulma-Jeremy-Thomas-ebook/dp/B079M1BJG4/"
+  },
+
+
+  {
+    "title": "Introducing Materialize by Anirudh Prabhu",
+    "related": ["materialize"],
+    "link": "https://www.amazon.com/Introducing-Materialize-Anirudh-Prabhu/dp/1484223489"
+  },
+  {
+    "title": "Learning Material Design",
+    "related": ["materialize"],
+    "link": "https://www.packtpub.com/mapt/book/web_development/9781785289811"
   }
 ]
