@@ -478,7 +478,7 @@
     }]
   },
   {
-    "title": "Sass Gids",
+    "title": "Sass Grids",
     "related": ["sass"],
     "link": [{
       "csswizardry-grids": "http://csswizardry.com/csswizardry-grids/",
@@ -505,7 +505,7 @@
 
 
   {
-    "title": "PostCSS Deep Dive",
+    "title": "PostCSS Standards",
     "related": ["postcss"],
     "link": [{
       "Create your own plugin": "https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin--cms-24605",
@@ -536,6 +536,17 @@
       "postcss-normalize": "https://github.com/jonathantneal/postcss-normalize",
       "postcss-loader": "https://github.com/postcss/postcss-loader",
       "postcss-html": "https://github.com/gucong3000/postcss-html"
+    }]
+  },
+
+
+  {
+    "title": "LESS Standards",
+    "related": ["less"],
+    "link": [{
+      "Beginner's Guide": "http://www.hongkiat.com/blog/less-basic/",
+      "Official Guide": "http://lesscss.org/",
+      "Official Repository": "https://github.com/less/less.js"
     }]
   }
 ]
