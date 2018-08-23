@@ -212,6 +212,11 @@
     "related": ["sass"],
     "link": "https://www.amazon.com/Sass-Compass-Designers-Ben-Frain/dp/1849694540"
   },
+  {
+    "title": "Mastering Sass (Contain OOCSS section too) by Luke Watts",
+    "related": ["sass", "oocss"],
+    "link": "https://www.amazon.com/Mastering-SASS-Luke-Watts/dp/1785883364"
+  },
 
 
   {
