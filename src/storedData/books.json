@@ -257,5 +257,12 @@
     "title": "The Joy of Bootstrap",
     "related": ["bootstrap"],
     "link": "https://www.amazon.com/gp/product/1522792813/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1522792813&linkId=1966cd29233076cee609f0d05eae9448"
+  },
+
+
+  {
+    "title": "Creating Interfaces with Bulma by Jeremy Thomas",
+    "related": ["bulma"],
+    "link": "https://www.amazon.com/Creating-Interfaces-Bulma-Jeremy-Thomas-ebook/dp/B079M1BJG4/"
   }
 ]
