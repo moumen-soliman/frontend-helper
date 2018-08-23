@@ -525,5 +525,17 @@
       "Grunt setup": "https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-grunt-setup--cms-24545",
       "Instant setup options": "https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-instant-setup-options--cms-24536"
     }]
+  },
+  {
+    "title": "PostCSS Packages and plugins",
+    "related": ["postcss"],
+    "link": [{
+      "atom-language-postcss": "https://github.com/azat-io/atom-language-postcss",
+      "postcss parts": "https://www.postcss.parts/",
+      "poststylus": "https://github.com/seaneking/poststylus",
+      "postcss-normalize": "https://github.com/jonathantneal/postcss-normalize",
+      "postcss-loader": "https://github.com/postcss/postcss-loader",
+      "postcss-html": "https://github.com/gucong3000/postcss-html"
+    }]
   }
 ]
