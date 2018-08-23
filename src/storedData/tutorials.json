@@ -253,5 +253,17 @@
     "title": "Learning to love BEM",
     "related": ["bem"],
     "link": "http://mono.company/journal/frontend/learning-to-love-bem//"
+  },
+
+
+  {
+    "title": "Getting started with Object-Orientated CSS (OOCSS), creating a button kit",
+    "related": ["oocss"],
+    "link": "https://toddmotto.com/getting-started-with-object-orientated-css-oocss-creating-a-button-kit/"
+  },
+  {
+    "title": "OOCSS-SMACSS-BEM playlist by DevTips",
+    "related": ["oocss", "bem", "smacss"],
+    "link": "https://www.youtube.com/watch?v=6co781JgoqQ&list=PLevJzQw__HcQFWat7LxBLpLhbn-jx1lZ8"
   }
 ]
