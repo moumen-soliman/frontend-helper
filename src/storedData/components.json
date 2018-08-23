@@ -655,5 +655,22 @@
       "Semantic.gs": "https://github.com/tylertate/semantic.gs",
       "sGrid": "https://github.com/juliancwirko/s-grid"
     }]
+  },
+
+
+  {
+    "title": "Normalize Standards",
+    "related": ["normalize"],
+    "link": [{
+      "Normalize Official Repo": "https://github.com/necolas/normalize.css"
+    }]
+  },
+  {
+    "title": "Normalize Packages and Libraries",
+    "related": ["normalize"],
+    "link": [{
+      "Normalizr - Normalizes nested JSON according to a schema": "https://github.com/paularmstrong/normalizr",
+      "Modern Normalize": "https://github.com/sindresorhus/modern-normalize"
+    }]
   }
 ]
