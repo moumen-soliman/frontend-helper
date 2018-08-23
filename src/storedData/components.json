@@ -493,7 +493,7 @@
     }]
   },
   {
-    "title": "Media Queries",
+    "title": "Sass Media Queries",
     "related": ["sass"],
     "link": [{
       "include-media": "http://include-media.com/",
