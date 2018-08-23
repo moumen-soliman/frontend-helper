@@ -460,7 +460,7 @@
     }]
   },
   {
-    "title": "Sass Packages nnd libraries",
+    "title": "Sass Packages and Libraries",
     "related": ["sass"],
     "link": [{
       "Bootstrap 4": "https://github.com/twbs/bootstrap",
@@ -558,7 +558,7 @@
     }]
   },
   {
-    "title": "Less Packages nnd libraries",
+    "title": "Less Packages and Libraries",
     "related": ["less"],
     "link": [{
       "1pxdeep": "http://rriepe.github.io/1pxdeep/",
@@ -623,6 +623,24 @@
     "related": ["stylus"],
     "link": [{
       "Stylus - Style Guide by skyout": "https://github.com/skyout/stylus-styleguide"
+    }]
+  },
+  {
+    "title": "Stylus Packages and Libraries",
+    "related": ["stylus"],
+    "link": [{
+      "Bulma Stylus": "https://github.com/groenroos/bulma-stylus",
+      "FlexBox Stylus": "https://github.com/lswest/flexbox-stylus",
+      "Kouto Swiss": "http://kouto-swiss.io/",
+      "Mantis Querist": "https://github.com/mantis-stack/mantis-querist",
+      "Nib": "https://tj.github.io/nib",
+      "RetinaJS": "http://imulus.github.io/retinajs/",
+      "Rucksack": "https://simplaio.github.io/rucksack/",
+      "Rupture": "http://jescalan.github.io/rupture",
+      "SASS 2 Stylus": "https://github.com/mojotech/sass2stylus",
+      "Stylus Loader": "https://github.com/shama/stylus-loader",
+      "Stylus PHP": "https://github.com/AustP/Stylus.php",
+      "Stylus Spriting": "https://github.com/egermano/stylus-spriting"
     }]
   },
   {
