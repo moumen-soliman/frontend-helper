@@ -137,7 +137,7 @@ h3 {
   list-style: none;
   background: white;
   border-radius: 5px;
-  padding: 15px 20px;
+  padding: 0 20px 15px 20px;
   border: 1px solid #e3e3e3;
   box-shadow: 5px 5px 5px rgba(209, 214, 219, 0.3);
   height: 30vh;
