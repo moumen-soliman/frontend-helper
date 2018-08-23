@@ -607,5 +607,15 @@
       "Media Queries Library": "https://github.com/mrmlnc/less-mq",
       "Media Query to Type": "https://github.com/himedlooff/media-query-to-type"
     }]
+  },
+
+
+  {
+    "title": "Stylus Standards",
+    "related": ["stylus"],
+    "link": [{
+      "Cheatsheet for Stylus": "http://ricostacruz.com/cheatsheets/stylus.html",
+      "Stylus": "http://stylus-lang.com/"
+    }]
   }
 ]
