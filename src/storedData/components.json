@@ -712,11 +712,27 @@
     "title": "Bulma Standards",
     "related": ["bulma"],
     "link": [{
-      "Official website": "https://bulma.io/",
-      "Official Repo": "https://github.com/jgthms/bulma",
-      "Official Blog": "https://bulma.io/blog/",
+      "Official Bulma website": "https://bulma.io/",
+      "Official Bulma Repo": "https://github.com/jgthms/bulma",
+      "Official Bulma Blog": "https://bulma.io/blog/",
       "Bulma getting from Bootstrap": "https://bulma.io/alternative-to-bootstrap/",
       "Bulma extensions": "https://bulma.io/extensions/"
+    }]
+  },
+
+
+  {
+    "title": "Materialize Standards",
+    "related": ["materialize"],
+    "link": [{
+      "Getting Start Materialize": "https://materializecss.com/getting-started.html"
+    }]
+  },
+  {
+    "title": "Materialize Themes",
+    "related": ["materialize"],
+    "link": [{
+      "Materialize Themes": "https://materializecss.com/themes.html"
     }]
   }
 ]
