@@ -550,6 +550,14 @@
     }]
   },
   {
+    "title": "LESS Style Guides",
+    "related": ["less"],
+    "link": [{
+      "Handshake Style Guide": "https://github.com/handshake/less-style-guide",
+      "WebMD Health Services Style Guide": "https://github.com/bitmap/less-styleguide"
+    }]
+  },
+  {
     "title": "Less Themes and Frameworks",
     "related": ["less"],
     "link": [{
