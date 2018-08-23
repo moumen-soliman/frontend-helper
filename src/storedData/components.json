@@ -760,5 +760,18 @@
       "Stylus and BEM: a quick mixin - Frank M Taylor": "http://blog.frankmtaylor.com/2014/07/16/stylus-and-bem-a-quick-mixin/",
       "PostCSS BEM Linter": "https://github.com/postcss/postcss-bem-linter"
     }]
+  },
+
+
+  {
+    "title": "OOCSS Standards",
+    "related": ["oocss"],
+    "link": [{
+      "Official OOCSS Website": "http://oocss.org/",
+      "OOCSS Wiki by stubbornella": "https://github.com/stubbornella/oocss/wiki",
+      "OOCSS Grids": "http://oocss.org/grids_docs.html",
+      "Intro to OOCSS - by Louis Lazaris": "https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/",
+      "OOCSS – The Future of Writing CSS - keycdn": "https://www.keycdn.com/blog/oocss/"
+    }]
   }
 ]
