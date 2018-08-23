@@ -189,5 +189,27 @@
     "title": "Building Progressive Web Apps: Bringing the Power of Native to the Browser 1st Edition by Tal Ater",
     "related": ["javascript", "pwa"],
     "link": "https://www.amazon.com/Building-Progressive-Web-Apps-Bringing/dp/1491961651"
+  },
+
+
+  {
+    "title": "Sass in the Real World: Book I of IV",
+    "related": ["sass"],
+    "link": "https://anotheruiguy.gitbooks.io/sassintherealworld_book-i/content/"
+  },
+  {
+    "title": "Sass in the Real World: Book II of IV",
+    "related": ["sass"],
+    "link": "https://anotheruiguy.gitbooks.io/sass-in-the-real-world-book-2-of-4/content/"
+  },
+  {
+    "title": "Jump Start Sass: Get Up to Speed With Sass in a Weekend",
+    "related": ["sass"],
+    "link": "https://www.amazon.com/Jump-Start-Sass-Speed-Weekend/dp/0994182678"
+  },
+  {
+    "title": "Sass and Compass for Designers",
+    "related": ["sass"],
+    "link": "https://www.amazon.com/Sass-Compass-Designers-Ben-Frain/dp/1849694540"
   }
 ]
