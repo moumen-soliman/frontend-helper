@@ -93,7 +93,7 @@
   {
     "title": "BEM",
     "link": ["bem"],
-    "url": "http://getbem.com/",
+    "url": "https://en.bem.info/",
     "overview": "BEM — Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development",
     "img": "bem.png"
   },
