@@ -734,5 +734,31 @@
     "link": [{
       "Materialize Themes": "https://materializecss.com/themes.html"
     }]
+  },
+
+
+  {
+    "title": "BEM Standards",
+    "related": ["bem"],
+    "link": [{
+      "BEM Official website": "https://en.bem.info/",
+      "BEM introduction": "http://getbem.com/introduction/",
+      "BEM Cheatsheet": "https://gist.github.com/ingdir/0b211b9253c376f9cfa5",
+      "Introducing BEM: The popular CSS naming convention": "https://assortment.io/posts/introducing-bem-css-naming-convention",
+      "BEM 101 - CSS Tricks": "https://css-tricks.com/bem-101/",
+      "BEM Basics - 8th Light": "http://blog.8thlight.com/nelsol-batalla/2014/08/01/bem-basics.html",
+      "An Introduction to the BEM Methodology for effective Front-End Development": "http://4digits.net/blog/sass/introduction-to-bem.html"
+    }]
+  },
+  {
+    "title": "BEM with Pre-processors",
+    "related": ["bem"],
+    "link": [{
+      "Generating BEM selectors with CSS preprocessors - Frontend Babel": "http://frontendbabel.info/articles/bem-with-css-preprocessors/",
+      "Even Easier BEM-ing with Sass 3.3 - alwaystwisted": "http://alwaystwisted.com/articles/2014-02-27-even-easier-bem-ing-with-sass-33",
+      "BEM Mixins - CSS Tricks": "https://css-tricks.com/snippets/sass/bem-mixins/",
+      "Stylus and BEM: a quick mixin - Frank M Taylor": "http://blog.frankmtaylor.com/2014/07/16/stylus-and-bem-a-quick-mixin/",
+      "PostCSS BEM Linter": "https://github.com/postcss/postcss-bem-linter"
+    }]
   }
 ]
