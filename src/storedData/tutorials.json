@@ -224,5 +224,12 @@
     "title": "Bulma Videos for creat different stuff",
     "related": ["bulma"],
     "link": "https://bulma.io/videos/"
+  },
+
+
+  {
+    "title": "Materialize CSS Tutorial - javatpoint",
+    "related": ["materialize"],
+    "link": "https://www.javatpoint.com/materialize-css-tutorial"
   }
 ]
