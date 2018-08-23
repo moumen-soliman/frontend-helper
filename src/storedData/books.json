@@ -177,5 +177,17 @@
     "title": "Javascript Application Design",
     "related": ["javascript"],
     "link": "https://www.manning.com/books/javascript-application-design"
+  },
+
+
+  {
+    "title": "Progressive Web Apps By Dean Alan Hume",
+    "related": ["javascript", "pwa"],
+    "link": "https://www.manning.com/books/progressive-web-apps"
+  },
+  {
+    "title": "Building Progressive Web Apps: Bringing the Power of Native to the Browser 1st Edition by Tal Ater",
+    "related": ["javascript", "pwa"],
+    "link": "https://www.amazon.com/Building-Progressive-Web-Apps-Bringing/dp/1491961651"
   }
 ]
