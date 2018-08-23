@@ -218,5 +218,22 @@
     "title": "Mastering PostCSS for Web Design by Alex Libby",
     "related": ["postcss"],
     "link": "https://www.amazon.com/Mastering-PostCSS-Design-Alex-Libby/dp/1785885898"
+  },
+
+
+  {
+    "title": "Instant Less CSS Preprocessor How-to",
+    "related": ["less"],
+    "link": "https://www.packtpub.com/web-development/instant-less-css-preprocessor-how-instant"
+  },
+  {
+    "title": "Less Web Development Essentials",
+    "related": ["less"],
+    "link": "http://pdf.th7.cn/down/files/1508/Less%20Web%20Development%20Essentials,%202nd%20Edition.pdf"
+  },
+  {
+    "title": "Learning Less",
+    "related": ["less"],
+    "link": "https://www.packtpub.com/web-development/learning-lessjs"
   }
 ]
