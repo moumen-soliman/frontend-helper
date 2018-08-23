@@ -590,5 +590,14 @@
       "UIkit": "https://getuikit.com/",
       "Wee": "https://www.weepower.com/"
     }]
+  },
+  {
+    "title": "Less Media Queries",
+    "related": ["less"],
+    "link": [{
+      "CSS and Media Query Strategies": "https://github.com/buymeasoda/less-media-queries",
+      "Media Queries Library": "https://github.com/mrmlnc/less-mq",
+      "Media Query to Type": "https://github.com/himedlooff/media-query-to-type"
+    }]
   }
 ]
