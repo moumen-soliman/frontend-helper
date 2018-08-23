@@ -235,5 +235,27 @@
     "title": "Learning Less",
     "related": ["less"],
     "link": "https://www.packtpub.com/web-development/learning-lessjs"
+  },
+
+
+  {
+    "title": "Bootstrap: Responsive Web Development 1st Edition by Jake Spurlock",
+    "related": ["bootstrap"],
+    "link": "https://www.amazon.com/Bootstrap-Responsive-Development-Jake-Spurlock/dp/1449343910"
+  },
+  {
+    "title": "Step By Step Bootstrap 3: A Quick Guide to Responsive Web Development Using Bootstrap 3 by Riwanto Megosinarso",
+    "related": ["bootstrap"],
+    "link": "https://www.amazon.com/Step-Bootstrap-Quick-Responsive-Development/dp/1499655622"
+  },
+  {
+    "title": "Bootstrap Reference Guide: Bootstrap 4 and 3 Cheat Sheets Collection (Bootstrap 4 Quick Start) by Jacob Lett",
+    "related": ["bootstrap"],
+    "link": "https://www.amazon.com/Bootstrap-Reference-Guide-Sheets-Collection/dp/1732205833"
+  },
+  {
+    "title": "The Joy of Bootstrap",
+    "related": ["bootstrap"],
+    "link": "https://www.amazon.com/gp/product/1522792813/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1522792813&linkId=1966cd29233076cee609f0d05eae9448"
   }
 ]
