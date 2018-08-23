@@ -672,5 +672,27 @@
       "Normalizr - Normalizes nested JSON according to a schema": "https://github.com/paularmstrong/normalizr",
       "Modern Normalize": "https://github.com/sindresorhus/modern-normalize"
     }]
+  },
+
+
+  {
+    "title": "Bootstrap Standards",
+    "related": ["bootstrap"],
+    "link": [{
+      "Bootstrap v3 Official website": "https://getbootstrap.com/docs/3.3",
+      "Bootstrap v4 Official website": "https://getbootstrap.com/docs/4.0",
+      "Bootstrap v4 Examples": "https://getbootstrap.com/docs/4.0/examples/"
+    }]
+  },
+  {
+    "title": "Bootstrap Packages and Libraries",
+    "related": ["bootstrap"],
+    "link": [{
+      "Bootstrap-Vue": "https://github.com/pi0/bootstrap-vue",
+      "ng-bootstrap": "https://github.com/ng-bootstrap/ng-bootstrap",
+      "angular-ui/bootstrap": "https://github.com/angular-ui/bootstrap",
+      "react-bootstrap": "https://github.com/react-bootstrap/react-bootstrap",
+      "reactstrap": "https://github.com/reactstrap/reactstrap"
+    }]
   }
 ]
