@@ -18,7 +18,10 @@
     <div class="item-collection">
       <h3>Related Links</h3><br>
       <b-row>
-        <b-col cols="4" v-for="post in filiteredMap">
+        <b-col class="text-center" v-if="filiteredMap.length < 1">
+          Not found Yet, help us and contribute <b><a href="https://github.com/moumen-soliman/frontend-helper" target="_blank">Github Repo</a></b>
+        </b-col>
+        <b-col v-else cols="4" v-for="post in filiteredMap">
           <ul class="main-ul">
             <li><h5>{{post.title}}</h5></li>
             <ul>
@@ -34,14 +37,20 @@
       <hr>
       <h3>Books</h3><br>
       <b-row>
-        <b-col cols="6" v-for="post in filiteredBooks">
+        <b-col class="text-center" v-if="filiteredBooks.length < 1">
+          Not found Yet, help us and contribute <b><a href="https://github.com/moumen-soliman/frontend-helper" target="_blank">Github Repo</a></b>
+        </b-col>
+        <b-col v-else cols="6" v-for="post in filiteredBooks">
           <li><a :href="post.link" target="_blank">{{post.title}}</a><br></li>
         </b-col>
       </b-row>
       <hr>
       <h3>Tutorials</h3><br>
       <b-row>
-        <b-col cols="6" v-for="post in filiteredTutorials">
+        <b-col class="text-center" v-if="filiteredTutorials.length < 1">
+          Not found Yet, help us and contribute <b><a href="https://github.com/moumen-soliman/frontend-helper" target="_blank">Github Repo</a></b>
+        </b-col>
+        <b-col v-else cols="6" v-for="post in filiteredTutorials">
           <li><a :href="post.link" target="_blank">{{post.title}}</a><br></li>
         </b-col>
       </b-row>
