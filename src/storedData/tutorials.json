@@ -75,6 +75,52 @@
     "title": "How to create a beautiful animated loader with nothing but CSS",
     "related": ["css"],
     "link": "https://codeburst.io/how-to-create-a-beautiful-animated-loader-with-nothing-but-css-d1962fc5a66c"
-  }
+  },
 
+
+  {
+    "title": "A progressive Web application with Vue JS, Webpack & Material Design [Part 1 / 6] by @charlesBochet and @KevinJean17",
+    "related": ["pwa"],
+    "link": "https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402"
+  },
+  {
+    "title": "Codelabs to build PWAs with Polymer 2.0",
+    "related": ["pwa"],
+    "link": "https://codelabs.developers.google.com/polymer-summit-2016"
+  },
+  {
+    "title": "Getting started with Progressive Web Apps by @addyosmani",
+    "related": ["pwa"],
+    "link": "https://addyosmani.com/blog/getting-started-with-progressive-web-apps/"
+  },
+  {
+    "title": "Google Developers - Progressive Web Apps",
+    "related": ["pwa"],
+    "link": "https://developers.google.com/web/progressive-web-apps"
+  },
+  {
+    "title": "Progressive Web Apps with React.js - 4 part series by @addyosmani",
+    "related": ["pwa"],
+    "link": "https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.ly1xiybxd"
+  },
+  {
+    "title": "Retrofit an Existing Website as a Progressive Web App",
+    "related": ["pwa"],
+    "link": "https://www.sitepoint.com/retrofit-your-website-as-a-progressive-web-app/"
+  },
+  {
+    "title": "Service Worker Cookbook - Mozilla",
+    "related": ["pwa"],
+    "link": "https://serviceworke.rs/"
+  },
+  {
+    "title": "SmashingMag’s Service Worker script",
+    "related": ["pwa"],
+    "link": "https://www.smashingmagazine.com/serviceWorker.js"
+  },
+  {
+    "title": "Web Powered SMS Inbox with Service Worker: Push Notifications",
+    "related": ["pwa"],
+    "link": "https://www.twilio.com/blog/2016/02/web-powered-sms-inbox-with-service-worker-push-notifications.html"
+  }
 ]
