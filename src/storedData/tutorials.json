@@ -231,5 +231,27 @@
     "title": "Materialize CSS Tutorial - javatpoint",
     "related": ["materialize"],
     "link": "https://www.javatpoint.com/materialize-css-tutorial"
+  },
+
+
+  {
+    "title": "BEM CSS Workshop - Varya Stepanova",
+    "related": ["bem"],
+    "link": "http://varya.me/bem-css-workshop/"
+  },
+  {
+    "title": "Writing Modular CSS With Sass and BEM - Tuts Plus",
+    "related": ["bem"],
+    "link": "https://www.youtube.com/watch?v=WH4U4K5W8N8"
+  },
+  {
+    "title": "MindBEMding – Rethink Web Development - Kevin Mack",
+    "related": ["bem"],
+    "link": "https://www.youtube.com/watch?v=vgg-NsKZaE4"
+  },
+  {
+    "title": "Learning to love BEM",
+    "related": ["bem"],
+    "link": "http://mono.company/journal/frontend/learning-to-love-bem//"
   }
 ]
