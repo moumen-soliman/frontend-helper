@@ -437,5 +437,69 @@
       "LiquidLava": "http://www.lava-framework.com/",
       "feathers": "https://github.com/feathersjs/feathers"
     }]
+  },
+
+
+  {
+    "title": "Sass Standards",
+    "related": ["sass"],
+    "link": [{
+      "Official Sass and SCSS Guide": "http://sass-lang.com/guide",
+      "Official Sass and SCSS Reference": "http://sass-lang.com/documentation/file.SASS_REFERENCE.html",
+      "SitePoint Sass and SCSS Reference": "https://www.sitepoint.com/sass-reference/"
+    }]
+  },
+  {
+    "title": "Sass Style Guides",
+    "related": ["sass"],
+    "link": [{
+      "Airbnb Sass and CSS Style Guide": "https://github.com/airbnb/css",
+      "Hugo Giraudel's Sass Guidelines": "https://sass-guidelin.es/",
+      "BigCommerce Sass Coding Guidelines": "https://github.com/bigcommerce/sass-style-guide",
+      "Dropbox (S)CSS Style Guide": "https://github.com/dropbox/css-style-guide"
+    }]
+  },
+  {
+    "title": "Sass Frameworks",
+    "related": ["sass"],
+    "link": [{
+      "Bootstrap 4": "https://github.com/twbs/bootstrap",
+      "Bootstrap-sass": "https://github.com/twbs/bootstrap-sass",
+      "iotaCSS": "https://www.iotacss.com/",
+      "mini.css": "http://minicss.org/",
+      "Foundation for Sites": "https://github.com/zurb/foundation-sites",
+      "Scooter": "http://dropbox.github.io/scooter/",
+      "Sierra": "http://sierra-library.github.io/",
+      "Kickoff": "http://trykickoff.com/",
+      "Hocus-Pocus": "https://bkzl.github.io/hocus-pocus/",
+      "Materialize": "http://materializecss.com/",
+      "Bulma": "https://github.com/jgthms/bulma",
+      "avalanche": "https://avalanche.oberlehner.net/"
+    }]
+  },
+  {
+    "title": "Sass Gids",
+    "related": ["sass"],
+    "link": [{
+      "csswizardry-grids": "http://csswizardry.com/csswizardry-grids/",
+      "Gridlex": "http://gridlex.devlint.fr/",
+      "Neat": "http://neat.bourbon.io/",
+      "SCSS Flexible Grid System": "http://flexible.gs/install/scss",
+      "Sass Flexible Grid System": "http://flexible.gs/install/sass",
+      "Susy": "https://github.com/oddbird/susy",
+      "Kickoff": "http://trykickoff.com/",
+      "Avalanche": "http://colourgarden.net/avalanche",
+      "Griddle": "http://necolas.github.io/griddle/"
+    }]
+  },
+  {
+    "title": "Media Queries",
+    "related": ["sass"],
+    "link": [{
+      "include-media": "http://include-media.com/",
+      "Sass MediaQueries": "http://paranoida.github.io/sass-mediaqueries/",
+      "Sass MQ": "https://github.com/sass-mq/sass-mq",
+      "Breakpoint": "https://github.com/at-import/breakpoint"
+    }]
   }
 ]
