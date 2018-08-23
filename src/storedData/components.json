@@ -460,7 +460,7 @@
     }]
   },
   {
-    "title": "Sass Frameworks",
+    "title": "Sass Packages nnd libraries",
     "related": ["sass"],
     "link": [{
       "Bootstrap 4": "https://github.com/twbs/bootstrap",
@@ -558,7 +558,7 @@
     }]
   },
   {
-    "title": "Less Themes and Frameworks",
+    "title": "Less Packages nnd libraries",
     "related": ["less"],
     "link": [{
       "1pxdeep": "http://rriepe.github.io/1pxdeep/",
@@ -616,6 +616,13 @@
     "link": [{
       "Cheatsheet for Stylus": "http://ricostacruz.com/cheatsheets/stylus.html",
       "Stylus": "http://stylus-lang.com/"
+    }]
+  },
+  {
+    "title": "Stylus Style Guides",
+    "related": ["stylus"],
+    "link": [{
+      "Stylus - Style Guide by skyout": "https://github.com/skyout/stylus-styleguide"
     }]
   },
   {
