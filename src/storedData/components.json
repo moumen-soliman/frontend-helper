@@ -569,5 +569,26 @@
       "UIkit": "https://getuikit.com/",
       "Wee": "https://www.weepower.com/"
     }]
+  },
+  {
+    "title": "Less Grids",
+    "related": ["less"],
+    "link": [{
+      "1pxdeep": "http://rriepe.github.io/1pxdeep/",
+      "Ant Design": "https://github.com/ant-design/ant-design/",
+      "Bootstrap a11y theme": "https://github.com/bassjobsen/bootstrap-a11y-theme",
+      "Bootswatch": "http://bootswatch.com/",
+      "Cardinal": "http://cardinalcss.com/",
+      "Less Rails - Less for Rails.": "https://github.com/metaskills/less-rails",
+      "Material Design for Bootstrap": "https://github.com/FezVrasta/bootstrap-material-design",
+      "Schema": "http://danmalarkey.github.io/schema/",
+      "Semantic UI": "http://semantic-ui.com/",
+      "CSSHórus": "https://github.com/firminoweb/csshorus",
+      "Flat UI Free ": "http://designmodo.github.io/Flat-UI/",
+      "JBST": "http://jbst.eu/",
+      "Metro UI CSS": "http://metroui.org.ua/",
+      "UIkit": "https://getuikit.com/",
+      "Wee": "https://www.weepower.com/"
+    }]
   }
 ]
