@@ -212,5 +212,17 @@
     "title": "Bootstrap in 1hr video",
     "related": ["bootstrap"],
     "link": "https://www.youtube.com/watch?v=gqOEoUR5RHg"
+  },
+
+
+  {
+    "title": "Learn Bulma CSS For free",
+    "related": ["bulma"],
+    "link": "https://scrimba.com/g/gbulma"
+  },
+  {
+    "title": "Bulma Videos for creat different stuff",
+    "related": ["bulma"],
+    "link": "https://bulma.io/videos/"
   }
 ]
