@@ -48,11 +48,6 @@ export default {
           id: 5,
           text: 'Contributors',
           page:'/Contributors'
-        },
-        {
-          id: 6,
-          text: 'Contact',
-          page: '/Contact'
         }
       ]
     }

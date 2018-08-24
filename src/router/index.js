@@ -3,7 +3,6 @@ import Router from 'vue-router'
 
 import Home from '../components/Home'
 import About from '../components/About'
-import Contact from '../components/Contact'
 import Articles from '../components/Articles'
 import Conferences from '../components/Conferences'
 import Contributors from '../components/Contributors'
@@ -26,11 +25,6 @@ export default new Router({
       path: '/about',
       name: 'About',
       component: About
-    },
-    {
-      path: '/contact',
-      name: 'Contact',
-      component: Contact
     },
     {
       path: '*',
