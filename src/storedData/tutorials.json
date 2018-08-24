@@ -27,6 +27,33 @@
 
 
   {
+    "title": "SVG Tutorial - W3Schools",
+    "related": ["svg", "html", "canvas"],
+    "link": "https://www.w3schools.com/graphics/svg_intro.asp"
+  },
+  {
+    "title": "SVG Tutorial - MDN",
+    "related": ["svg", "html", "canvas"],
+    "link": "https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial"
+  },
+  {
+    "title": "SVG Tutorial - jenkov",
+    "related": ["svg", "html", "canvas"],
+    "link": "http://tutorials.jenkov.com/svg/index.html"
+  },
+  {
+    "title": "SVG Tutorial: With CSS Animation - Youtube",
+    "related": ["svg", "html", "canvas"],
+    "link": "https://www.youtube.com/watch?v=IM8eTD01UE8"
+  },
+  {
+    "title": "SVG Tutorial - SVG.js",
+    "related": ["svg", "html", "canvas"],
+    "link": "http://svgjs.com/tutorials/"
+  },
+
+
+  {
     "title": "CSS Diner",
     "related": ["css"],
     "link": "https://flukeout.github.io/"

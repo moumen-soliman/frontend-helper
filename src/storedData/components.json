@@ -143,7 +143,6 @@
     "title": "SVG Standard",
     "related": ["html", "svg"],
     "link": [{
-      "SVG Tutorial - W3Schools": "https://www.w3schools.com/graphics/svg_intro.asp",
       "SVG MDN": "https://developer.mozilla.org/kab/docs/Web/SVG",
       "SVG W3C": "https://medium.com/sketch-app-sources/preparing-and-exporting-svg-icons-in-sketch-1a3d65b239bb",
       "Everything You Need To Know About SVG CSS-Tricks": "https://css-tricks.com/lodge/svg/"
