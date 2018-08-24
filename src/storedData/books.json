@@ -427,5 +427,87 @@
     "title": "Learning jQuery - Fourth Edition",
     "related": ["jquery"],
     "link": "https://www.packtpub.com/web-development/learning-jquery-fourth-edition"
+  },
+
+
+  {
+    "title": "The Majesty Of Vue.js by Alex Kyriakidis & Kostas Maniatis, Packt. (Nov 2016)",
+    "related": ["vue"],
+    "link": "https://www.packtpub.com/web-development/majesty-vuejs"
+  },
+  {
+    "title": "Learning Vue.js 2 by Olga Filipova, Packt. (Dec 2016)",
+    "related": ["vue"],
+    "link": "https://www.packtpub.com/web-development/learning-vuejs-2"
+  },
+  {
+    "title": "The Majesty Of Vue.js 2 by Alex Kyriakidis and Kostas Maniatis, Leanpub. (Mar 2017)",
+    "related": ["vue"],
+    "link": "https://leanpub.com/vuejs2"
+  },
+  {
+    "title": "Vue.js 2 Cookbook by Andrea Passaglia, Packt. (May 2017)",
+    "related": ["vue"],
+    "link": "https://www.packtpub.com/web-development/vuejs-2-cookbook"
+  },
+  {
+    "title": "Vue.js in Action by Erik Hanchett and Benjamin Listwon (Spring 2018)",
+    "related": ["vue"],
+    "link": "https://www.manning.com/books/vue-js-in-action"
+  },
+  {
+    "title": "Testing Vue.js Applications by Edd Yerburgh (Summer 2018)",
+    "related": ["vue"],
+    "link": "https://www.manning.com/books/testing-vuejs-applications"
+  },
+  {
+    "title": "Vue.js 2 and Bootstrap 4 Web Development by Olga Filipova, Packt. (September 2017)",
+    "related": ["vue"],
+    "link": "https://www.packtpub.com/web-development/vuejs-2-and-bootstrap-4-web-development"
+  },
+  {
+    "title": "Front-end com Vue.js by Leonardo Vilarinho, Casa do Código. (November 2017)",
+    "related": ["vue"],
+    "link": "https://www.casadocodigo.com.br/products/livro-frontend-vue"
+  },
+  {
+    "title": "Vue.js 2 Web Development Projects by Guillaume Chau, Packt. (November 2017)",
+    "related": ["vue"],
+    "link": "https://www.packtpub.com/web-development/vuejs-2-web-development-projects"
+  },
+  {
+    "title": "Full-Stack Vue.js 2 and Laravel 5 by Anthony Gore, Packt. (December 2017)",
+    "related": ["vue"],
+    "link": "https://www.packtpub.com/application-development/full-stack-vuejs-2-and-laravel-5"
+  },
+  {
+    "title": "Vue.js 2.x by Example by Mike Street, Packt. (December 2017)",
+    "related": ["vue"],
+    "link": "https://www.packtpub.com/application-development/vuejs-2x-example"
+  },
+  {
+    "title": "Fullstack Vue: The Complete Guide to Vue.js by Hassan Djirdeh, Nate Murray, & Ari Lerner. (March 2018)",
+    "related": ["vue"],
+    "link": "https://www.fullstack.io/vue/"
+  },
+  {
+    "title": "Vue.js 2 Design Patterns and Best Practices by Paul Halliday, Packt. (March 2018)",
+    "related": ["vue"],
+    "link": "https://www.amazon.com/dp/178883979X"
+  },
+  {
+    "title": "Vuex Quick Start Guide by Andrea Koutifaris, Packt. (April 2018)",
+    "related": ["vue"],
+    "link": "https://www.amazon.com/dp/1788999932"
+  },
+  {
+    "title": "Full-Stack Web Development with Vue.js and Node by Aneeta Sharma, Packt. (May 2018)",
+    "related": ["vue"],
+    "link": "https://www.amazon.com/Full-Stack-Web-Development-Vue-js-Node/dp/1788831144"
+  },
+  {
+    "title": "The Vue Handbook by Flavio Copes. (July 2018)",
+    "related": ["vue"],
+    "link": "https://vuehandbook.com"
   }
 ]
