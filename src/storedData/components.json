@@ -843,7 +843,7 @@
     "title": "yarn Standards",
     "related": ["yarn"],
     "link": [{
-      "yarn Documentation": "https://yarnpkg.com/en/docs",
+      "Intro to yarn by flaviocopes": "https://flaviocopes.com/yarn/",
       "The Yarn Workflow": "https://yarnpkg.com/en/docs",
       "yarn CLI Commands": "https://yarnpkg.com/en/docs/cli/",
       "Migrating from npm client": "https://yarnpkg.com/en/docs/migrating-from-npm",
