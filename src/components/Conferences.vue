@@ -2,7 +2,7 @@
   <div>
     <b-row>
       <b-col class="conference-item" cols="4" v-for="post in filiteredMap">
-        <a :href="post.link">
+        <a :href="post.link" target="_blank">
           <div>
             <h6>{{post.conference}}</h6>
             <p>{{post.location}}</p>
