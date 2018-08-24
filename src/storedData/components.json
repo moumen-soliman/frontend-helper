@@ -1386,5 +1386,33 @@
       "vue-ads-table-tree": "https://github.com/arnedesmedt/vue-ads-table-tree",
       "tailwindcss": "https://tailwindcss.com/docs/what-is-tailwind/"
     }]
+  },
+  {
+    "title": "Vue Notification UI Cimponents",
+    "related": ["vue"],
+    "link": [{
+      "vue-notifications": "https://github.com/se-panfilov/vue-notifications",
+      "vue-easy-toast": "https://github.com/noru/vue-easy-toast",
+      "vue-toasted": "https://github.com/shakee93/vue-toasted",
+      "vue-notifikation": "https://github.com/happyCoda/vue-notifikation",
+      "vue-notification": "https://github.com/euvl/vue-notification",
+      "vs-notify": "https://github.com/NxtChg/pieces/tree/master/js/vue/vs-notify",
+      "vue2-notify": "https://github.com/websmurf/vue2-notify",
+      "vue-notifyjs": "https://github.com/cristijora/vue-notifyjs",
+      "vueup": "https://github.com/chryb/vueup",
+      "vuex-flash": "https://github.com/ahmed-dinar/vuex-flash",
+      "vue-snotify": "https://github.com/artemsky/vue-snotify",
+      "vue-notify-me": "https://github.com/PygmySlowLoris/vue-notify-me",
+      "vue-noty": "https://github.com/renoguyon/vuejs-noty",
+      "vue-notice": "https://github.com/nikitamarcius/vue-notice",
+      "vue-flash-message": "https://github.com/keen-on-design/vue-flash-message",
+      "@voerro/vue-notifications": "https://github.com/keen-on-design/vue-flash-message",
+      "vue-awesome-notifications": "https://github.com/f3oall/vue-awesome-notifications",
+      "vue-izitoast": "https://github.com/arthurvasconcelos/vue-izitoast",
+      "vue-toastr-2": "https://github.com/saivarunk/vue-toastr-2",
+      "toastr": "https://github.com/CodeSeven/toastr",
+      "vue-snack": "https://github.com/zerodois/vue-snack",
+      "vue-m-message": "https://github.com/mengdu/m-message"
+    }]
   }
 ]
