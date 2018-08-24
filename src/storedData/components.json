@@ -1351,5 +1351,40 @@
     "link": [{
       "Vue Jobs": "https://vuejobs.com/"
     }]
+  },
+  {
+    "title": "Vue Tables UI Cimponents",
+    "related": ["vue"],
+    "link": [{
+      "vuetable-2": "https://github.com/ratiw/vuetable-2",
+      "vue-tables-2": "https://github.com/matfish2/vue-tables-2",
+      "vue-datasource": "https://github.com/coderdiaz/vue-datasource",
+      "ag-grid-vue": "https://github.com/ceolter/ag-grid-vue",
+      "vue-data-tables": "https://github.com/njleonzhang/vue-data-tables",
+      "vue-floatThead": "https://github.com/tmlee/vue-floatThead",
+      "vuetiful-datatable": "https://github.com/andrewcourtice/vuetiful/tree/master/src/components/datatable",
+      "vue-materialize-datatable": "https://github.com/MicroDroid/vue-materialize-datatable",
+      "vue-good-table": "https://github.com/xaksis/vue-good-table",
+      "vue-grid": "https://github.com/dzwillia/vue-grid",
+      "vue-easytable": "https://github.com/huangshuwei/vue-easytable",
+      "vue2-datatable-component": "https://github.com/OneWayTech/vue2-datatable",
+      "vue-js-grid": "https://github.com/euvl/vue-js-grid",
+      "vue-handsontable-official": "https://github.com/handsontable/vue-handsontable-official",
+      "vue-grid": "https://github.com/liqueflies/vue-grid",
+      "vue-data-tablee": "https://github.com/VitorLuizC/vue-data-tablee",
+      "vue-scrolling-table": "https://github.com/richardtallent/vue-scrolling-table",
+      "el-search-table-pagination": "https://github.com/zollero/el-search-table-pagination",
+      "Detail": "https://mp.weixin.qq.com/s/r_OumEQB79lpEETThHA70g",
+      "vue-crud-x": "https://github.com/ais-one/vue-crud-x",
+      "Vue Datatable": "https://github.com/laravel-enso/vuedatatable",
+      "v2-table": "https://github.com/dwqs/v2-table",
+      "vue-cheetah-grid": "https://github.com/future-architect/cheetah-grid",
+      "vue-table-component": "http://vue-table-component.spatie.be/",
+      "@lossendae/vue-table": "https://lossendae.github.io/vue-table",
+      "el-data-table": "https://github.com/FEMessage/el-data-table",
+      "DevExtreme Vue Grid": "https://devexpress.github.io/devextreme-reactive/vue/grid/",
+      "vue-ads-table-tree": "https://github.com/arnedesmedt/vue-ads-table-tree",
+      "tailwindcss": "https://tailwindcss.com/docs/what-is-tailwind/"
+    }]
   }
 ]
