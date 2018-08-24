@@ -577,5 +577,32 @@
     "title": "Backbone.js Fundamentals",
     "related": ["backbone"],
     "link": "http://www.pluralsight.com/courses/backbone-fundamentals"
+  },
+
+
+  {
+    "title": "Introducing JSON",
+    "related": ["json"],
+    "link": "http://json.org/"
+  },
+  {
+    "title": "JSON Tutorial W3 resources",
+    "related": ["json"],
+    "link": "https://www.w3resource.com/JSON/introduction.php"
+  },
+  {
+    "title": "JSON - Rosetta Code",
+    "related": ["json"],
+    "link": "http://rosettacode.org/wiki/JSON"
+  },
+  {
+    "title": "What is JSON and how to use it",
+    "related": ["json"],
+    "link": "https://ilovecoding.org/lessons/json-what-is-json-and-how-to-use-it"
+  },
+  {
+    "title": "Backbone.js Fundamentals",
+    "related": ["json"],
+    "link": "http://www.pluralsight.com/courses/backbone-fundamentals"
   }
 ]
