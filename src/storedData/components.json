@@ -1104,5 +1104,29 @@
       "JSHint Documentation": "http://jshint.com/docs/",
       "JSHint Install": "http://jshint.com/install/"
     }]
-  }
+  },
+  {
+    "title": "JSLint Plugins and Libraries",
+    "related": ["jslint"],
+    "link": [{
+      "JSHint.vim": "https://github.com/Shutnik/jshint2.vim",
+      "Grunt Contrib JSHint": "https://github.com/gruntjs/grunt-contrib-jshint",
+      "Gulp JSHint": "https://github.com/spalger/gulp-jshint",
+      "JSHint CLI": "https://github.com/jshint/node-jshint",
+      "JSHint Stylish": "https://github.com/sindresorhus/jshint-stylish",
+      "JSLint Loader": "https://github.com/webpack-contrib/jshint-loader",
+      "JSXHint": "https://github.com/STRML/JSXHint",
+      "Meteor JSHintrc": "https://github.com/raix/Meteor-jshintrc",
+      "JSHintrb": "https://github.com/stereobooster/jshintrb",
+    }]
+  },
+  {
+    "title": "JSLint Texteditors",
+    "related": ["jslint"],
+    "link": [{
+      "Sublime-JSHint": "https://github.com/victorporof/Sublime-JSHint",
+      "Atom Linter-jshint": "https://github.com/AtomLinter/linter-jshint",
+      "VSCode JSHint": "https://github.com/Microsoft/vscode-jshint"
+    }]
+  },
 ]
