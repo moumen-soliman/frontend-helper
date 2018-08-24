@@ -1288,5 +1288,29 @@
     "link": [{
       "JSONLint": "https://github.com/zaach/jsonlint"
     }]
+  },
+
+
+  {
+    "title": "JQuery Standards",
+    "related": ["jquery", "javascript"],
+    "link": [{
+      "Official jQuery Website": "https://jquery.com/",
+      "Official jQuery API documentation": "http://api.jquery.com/",
+      "jQuery Style guides": "https://contribute.jquery.org/style-guide/"
+    }]
+  },
+  {
+    "title": "JQuery Plugins",
+    "related": ["jquery", "javascript"],
+    "link": [{
+      "JQuery UI Plugins": "https://plugins.jquery.com/tag/ui/",
+      "JQuery Form Plugins": "https://plugins.jquery.com/tag/form/",
+      "JQuery Animation Plugins": "https://plugins.jquery.com/tag/animation/",
+      "JQuery Image Plugins": "https://plugins.jquery.com/tag/image/",
+      "JQuery Responsive Plugins": "https://plugins.jquery.com/tag/responsive/",
+      "JQuery slider Plugins": "https://plugins.jquery.com/tag/slider/",
+      "JQuery ajax Plugins": "https://plugins.jquery.com/tag/ajax/"
+    }]
   }
 ]
