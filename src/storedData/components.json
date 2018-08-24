@@ -1421,6 +1421,14 @@
     }]
   },
   {
+    "title": "Vue Server-side rendering",
+    "related": ["vue"],
+    "link": [{
+      "Nuxt.js": "https://github.com/nuxt/nuxt.js",
+      "Ream": "https://github.com/ream/ream"
+    }]
+  },
+  {
     "title": "Vue Tables UI Components",
     "related": ["vue"],
     "link": [{
