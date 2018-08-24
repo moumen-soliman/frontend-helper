@@ -806,8 +806,7 @@
     "title": "Atomic CSS Standards",
     "related": ["atomic-css"],
     "link": [{
-      "Atomic CSS Quick Start": "https://acss.io/quick-start.html",
-      "Atomic CSS Grid system": "https://acss.io/tutorials/grid-system.html"
+      "Atomic CSS Quick Start": "https://acss.io/quick-start.html"
     }]
   },
   {
