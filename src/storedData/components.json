@@ -773,5 +773,16 @@
       "Intro to OOCSS - by Louis Lazaris": "https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/",
       "OOCSS – The Future of Writing CSS - keycdn": "https://www.keycdn.com/blog/oocss/"
     }]
+  },
+
+
+  {
+    "title": "SMACSS Standards",
+    "related": ["smacss"],
+    "link": [{
+      "Official SMACSS Website": "https://smacss.com/",
+      "An Introduction To SMACSS - vanseodesign": "https://vanseodesign.com/css/smacss-introduction/",
+      "Pros and cons for SMACSS": "https://www.quora.com/What-are-the-pros-and-cons-of-SMACSS"
+    }]
   }
 ]
