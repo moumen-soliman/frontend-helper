@@ -785,5 +785,17 @@
       "Pros and cons for SMACSS": "https://www.quora.com/What-are-the-pros-and-cons-of-SMACSS",
       "SMACSS: Notes On Usage": "http://www.alchemyindesign.com/notes/2012/10/03/smacss-notes-on-usage.html"
     }]
+  },
+
+
+  {
+    "title": "SUITCSS Standards",
+    "related": ["suitcss"],
+    "link": [{
+      "Official SUICSS Github": "https://github.com/suitcss",
+      "SUIT CSS documentation": "https://github.com/suitcss/suit/blob/master/doc/README.md",
+      "SUIT CSS Utilities": "https://github.com/suitcss/suit/blob/master/doc/utilities.md",
+      "SUIT CSS components": "https://github.com/suitcss/suit/blob/master/doc/components.md"
+    }]
   }
 ]
