@@ -827,13 +827,13 @@
     "title": "npm Standards",
     "related": ["npm"],
     "link": [{
-      "Official": "https://docs.npmjs.com/",
-      "Troubleshooting": "https://github.com/npm/npm/wiki/Troubleshooting",
-      "Semantic versioning": "https://github.com/npm/npm/wiki/Troubleshooting",
+      "npm Official": "https://docs.npmjs.com/",
+      "npm Troubleshooting": "https://github.com/npm/npm/wiki/Troubleshooting",
+      "npm Semantic versioning": "https://github.com/npm/npm/wiki/Troubleshooting",
       "Fixing npm permissions": "https://github.com/npm/npm/wiki/Troubleshooting",
-      "package.json": "https://docs.npmjs.com/files/package.json",
+      "npm package.json": "https://docs.npmjs.com/files/package.json",
       "npm run script": "https://docs.npmjs.com/cli/run-script",
-      "Stats API": "https://github.com/npm/download-counts",
+      "npm Stats API": "https://github.com/npm/download-counts",
       "W3schools": "https://www.w3schools.com/nodejs/nodejs_npm.asp"
     }]
   }
