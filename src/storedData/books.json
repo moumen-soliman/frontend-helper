@@ -281,5 +281,12 @@
     "title": "Learning Material Design",
     "related": ["materialize"],
     "link": "https://www.packtpub.com/mapt/book/web_development/9781785289811"
+  },
+
+
+  {
+    "title": "Official SMACSS book",
+    "related": ["smacss"],
+    "link": "https://smacss.com/files/smacss-en.zip"
   }
 ]
