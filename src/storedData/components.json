@@ -1265,5 +1265,13 @@
       "JSON Browser" :"https://github.com/platy/json-browser/",
       "JSON Finder": "https://github.com/rapee/jsonfinder"
     }]
+  },
+  {
+    "title": "JSON Firefox Browser Extensions",
+    "related": ["json"],
+    "link": [{
+      "JSONView": "https://github.com/bhollis/jsonview",
+      "JSON - DataView": "https://github.com/bhollis/jsonview"
+    }]
   }
 ]
