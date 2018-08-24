@@ -1201,5 +1201,22 @@
       "Backbone.BabySitter": "https://github.com/marionettejs/backbone.babysitter",
       "Backbone.History.Polyfill": "https://github.com/FidelityInternational/BackboneHistoryPolyfill"
     }]
+  },
+
+
+  {
+    "title": "JSON Command-line tools",
+    "related": ["json"],
+    "link": [{
+      "jsoncat": "https://github.com/pantuza/jsoncat",
+      "jq": "https://github.com/pantuza/jsoncat",
+      "json": "https://github.com/pantuza/jsoncat",
+      "jshon": "http://kmkeen.com/jshon/",
+      "jarg": "http://jdp.github.io/jarg/",
+      "gron": "https://github.com/tomnomnom/gron",
+      "jid": "https://github.com/simeji/jid",
+      "jiq": "https://github.com/fiatjaf/jiq",
+      "jv": "https://github.com/maxzender/jv"
+    }]
   }
 ]
