@@ -1273,5 +1273,13 @@
       "JSONView": "https://github.com/bhollis/jsonview",
       "JSON - DataView": "https://github.com/bhollis/jsonview"
     }]
+  },
+  {
+    "title": "JSON Safari Browser Extensions",
+    "related": ["json"],
+    "link": [{
+      "JSONAce": "https://github.com/acrogenesis/JSONAce",
+      "JSONView": "https://github.com/acrogenesis/jsonview-safari"
+    }]
   }
 ]
