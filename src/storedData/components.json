@@ -1255,5 +1255,15 @@
       "Kinto": "https://github.com/Kinto/kinto",
       "RxDB": "https://github.com/pubkey/rxdb"
     }]
+  },
+  {
+    "title": "JSON Chrome Browser Extensions",
+    "related": ["json"],
+    "link": [{
+      "JSON Formatter": "https://github.com/callumlocke/json-formatter",
+      "JSON Viewer": "https://github.com/tulios/json-viewer",
+      "JSON Browser" :"https://github.com/platy/json-browser/",
+      "JSON Finder": "https://github.com/rapee/jsonfinder"
+    }]
   }
 ]
