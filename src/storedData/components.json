@@ -987,5 +987,18 @@
       "Karma Webpack": "https://github.com/webpack/karma-webpack",
       "Istanbul Webpack plugin": "https://github.com/DxCx/webpack-istanbul-plugin"
     }]
+  },
+  {
+    "title": "Webpack Integration Libraries",
+    "related": ["webpack"],
+    "link": [{
+      "Dotenv Webpack": "https://github.com/mrsteele/dotenv-webpack",
+      "Terse Webpack": "https://github.com/ericclemmons/terse-webpack",
+      "SystemJS Webpack": "https://github.com/guybedford/systemjs-webpack-plugin",
+      "Gulp Webpack Stream": "https://github.com/shama/webpack-stream",
+      "Webpack Blocks": "https://github.com/andywer/webpack-blocks",
+      "Webpacker": "https://github.com/rails/webpacker",
+      "WebpackAspnetMiddleware": "https://github.com/frankwallis/WebpackAspnetMiddleware"
+    }]
   }
 ]
