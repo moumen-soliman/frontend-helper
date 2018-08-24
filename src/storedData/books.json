@@ -307,5 +307,12 @@
     "title": "Getting Started with Gulp by Travis Maynard",
     "related": ["gulp"],
     "link": "https://www.amazon.com/Getting-Started-Gulp-Travis-Maynard/dp/1784395765"
+  },
+
+
+  {
+    "title": "Getting Started with Grunt: The JavaScript Task Runner by Jaime Pillora",
+    "related": ["grunt"],
+    "link": "https://www.amazon.com/Getting-Started-Grunt-JavaScript-Runner/dp/1783980621"
   }
 ]
