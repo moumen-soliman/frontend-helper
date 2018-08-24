@@ -321,5 +321,72 @@
     "title": "SurviveJS - Webpack",
     "related": ["webpack"],
     "link": "http://survivejs.com/webpack/introduction"
+  },
+
+
+  {
+    "title": "Developing Backbone.js Applications by Addy Osmani",
+    "related": ["backbone"],
+    "link": "http://addyosmani.github.io/backbone-fundamentals/"
+  },
+  {
+    "title": "Backbone Tutorials by Thomas Davis",
+    "related": ["backbone"],
+    "link": "http://addyosmani.github.io/backbone-fundamentals/"
+  },
+  {
+    "title": "Building Backbone Plugins by Derick Bailey and Jerome Gravel-Niquet",
+    "related": ["backbone"],
+    "link": "http://addyosmani.github.io/backbone-fundamentals/"
+  },
+  {
+    "title": "Mastering Backbone.js by Abiee Echamea",
+    "related": ["backbone"],
+    "link": "http://www.amazon.com/dp/1783288493"
+  },
+  {
+    "title": "Backbone.js Testing by Ryan Roemer",
+    "related": ["backbone"],
+    "link": "http://backbone-testing.com/"
+  },
+  {
+    "title": "Backbone.js Patterns and Best Practices by Swarnendu De",
+    "related": ["backbone"],
+    "link": "http://www.amazon.com/dp/1783283572"
+  },
+  {
+    "title": "Backbone.js Cookbook by Vadim Mirgorod",
+    "related": ["backbone"],
+    "link": "http://www.amazon.com/dp/1782162720/"
+  },
+  {
+    "title": "Instant Backbone.js Application Development by Thomas Hunter II",
+    "related": ["backbone"],
+    "link": "http://www.amazon.com/dp/1782165665"
+  },
+  {
+    "title": "Beginning Backbone.js by James Sugrue",
+    "related": ["backbone"],
+    "link": "http://www.amazon.com/dp/1430263342/"
+  },
+  {
+    "title": "Backbone.js Blueprints by Andrew Burgess",
+    "related": ["backbone"],
+    "link": "http://www.amazon.com/dp/1783286997/"
+  },
+  {
+    "title": "Recipes with Backbone by Nick Gauthier and Chris Strom",
+    "related": ["backbone"],
+    "link": "http://recipeswithbackbone.com/"
+  },
+  {
+    "title": "Full Stack Web Development with Backbone.js by Patrick Mulder",
+    "related": ["backbone"],
+    "link": "http://shop.oreilly.com/product/0636920030799.do"
+  },
+  {
+    "title": "Developing Single Page Apps with Backbone.js by Prateek Dayal - work in progress",
+    "related": ["backbone"],
+    "link": "https://singlepagebook.supportbee.com/"
   }
 ]
