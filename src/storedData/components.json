@@ -1218,6 +1218,15 @@
     }]
   },
   {
+    "title": "JSON Javascript Libraries",
+    "related": ["json", "javascript"],
+    "link": [{
+      "JSON-js": "https://github.com/douglascrockford/JSON-js",
+      "JSON 3": "https://bestiejs.github.io/json3/",
+      "oboe.js": "http://oboejs.com/"
+    }]
+  },
+  {
     "title": "JSON Command-line tools",
     "related": ["json"],
     "link": [{
