@@ -1353,7 +1353,7 @@
     }]
   },
   {
-    "title": "Vue Tables UI Cimponents",
+    "title": "Vue Tables UI Components",
     "related": ["vue"],
     "link": [{
       "vuetable-2": "https://github.com/ratiw/vuetable-2",
@@ -1388,7 +1388,7 @@
     }]
   },
   {
-    "title": "Vue Notification UI Cimponents",
+    "title": "Vue Notification UI Components",
     "related": ["vue"],
     "link": [{
       "vue-notifications": "https://github.com/se-panfilov/vue-notifications",
@@ -1413,6 +1413,27 @@
       "toastr": "https://github.com/CodeSeven/toastr",
       "vue-snack": "https://github.com/zerodois/vue-snack",
       "vue-m-message": "https://github.com/mengdu/m-message"
+    }]
+  },
+  {
+    "title": "Vue Loader UI Components",
+    "related": ["vue"],
+    "link": [{
+      "vue-radial-progress": "https://github.com/wyzant-dev/vue-radial-progress",
+      "vue-simple-spinner": "https://github.com/dzwillia/vue-simple-spinner",
+      "vue-wait": "https://github.com/f/vue-wait",
+      "vue-progress-path": "https://github.com/Akryum/vue-progress-path",
+      "vue-blockui": "https://github.com/realdah/vue-blockui",
+      "epic-spinners": "https://github.com/epicmaxco/epic-spinners",
+      "svg-progress-bar": "https://github.com/chenxuan0000/svg-progress-bar",
+      "vue-loading-overlay": "https://github.com/ankurk91/vue-loading-overlay",
+      "vue-loaders": "https://github.com/Hokid/vue-loaders",
+      "loaders.css": "https://github.com/ConnorAtherton/loaders.css",
+      "vue-promise-btn": "https://github.com/STUkh/vue-promise-btn",
+      "vue-spinkit": "https://github.com/TonPC64/vue-spinkit",
+      "vue2-form-loading": "https://github.com/hussam-m/vue2-form-loading",
+      "vue-element-loading": "https://github.com/biigpongsatorn/vue-element-loading",
+      "tb-skeleton": "https://github.com/anthinkingcoder/tb-skeleton"
     }]
   }
 ]
