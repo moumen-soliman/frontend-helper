@@ -1,8 +1,16 @@
 <template>
   <div>
-    <div v-for="post in filiteredMap">
-      {{post}}
-    </div>
+    <b-row>
+      <b-col class="conference-item" cols="4" v-for="post in filiteredMap">
+        <a :href="post.link">
+          <div>
+            <h6>{{post.conference}}</h6>
+            <p>{{post.location}}</p>
+            <span>{{post.date}}</span>
+          </div>
+        </a>
+      </b-col>
+    </b-row>
   </div>
 </template>
 <script>
@@ -14,7 +22,8 @@ export default {
   data () {
     return {
       conf: conf,
-      months: [{
+      months: [
+      {
         month: 'january',
       },
       {
@@ -52,7 +61,8 @@ export default {
       },
       {
         month: 'december',
-      }]
+      }
+      ]
     }
   },
   computed: {
@@ -62,3 +72,29 @@ export default {
   }
 }
 </script>
+
+<style lang="scss" scoped>
+.conference-item {
+  a {
+    text-decoration: none;
+    color: #000;
+    div{
+      background: white;
+      border-radius: 5px;
+      margin-bottom: 15px;
+      padding: 15px;
+      &:hover {
+        background: #e9e9e9;
+      }
+      p {
+        margin-bottom: 0;
+        color: rgba(0, 0, 0, 0.5);
+        font-size: 13px;
+      }
+      span {
+        @extend p;
+      }
+    }
+  }
+}
+</style>
