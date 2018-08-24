@@ -345,5 +345,77 @@
     "title": "Yarn Package Manager Crash Course",
     "related": ["yarn"],
     "link": "https://www.youtube.com/watch?v=g9_6KmiBISk"
+  },
+
+
+  {
+    "title": "Building with Gulp",
+    "related": ["gulp"],
+    "link": "https://www.smashingmagazine.com/2014/06/building-with-gulp/"
+  },
+  {
+    "title": "Automate Your Tasks Easily with Gulp.js",
+    "related": ["gulp"],
+    "link": "https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js"
+  },
+  {
+    "title": "Gulp - The Vision, History, and Future of the Project",
+    "related": ["gulp"],
+    "link": "https://medium.com/@contrahacks/gulp-3828e8126466"
+  },
+  {
+    "title": "Introduction to Gulp.js",
+    "related": ["gulp"],
+    "link": "http://stefanimhoff.de/tag/gulp/"
+  },
+  {
+    "title": "Video: Learning Gulp",
+    "related": ["gulp"],
+    "link": "http://leveluptuts.com/tutorials/learning-gulp"
+  },
+  {
+    "title": "Using Gulp to Inject Scripts and Styles Tags Directly into Your HTML",
+    "related": ["gulp"],
+    "link": "http://blog.johnnyreilly.com/2015/02/using-gulp-in-asp-net-instead-of-web-optimization.html"
+  },
+  {
+    "title": "5 Lessons Learned Using Gulp.js",
+    "related": ["gulp"],
+    "link": "http://denbuzze.com/post/5-lessons-learned-using-gulpjs/"
+  },
+  {
+    "title": "Automating Linkage: How I Learned to Stop Worrying and Love the Build",
+    "related": ["gulp"],
+    "link": "http://conan.is/bower/gulp/wiredep/javascript/2014/08/18/automating_linkage-or-how-i-learned-to-stop-worrying-and-love-the-build.html"
+  },
+  {
+    "title": "Setting Up Gulp Tasks for the First Time",
+    "related": ["gulp"],
+    "link": "https://www.codementor.io/development-process/tutorial/how-to-set-up-gulp-beginner-guide#/"
+  },
+  {
+    "title": "Why You Shouldn’t Create a Gulp Plugin (or, How to Stop Worrying and Learn to Love Existing Node Packages)",
+    "related": ["gulp"],
+    "link": "http://blog.overzealous.com/post/74121048393/why-you-shouldnt-create-a-gulp-plugin-or-how-to"
+  },
+  {
+    "title": "6 Gulp Best Practices You Can Use Today to Radically Improve Your Development Experience",
+    "related": ["gulp"],
+    "link": "http://blog.rangle.io/angular-gulp-bestpractices/"
+  },
+  {
+    "title": "Gulp for Beginners",
+    "related": ["gulp"],
+    "link": "https://css-tricks.com/gulp-for-beginners/"
+  },
+  {
+    "title": "Migrating to Gulp 4 by Example",
+    "related": ["gulp"],
+    "link": "https://blog.wearewizards.io/migrating-to-gulp-4-by-example"
+  },
+  {
+    "title": "Gulp 4: The new task execution system - gulp.parallel and gulp.series",
+    "related": ["gulp"],
+    "link": "http://fettblog.eu/gulp-4-parallel-and-series/"
   }
 ]
