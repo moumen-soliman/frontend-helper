@@ -290,7 +290,7 @@
     }]
   },
   {
-    "title": "Templating Engines",
+    "title": "Javascript Templating Engines",
     "related": ["javascript"],
     "link": [{
       "mustache.js": "https://github.com/janl/mustache.js",
@@ -308,7 +308,7 @@
     }]
   },
   {
-    "title": "QA (Linting)",
+    "title": "Javascript QA (Linting)",
     "related": ["javascript"],
     "link": [{
       "ESLint": "https://github.com/eslint/eslint",
@@ -990,7 +990,7 @@
   },
   {
     "title": "Webpack Integration Libraries",
-    "related": ["webpack"],
+    "related": ["webpack", "gulp", "dotenv"],
     "link": [{
       "Dotenv Webpack": "https://github.com/mrsteele/dotenv-webpack",
       "Terse Webpack": "https://github.com/ericclemmons/terse-webpack",
