@@ -400,5 +400,32 @@
     "title": "Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON by Lindsay Bassett",
     "related": ["json"],
     "link": "https://www.amazon.com/Introduction-JavaScript-Object-Notation-Point/dp/1491929480/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=MZKCSNZ9TBKBQ7VPZWY4"
+  },
+
+
+  {
+    "title": "jQuery Succinctly, Syncfusion",
+    "related": ["jquery"],
+    "link": "https://www.syncfusion.com/resources/techportal/ebooks/jquery"
+  },
+  {
+    "title": "jQuery fundamentals",
+    "related": ["jquery"],
+    "link": "https://github.com/bocoup/jqfundamentals.com"
+  },
+  {
+    "title": "jQuery in Action, Third Edition",
+    "related": ["jquery"],
+    "link": "https://www.manning.com/books/jquery-in-action-third-edition"
+  },
+  {
+    "title": "jQuery: Novice to Ninja: New Kicks And Tricks",
+    "related": ["jquery"],
+    "link": "https://www.sitepoint.com/premium/books/jquery-novice-to-ninja-new-kicks-and-tricks"
+  },
+  {
+    "title": "Learning jQuery - Fourth Edition",
+    "related": ["jquery"],
+    "link": "https://www.packtpub.com/web-development/learning-jquery-fourth-edition"
   }
 ]
