@@ -1000,5 +1000,22 @@
       "Webpacker": "https://github.com/rails/webpacker",
       "WebpackAspnetMiddleware": "https://github.com/frankwallis/WebpackAspnetMiddleware"
     }]
+  },
+
+
+  {
+    "title": "Eslint Configs",
+    "related": ["eslint"],
+    "link": [{
+      "Airbnb": "https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb",
+      "Canonical": "https://github.com/gajus/eslint-config-canonical",
+      "ESLint": "https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint",
+      "ES": "https://github.com/thenativeweb/eslint-config-es",
+      "Facebook": "https://www.npmjs.com/package/eslint-config-fbjs",
+      "Google": "https://github.com/google/eslint-config-google",
+      "Problems": "https://github.com/RyanZim/eslint-config-problems",
+      "Shopify": "https://github.com/Shopify/eslint-plugin-shopify",
+      "Standard": "https://github.com/feross/eslint-config-standard"
+    }]
   }
 ]
