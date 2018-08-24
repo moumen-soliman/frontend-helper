@@ -1382,6 +1382,18 @@
     }]
   },
   {
+    "title": "Vue Web Sockets",
+    "related": ["vue"],
+    "link": [{
+      "vue-socket.io": "https://github.com/MetinSeylan/Vue-Socket.io",
+      "vue-websocket": "https://github.com/icebob/vue-websocket",
+      "vue-echo": "https://github.com/happyDemon/vue-echo",
+      "vue-socket-cluster": "https://github.com/nigeltiany/vue-socket-cluster",
+      "vue-native-websocket": "https://github.com/nathantsoi/vue-native-websocket",
+      "vue-socket.io-extended": "https://github.com/probil/vue-socket.io-extended"
+    }]
+  },
+  {
     "title": "Vue Tables UI Components",
     "related": ["vue"],
     "link": [{
