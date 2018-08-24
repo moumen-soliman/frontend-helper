@@ -1060,17 +1060,37 @@
 
 
   {
-    "title": "JSLint",
+    "title": "JSLint Standards",
     "related": ["jslint"],
     "link": [{
-      "eslint-cli": "https://github.com/eslint/eslint-cli",
-      "eslint-find-rules": "https://github.com/sarbbottam/eslint-find-rules",
-      "eslint-index": "https://github.com/wagerfield/eslint-index",
-      "eslint-nibble": "https://github.com/IanVS/eslint-nibble",
-      "eslint-rule-documentation": "https://github.com/jfmengels/eslint-rule-documentation",
-      "eslint-watch": "https://github.com/rizowski/eslint-watch",
-      "codacy-eslint": "https://github.com/codacy/codacy-eslint",
-      "esprint": "https://github.com/pinterest/esprint"
+      "JSLint Official Website": "https://www.jslint.com/",
+      "JSLint Github Repo": "https://github.com/douglascrockford/JSLint"
+    }]
+  },
+  {
+    "title": "JSLint Plugins and Libraries",
+    "related": ["jslint"],
+    "link": [{
+      "JSLint.vim": "https://github.com/hallettj/jslint.vim",
+      "node-jslint": "https://github.com/reid/node-jslint",
+      "jslint4java": "https://github.com/happygiraffe/jslint4java",
+      "JSLint support for Sublime Text 2 by using jslint4java": "https://github.com/fbzhong/sublime-jslint",
+      "JSLintMate": "https://github.com/rondevera/jslintmate",
+      "JSLint Error Explanations": "https://github.com/jamesallardice/jslint-error-explanations",
+      "JSLint on Rails": "https://github.com/mackuba/jslint_on_rails",
+      "JSLint.NET": "https://github.com/benquarmby/jslintnet",
+      "grunt-jslint": "https://github.com/stephenmathieson-boneyard/grunt-jslint",
+      "lintnode": "https://github.com/keturn/lintnode",
+      "gulp-jslint": "https://github.com/karimsa/gulp-jslint",
+      "JSLint for Jenkins": "https://github.com/boxuk/jslint-jenkins-plugin"
+    }]
+  },
+  {
+    "title": "JSLint Texteditors",
+    "related": ["jslint"],
+    "link": [{
+      "SublimeLinter-jslint": "https://github.com/devdoc/SublimeLinter-jslint",
+      "brackets-JSLint-Configurator": "https://github.com/georapbox/brackets-JSLint-Configurator"
     }]
   }
 ]
