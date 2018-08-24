@@ -899,7 +899,7 @@
   },
   {
     "title": "Webpack File Type Loaders Libraries",
-    "related": ["webpack"],
+    "related": ["webpack", "html", "json", "svg"],
     "link": [{
       "File Loader": "https://github.com/webpack/file-loader",
       "URL Loader": "https://github.com/webpack/url-loader",
@@ -920,7 +920,7 @@
   },
   {
     "title": "Webpack Component & Template Loaders Libraries",
-    "related": ["webpack"],
+    "related": ["webpack", "angular", "vue", "svg", "react"],
     "link": [{
       "Angular2 Template Loader": "https://github.com/TheLarkInn/angular2-template-loader",
       "Handlebars Loader": "https://github.com/pcardune/handlebars-loader",
