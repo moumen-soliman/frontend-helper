@@ -1042,5 +1042,19 @@
       "RequireJS": "https://github.com/cvisco/eslint-plugin-requirejs",
       "VueJS": "https://github.com/vuejs/eslint-plugin-vue"
     }]
+  },
+  {
+    "title": "Eslint Tools",
+    "related": ["eslint"],
+    "link": [{
+      "eslint-cli": "https://github.com/eslint/eslint-cli",
+      "eslint-find-rules": "https://github.com/sarbbottam/eslint-find-rules",
+      "eslint-index": "https://github.com/wagerfield/eslint-index",
+      "eslint-nibble": "https://github.com/IanVS/eslint-nibble",
+      "eslint-rule-documentation": "https://github.com/jfmengels/eslint-rule-documentation",
+      "eslint-watch": "https://github.com/rizowski/eslint-watch",
+      "codacy-eslint": "https://github.com/codacy/codacy-eslint",
+      "esprint": "https://github.com/pinterest/esprint"
+    }]
   }
 ]
