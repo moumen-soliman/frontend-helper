@@ -1281,5 +1281,12 @@
       "JSONAce": "https://github.com/acrogenesis/JSONAce",
       "JSONView": "https://github.com/acrogenesis/jsonview-safari"
     }]
+  },
+  {
+    "title": "JSON Linters",
+    "related": ["json", "javascript"],
+    "link": [{
+      "JSONLint": "https://github.com/zaach/jsonlint"
+    }]
   }
 ]
