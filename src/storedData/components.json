@@ -1128,5 +1128,28 @@
       "Atom Linter-jshint": "https://github.com/AtomLinter/linter-jshint",
       "VSCode JSHint": "https://github.com/Microsoft/vscode-jshint"
     }]
+  },
+
+
+  {
+    "title": "JSCS Standards",
+    "related": ["jscs"],
+    "link": [{
+      "JSCS Official Website": "https://jscs-dev.github.io/",
+      "JSCS Github Repo": "https://github.com/jscs-dev",
+      "JSCS Documentation": "https://jscs-dev.github.io/overview",
+      "JSCS Install": "https://jscs-dev.github.io/overview#installation"
+    }]
+  },
+  {
+    "title": "JSCS Plugins and Libraries",
+    "related": ["jscs"],
+    "link": [{
+      "Grunt JSCS": "https://github.com/jscs-dev/grunt-jscs",
+      "Gulp JSCS": "https://github.com/jscs-dev/gulp-jscs",
+      "Node JSCS": "https://github.com/jscs-dev/node-jscs",
+      "Babel JSCS": "https://github.com/jscs-dev/babel-jscs",
+      "Spellcheck JSCS": "https://github.com/jscs-dev/jscs-spellcheck"
+    }]
   }
 ]
