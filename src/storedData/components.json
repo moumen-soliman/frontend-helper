@@ -807,6 +807,7 @@
     "related": ["atomic-css"],
     "link": [{
       "Atomic CSS Quick Start": "https://acss.io/quick-start.html",
+      "The Problem with Atomic CSS": "https://medium.com/simple-human/the-problem-with-atomic-css-d0c09c7aa38e",
       "How to use atomic CSS and sleep at night - SingaporeCSS": "https://www.youtube.com/watch?v=Mrp5-oYy46M"
     }]
   },
