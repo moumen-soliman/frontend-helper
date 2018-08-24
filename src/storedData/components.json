@@ -886,5 +886,36 @@
       "Grunt API Documentation": "https://gruntjs.com/api/grunt",
       "Grunt Installation": "https://gruntjs.com/installing-grunt"
     }]
+  },
+
+
+  {
+    "title": "Webpack Standards",
+    "related": ["webpack"],
+    "link": [{
+      "Webpack 1.x": "http://webpack.github.io/docs/",
+      "Webpack 2.x": "https://webpack.js.org/"
+    }]
+  },
+  {
+    "title": "Webpack File Type Loaders Libraries",
+    "related": ["webpack"],
+    "link": [{
+      "File Loader": "https://github.com/webpack/file-loader",
+      "URL Loader": "https://github.com/webpack/url-loader",
+      "HTML Loader": "https://github.com/webpack/html-loader",
+      "Raw Loader": "https://github.com/webpack/raw-loader",
+      "Image Loader": "https://github.com/thetalecrafter/img-loader",
+      "Responsive Loader": "https://github.com/herrstucki/responsive-loader",
+      "SVG Url Loader": "https://github.com/bhovhannes/svg-url-loader",
+      "json5 Loader": "https://github.com/webpack/json5-loader",
+      "json Loader": "https://github.com/webpack/json-loader",
+      "mermaid Loader": "https://github.com/popul/mermaid-loader",
+      "wasm loader": "https://github.com/ballercat/wasm-loader",
+      "Imagemin Loader/Plugin": "https://github.com/itgalaxy/imagemin-webpack",
+      "Bin Exec Loader": "https://github.com/milewski/bin-exec-loader",
+      "GraphQL Loader": "https://github.com/stephen/graphql-loader",
+      "C/C++ Loader": "https://github.com/ClickSimply/cpp-wasm-loader"
+    }]
   }
 ]
