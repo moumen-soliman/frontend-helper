@@ -1151,5 +1151,22 @@
       "Babel JSCS": "https://github.com/jscs-dev/babel-jscs",
       "Spellcheck JSCS": "https://github.com/jscs-dev/jscs-spellcheck"
     }]
+  },
+
+  {
+    "title": "Linting Presets",
+    "related": ["eslint", "jslint", "jshint", "jscs"],
+    "link": [{
+      "Airbnb": "https://github.com/airbnb/javascript",
+      "Crockford": "http://javascript.crockford.com/code.html",
+      "Google": "https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml",
+      "Grunt": "http://gruntjs.com/contributing#syntax",
+      "Idiomatic": "https://github.com/rwaldron/idiomatic.js#idiomatic-style-manifesto",
+      "jQuery": "https://contribute.jquery.org/style-guide/js/",
+      "MDCS": "https://github.com/mrdoob/three.js/wiki/Mr.doob's-Code-Style™",
+      "node-style-guide": "https://github.com/felixge/node-style-guide",
+      "Wikimedia": "https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript",
+      "WordPress": "https://make.wordpress.org/core/handbook/coding-standards/javascript/"
+    }]
   }
 ]
