@@ -604,5 +604,37 @@
     "title": "Backbone.js Fundamentals",
     "related": ["json"],
     "link": "http://www.pluralsight.com/courses/backbone-fundamentals"
+  },
+
+
+  {
+    "title": "jQuery patterns",
+    "related": ["jquery"],
+    "link": "https://github.com/jquery-boilerplate/jquery-patterns"
+  },
+  {
+    "title": "Learning jQuery ,sign Patterns",
+    "related": ["jquery"],
+    "link": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/#jquerypluginpatterns"
+  },
+  {
+    "title": "Learn jQuery",
+    "related": ["jquery"],
+    "link": "http://learn.jquery.com/"
+  },
+  {
+    "title": "Snoopcode",
+    "related": ["jquery"],
+    "link": "http://www.snoopcode.com/jquery/"
+  },
+  {
+    "title": "Try jQuery",
+    "related": ["jquery"],
+    "link": "http://www.snoopcode.com/jquery/"
+  },
+  {
+    "title": "Extending jQuery",
+    "related": ["jquery"],
+    "link": "https://j11y.io/javascript/extending-jquerys-selector-capabilities/"
   }
 ]
