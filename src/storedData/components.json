@@ -1069,7 +1069,7 @@
   },
   {
     "title": "JSLint Plugins and Libraries",
-    "related": ["jslint"],
+    "related": ["jslint", "grunt", "gulp", "node"],
     "link": [{
       "JSLint.vim": "https://github.com/hallettj/jslint.vim",
       "node-jslint": "https://github.com/reid/node-jslint",
@@ -1107,7 +1107,7 @@
   },
   {
     "title": "JSHint Plugins and Libraries",
-    "related": ["jshint"],
+    "related": ["jshint", "grunt", "gulp", "meteor"],
     "link": [{
       "JSHint.vim": "https://github.com/Shutnik/jshint2.vim",
       "Grunt Contrib JSHint": "https://github.com/gruntjs/grunt-contrib-jshint",
@@ -1143,7 +1143,7 @@
   },
   {
     "title": "JSCS Plugins and Libraries",
-    "related": ["jscs"],
+    "related": ["jscs", "grunt", "gulp", "babel"],
     "link": [{
       "Grunt JSCS": "https://github.com/jscs-dev/grunt-jscs",
       "Gulp JSCS": "https://github.com/jscs-dev/gulp-jscs",
