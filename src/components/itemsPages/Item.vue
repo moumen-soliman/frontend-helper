@@ -35,7 +35,7 @@
         </b-col>
       </b-row>
       <hr>
-      <h3>Tutorials</h3><br>
+      <h3>Courses & Tutorials</h3><br>
       <b-row>
         <b-col class="text-center" v-if="filiteredTutorials.length < 1">
           Not found Yet, help us and contribute <b><a href="https://github.com/moumen-soliman/frontend-helper/blob/master/src/storedData/tutorials.json" target="_blank">Github Repo</a></b>
