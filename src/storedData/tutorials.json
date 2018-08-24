@@ -259,6 +259,11 @@
     "related": ["materialize"],
     "link": "https://www.javatpoint.com/materialize-css-tutorial"
   },
+  {
+    "title": "Materialize Tutorial - The Net Ninja",
+    "related": ["materialize"],
+    "link": "https://www.youtube.com/watch?v=gCZ3y6mQpW0&list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff"
+  },
 
 
   {
@@ -417,5 +422,22 @@
     "title": "Gulp 4: The new task execution system - gulp.parallel and gulp.series",
     "related": ["gulp"],
     "link": "http://fettblog.eu/gulp-4-parallel-and-series/"
+  },
+
+
+  {
+    "title": "Grunt Tutorial - Grunt makes your web development better! by LearnCode.academy",
+    "related": ["grunt"],
+    "link": "https://www.youtube.com/watch?v=TMKj0BxzVgw&t=1s"
+  },
+  {
+    "title": "Getting started with Grunt.js",
+    "related": ["grunt"],
+    "link": "https://semaphoreci.com/community/tutorials/getting-started-with-grunt-js"
+  },
+  {
+    "title": "Grunt Tutorial - The Net Ninja",
+    "related": ["grunt"],
+    "link": "https://www.youtube.com/watch?v=KAD-l__vek4&list=PL4cUxeGkcC9j85fkVyCzCMJDfteLtrl_y"
   }
 ]
