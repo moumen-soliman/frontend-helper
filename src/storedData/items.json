@@ -120,7 +120,7 @@
   },
   {
     "title": "Atomic CSS",
-    "link": ["acss"],
+    "link": ["atomic-css"],
     "url": "https://acss.io",
     "overview": "Atomic CSS is a collection of single purpose styling units for maximum reuse that fits well with components in templated frameworks such as React, Ember or Angular. For more information we recommend that you read 'Challenging CSS best practices', watch the Atomic CSS presentation, or check this deck.",
     "img": "acss.png"
