@@ -945,5 +945,18 @@
       "Stylus Loader": "https://github.com/shama/stylus-loader",
       "Isomorphic Style Loader": "https://github.com/kriasoft/isomorphic-style-loader"
     }]
+  },
+  {
+    "title": "Webpack Language & Framework Loaders Libraries",
+    "related": ["webpack", "typescript", "bootstrap", "elm"],
+    "link": [{
+      "TypeScript loader": "https://github.com/TypeStrong/ts-loader",
+      "Awesome TypeScript Loader": "https://github.com/s-panferov/awesome-typescript-loader",
+      "Coffee Loader": "https://github.com/webpack/coffee-loader",
+      "Bootstrap Loader": "https://github.com/shakacode/bootstrap-loader",
+      "PostHTML Loader": "https://github.com/posthtml/posthtml",
+      "ELM Loader": "https://github.com/rtfeldman/elm-webpack-loader",
+      "Fengari Loader": "https://github.com/fengari-lua/fengari-loader/"
+    }]
   }
 ]
