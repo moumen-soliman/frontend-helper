@@ -1004,7 +1004,7 @@
 
 
   {
-    "title": "Eslint Configs",
+    "title": "ESLint Configs",
     "related": ["eslint"],
     "link": [{
       "Airbnb": "https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb",
@@ -1019,7 +1019,7 @@
     }]
   },
   {
-    "title": "Eslint Frameworks and Libraries",
+    "title": "ESLint Frameworks and Libraries",
     "related": ["eslint", "angular", "backbone", "ember", "jasmine", "jest", "lodash", "meteor", "mongodb", "react", "vue"],
     "link": [{
       "Angular": "https://github.com/Gillespie59/eslint-plugin-angular",
@@ -1044,7 +1044,7 @@
     }]
   },
   {
-    "title": "Eslint Tools",
+    "title": "ESLint Tools",
     "related": ["eslint"],
     "link": [{
       "eslint-cli": "https://github.com/eslint/eslint-cli",
