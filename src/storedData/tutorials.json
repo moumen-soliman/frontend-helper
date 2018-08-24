@@ -513,5 +513,10 @@
     "title": "Writing a rule to spot undeclared props hiding in plain sight",
     "related": ["eslint"],
     "link": "http://blog.cowchimp.com/writing-a-custom-eslint-rule-to-spot-undeclared-props/"
+  },
+  {
+    "title": "Diving into ESLint by Andrew Mead",
+    "related": ["eslint"],
+    "link": "https://www.youtube.com/watch?v=nxxl2H_TOTc&list=PLMWjeRChIK6bnp6qaS3rxLGCpc9aQYzEE"
   }
 ]
