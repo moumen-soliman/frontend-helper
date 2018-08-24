@@ -1312,5 +1312,15 @@
       "JQuery slider Plugins": "https://plugins.jquery.com/tag/slider/",
       "JQuery ajax Plugins": "https://plugins.jquery.com/tag/ajax/"
     }]
+  },
+  {
+    "title": "JQuery UI",
+    "related": ["jquery", "javascript"],
+    "link": [{
+      "Dragula": "https://github.com/bevacqua/dragula",
+      "jQuery UI": "http://jqueryui.com/",
+      "jQuery Enhanced Splitter": "https://github.com/hiltonjanfield/jquery.enhsplitter",
+      "tabulous.js": "https://github.com/aarondo/tabulous.js"
+    }]
   }
 ]
