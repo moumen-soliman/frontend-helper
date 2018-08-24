@@ -871,5 +871,20 @@
       "Gulp Writing a Plugin": "https://github.com/gulpjs/gulp/blob/master/docs/writing-a-plugin/README.md",
       "Gulp Recipes": "https://github.com/gulpjs/gulp/tree/master/docs/recipes"
     }]
+  },
+
+
+  {
+    "title": "Grunt Standards",
+    "related": ["grunt"],
+    "link": [{
+      "Grunt Official Website": "https://gruntjs.com/",
+      "Grunt Github Repository": "https://github.com/gruntjs/",
+      "Grunt Getting Started": "https://gruntjs.com/getting-started",
+      "Grunt Creating tasks": "https://gruntjs.com/creating-tasks",
+      "Grunt Using the CLI": "https://gruntjs.com/using-the-cli",
+      "Grunt API Documentation": "https://gruntjs.com/api/grunt",
+      "Grunt Installation": "https://gruntjs.com/installing-grunt"
+    }]
   }
 ]
