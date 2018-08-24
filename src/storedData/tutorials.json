@@ -284,5 +284,10 @@
     "title": "Atomic CSS Responsive Web Design - Tutorial",
     "related": ["atomic-css"],
     "link": "https://acss.io/tutorials/responsive-web-design.html"
+  },
+  {
+    "title": "Atomic Design: Create Design Systems, Not Pages",
+    "related": ["atomic-css"],
+    "link": "https://www.youtube.com/watch?v=wcAl0VXYBGE"
   }
 ]
