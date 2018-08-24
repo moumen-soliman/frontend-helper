@@ -439,5 +439,47 @@
     "title": "Grunt Tutorial - The Net Ninja",
     "related": ["grunt"],
     "link": "https://www.youtube.com/watch?v=KAD-l__vek4&list=PL4cUxeGkcC9j85fkVyCzCMJDfteLtrl_y"
+  },
+
+
+  {
+    "title": "Webpack for Everyone Free Laracasts series by Jeffrey Way",
+    "related": ["webpack"],
+    "link": "https://laracasts.com/series/webpack-for-everyone"
+  },
+  {
+    "title": "Intro to webpack (playlist) - Egghead.io playlist of a few videos by Kent C. Dodds",
+    "related": ["webpack"],
+    "link": "https://egghead.io/playlists/intro-to-webpack-4ca2d994"
+  },
+  {
+    "title": "Angular and Webpack for modular applications - Egghead.io course by Kent C. Dodds",
+    "related": ["webpack"],
+    "link": "https://egghead.io/courses/angular-and-webpack-for-modular-applications"
+  },
+  {
+    "title": "Using Webpack for Production JavaScript Applications - Egghead.io course by Kent C. Dodds",
+    "related": ["webpack"],
+    "link": "https://egghead.io/courses/using-webpack-for-production-javascript-applications"
+  },
+  {
+    "title": "Webpack Fundamentals by Joe Eames",
+    "related": ["webpack"],
+    "link": "https://www.pluralsight.com/courses/webpack-fundamentals"
+  },
+  {
+    "title": "Webpack Academy",
+    "related": ["webpack"],
+    "link": "https://webpack.academy/"
+  },
+  {
+    "title": "Webpack 4 Fundamentals - FrontendMasters by Sean Larkin",
+    "related": ["webpack"],
+    "link": "https://frontendmasters.com/courses/webpack-fundamentals/"
+  },
+  {
+    "title": "Mastering Webpack Plugins - FrontendMasters by Sean Larkin",
+    "related": ["webpack"],
+    "link": "https://frontendmasters.com/courses/webpack-plugins/"
   }
 ]
