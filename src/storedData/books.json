@@ -388,5 +388,17 @@
     "title": "Developing Single Page Apps with Backbone.js by Prateek Dayal - work in progress",
     "related": ["backbone"],
     "link": "https://singlepagebook.supportbee.com/"
+  },
+
+
+  {
+    "title": "Beginning JSON by BEN SMITH",
+    "related": ["json"],
+    "link": "https://www.amazon.com/Beginning-JSON-Ben-Smith/dp/1484202031"
+  },
+  {
+    "title": "Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON by Lindsay Bassett",
+    "related": ["json"],
+    "link": "https://www.amazon.com/Introduction-JavaScript-Object-Notation-Point/dp/1491929480/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=MZKCSNZ9TBKBQ7VPZWY4"
   }
 ]
