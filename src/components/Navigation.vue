@@ -27,7 +27,7 @@ export default {
         {
           id: 1,
           text: 'Home',
-          page: '/'
+          page: '/frontend-helper'
         },
         {
           id: 2,

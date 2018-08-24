@@ -1,6 +1,6 @@
 <template>
   <b-container>
-    <router-link class="backHome-arrow" :to="`/`" exact>⮪</router-link>
+    <router-link class="backHome-arrow" :to="`/frontend-helper`" exact>⮪</router-link>
     <b-row>
       <div class="item-container" v-for="post in filiteredPage">
         <b-col>
