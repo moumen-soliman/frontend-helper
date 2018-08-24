@@ -18,6 +18,7 @@ export default {
 <style lang="scss" scoped>
 div {
   color: #000;
-  margin-top: 20vh;
+  margin-top: 25vh;
+  margin-bottom: 35vh;
 }
 </style>

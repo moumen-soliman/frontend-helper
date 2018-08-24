@@ -8,18 +8,21 @@
     <b-container>
       <router-view/>
     </b-container>
+    <Footer></Footer>
   </div>
 </template>
 
 <script>
 import Navigation from './components/Navigation'
 import HighlightMsg from './components/HighlightMsg'
+import Footer from './components/Footer'
 
 export default {
   name: 'app',
   components: {
     Navigation,
-    HighlightMsg
+    HighlightMsg,
+    Footer
   }
 }
 </script>

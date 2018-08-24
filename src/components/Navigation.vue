@@ -5,7 +5,7 @@
         <b-navbar-toggle target="nav_dropdown_collapse"></b-navbar-toggle>
         <b-collapse is-nav id="nav_dropdown_collapse">
               <router-link class="navbar-brand"
-              :to="`/`" exact><span>&lt;</span><b>Frontend</b>Helper<span>/&gt;</span></router-link>
+              :to="`/frontend-helper`" exact><span>&lt;</span><b>Frontend</b>Helper<span>/&gt;</span></router-link>
             <!-- Navbar dropdowns -->
             <b-navbar-nav class="ml-auto">
               <router-link class="nav-link" v-for="routes in links"
