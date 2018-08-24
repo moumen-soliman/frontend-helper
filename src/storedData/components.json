@@ -1017,5 +1017,30 @@
       "Shopify": "https://github.com/Shopify/eslint-plugin-shopify",
       "Standard": "https://github.com/feross/eslint-config-standard"
     }]
+  },
+  {
+    "title": "Eslint Frameworks and Libraries",
+    "related": ["eslint", "angular", "backbone", "ember", "jasmine", "jest", "lodash", "meteor", "mongodb", "react", "vue"],
+    "link": [{
+      "Angular": "https://github.com/Gillespie59/eslint-plugin-angular",
+      "AVA": "https://github.com/sindresorhus/eslint-plugin-ava",
+      "Backbone": "https://github.com/ilyavolodin/eslint-plugin-backbone",
+      "Chai": "https://github.com/turbo87/eslint-plugin-chai-expect",
+      "Ember": "https://github.com/netguru/eslint-plugin-ember",
+      "Hapi": "https://github.com/continuationlabs/eslint-plugin-hapi",
+      "Jasmine": "https://github.com/tlvince/eslint-plugin-jasmine",
+      "Jest": "https://github.com/jest-community/eslint-plugin-jest",
+      "JSDoc": "https://github.com/gajus/eslint-plugin-jsdoc",
+      "Lodash": "https://github.com/wix/eslint-plugin-lodash",
+      "Lodash/fp": "https://github.com/jfmengels/eslint-plugin-lodash-fp",
+      "Lodash template": "https://github.com/ota-meshi/eslint-plugin-lodash-template",
+      "Meteor": "https://github.com/dferber90/eslint-plugin-meteor",
+      "Mongodb": "https://github.com/nfroidure/eslint-plugin-mongodb",
+      "Ramda": "https://github.com/ramda/eslint-plugin-ramda",
+      "React": "https://github.com/yannickcr/eslint-plugin-react",
+      "React Native": "https://github.com/Intellicode/eslint-plugin-react-native",
+      "RequireJS": "https://github.com/cvisco/eslint-plugin-requirejs",
+      "VueJS": "https://github.com/vuejs/eslint-plugin-vue"
+    }]
   }
 ]
