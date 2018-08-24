@@ -1092,5 +1092,17 @@
       "SublimeLinter-jslint": "https://github.com/devdoc/SublimeLinter-jslint",
       "brackets-JSLint-Configurator": "https://github.com/georapbox/brackets-JSLint-Configurator"
     }]
+  },
+
+
+  {
+    "title": "JSHint Standards",
+    "related": ["jshint"],
+    "link": [{
+      "JSHint Official Website": "http://jshint.com/",
+      "JSHint Github Repo": "https://github.com/jshint/jshint",
+      "JSHint Documentation": "http://jshint.com/docs/",
+      "JSHint Install": "http://jshint.com/install/"
+    }]
   }
 ]
