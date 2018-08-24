@@ -1322,5 +1322,13 @@
       "jQuery Enhanced Splitter": "https://github.com/hiltonjanfield/jquery.enhsplitter",
       "tabulous.js": "https://github.com/aarondo/tabulous.js"
     }]
+  },
+  {
+    "title": "JQuery Testing",
+    "related": ["jquery", "javascript"],
+    "link": [{
+      "Qunit": "http://qunitjs.com/",
+      "Mockjax": "https://github.com/jakerella/jquery-mockjax"
+    }]
   }
 ]
