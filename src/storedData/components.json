@@ -853,5 +853,23 @@
       "yarn Offline Mirror": "https://yarnpkg.com/en/docs/offline-mirror",
       "yarn Workspaces": "https://yarnpkg.com/en/docs/workspaces"
     }]
+  },
+
+
+  {
+    "title": "Gulp Standards",
+    "related": ["gulp"],
+    "link": [{
+      "Gulp Official Website": "http://gulpjs.com/",
+      "Gulp Github Repository": "https://github.com/gulpjs/gulp",
+      "Gulp Plugin Registry": "http://gulpjs.com/plugins/",
+      "Gulp NPM Module": "https://www.npmjs.com/package/gulp",
+      "Gulp Blacklisted Plugins": "https://github.com/gulpjs/plugins/blob/master/src/blackList.json",
+      "Gulp Getting Started": "https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md",
+      "Gulp API Documentation": "https://github.com/gulpjs/gulp/blob/master/docs/API.md",
+      "Gulp CLI Documentation": "https://github.com/gulpjs/gulp/tree/master/docs#articles",
+      "Gulp Writing a Plugin": "https://github.com/gulpjs/gulp/blob/master/docs/writing-a-plugin/README.md",
+      "Gulp Recipes": "https://github.com/gulpjs/gulp/tree/master/docs/recipes"
+    }]
   }
 ]
