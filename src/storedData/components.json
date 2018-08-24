@@ -1204,6 +1204,19 @@
   },
 
 
+
+  {
+    "title": "JSON Front-end Components",
+    "related": ["json", "javascript"],
+    "link": [{
+      "JSON editor jQuery plugin": "https://github.com/DavidDurman/FlexiJsonEditor",
+      "jqTree": "http://mbraak.github.io/jqTree/",
+      "jsTree": "https://www.jstree.com/docs/json/",
+      "DynatableJS": "https://www.dynatable.com/",
+      "JSON Formatter": "https://github.com/mohsen1/json-formatter",
+      "react-jsonschema-form": "https://mozilla-services.github.io/react-jsonschema-form/"
+    }]
+  },
   {
     "title": "JSON Command-line tools",
     "related": ["json"],
