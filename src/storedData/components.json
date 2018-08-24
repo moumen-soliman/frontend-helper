@@ -960,7 +960,7 @@
     }]
   },
   {
-    "title": "Webpack Utility Libraries",
+    "title": "Webpack Utility Loaders Libraries",
     "related": ["webpack", "eslint", "jshint", "jscs", "babel", "angular"],
     "link": [{
       "Babel Loader": "https://github.com/babel/babel-loader",
@@ -977,6 +977,15 @@
       "Icons Loader": "https://www.npmjs.com/package/icons-loader",
       "Modernizr Loader": "https://www.npmjs.com/package/modernizr-loader",
       "ngRouter Loader": "https://github.com/shlomiassaf/ng-router-loader"
+    }]
+  },
+  {
+    "title": "Webpack Testing Loaders Libraries",
+    "related": ["webpack", "mocha", "karma"],
+    "link": [{
+      "Mocha Loader": "https://github.com/webpack/mocha-loader",
+      "Karma Webpack": "https://github.com/webpack/karma-webpack",
+      "Istanbul Webpack plugin": "https://github.com/DxCx/webpack-istanbul-plugin"
     }]
   }
 ]
