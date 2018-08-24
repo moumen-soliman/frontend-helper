@@ -300,5 +300,12 @@
     "title": "The Knitter's Book of Yarn: The Ultimate Guide to Choosing, Using, and Enjoying Yarn by Clara Parkes",
     "related": ["yarn"],
     "link": "https://www.amazon.com/Knitters-Book-Yarn-Ultimate-Choosing/dp/0307352161"
+  },
+
+
+  {
+    "title": "Getting Started with Gulp by Travis Maynard",
+    "related": ["gulp"],
+    "link": "https://www.amazon.com/Getting-Started-Gulp-Travis-Maynard/dp/1784395765"
   }
 ]
