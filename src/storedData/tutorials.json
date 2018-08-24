@@ -535,5 +535,47 @@
     "title": "Running JavaScript code quality tool with JSHint and Grunt",
     "related": ["jshint"],
     "link": "https://www.youtube.com/watch?v=ekFaRprcmWo"
+  },
+
+
+  {
+    "title": "Anatomy of Backbone.js",
+    "related": ["backbone"],
+    "link": "https://www.codeschool.com/courses/anatomy-of-backbone-js"
+  },
+  {
+    "title": "Advanced Backbone Patterns and Techniques",
+    "related": ["backbone"],
+    "link": "http://code.tutsplus.com/courses/advanced-backbone-patterns-and-techniques"
+  },
+  {
+    "title": "Connected to the Backbone",
+    "related": ["backbone"],
+    "link": "http://code.tutsplus.com/courses/connected-to-the-backbone"
+  },
+  {
+    "title": "Structuring Your Web Apps via Backbone.js",
+    "related": ["backbone"],
+    "link": "https://github.com/hegdeashwin/Backbone"
+  },
+  {
+    "title": "Backbone.JS In-Depth and Introduction to Testing with Mocha and Sinon",
+    "related": ["backbone"],
+    "link": "https://frontendmasters.com/courses/backbone-js-in-depth-testing-mocha-sinon/"
+  },
+  {
+    "title": "Up and Running with Backbone.js",
+    "related": ["backbone"],
+    "link": "http://www.lynda.com/Backbonejs-tutorials/Up-Running-Backbonejs/163089-2.html"
+  },
+  {
+    "title": "Application Building Patterns with Backbone.js",
+    "related": ["backbone"],
+    "link": "http://www.pluralsight.com/courses/playing-with-backbonejs"
+  },
+  {
+    "title": "Backbone.js Fundamentals",
+    "related": ["backbone"],
+    "link": "http://www.pluralsight.com/courses/backbone-fundamentals"
   }
 ]
