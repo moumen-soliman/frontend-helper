@@ -265,5 +265,12 @@
     "title": "OOCSS-SMACSS-BEM playlist by DevTips",
     "related": ["oocss", "bem", "smacss"],
     "link": "https://www.youtube.com/watch?v=6co781JgoqQ&list=PLevJzQw__HcQFWat7LxBLpLhbn-jx1lZ8"
+  },
+
+
+  {
+    "title": "The SMACSS Workshop",
+    "related": ["smacss"],
+    "link": "https://smacss.com/workshops"
   }
 ]
