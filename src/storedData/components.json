@@ -1155,7 +1155,7 @@
 
   {
     "title": "Linting Presets",
-    "related": ["eslint", "jslint", "jshint", "jscs"],
+    "related": ["eslint", "jslint", "jshint", "jscs", "javascript"],
     "link": [{
       "Airbnb": "https://github.com/airbnb/javascript",
       "Crockford": "http://javascript.crockford.com/code.html",
