@@ -35,22 +35,22 @@
         </b-col>
       </b-row>
       <hr>
-      <h3>Courses & Tutorials</h3><br>
-      <b-row>
-        <b-col class="text-center" v-if="filiteredTutorials.length < 1">
-          Not found Yet, help us and contribute <b><a href="https://github.com/moumen-soliman/frontend-helper/blob/master/src/storedData/tutorials.json" target="_blank">Github Repo</a></b>
-        </b-col>
-        <b-col v-else cols="6" v-for="post in filiteredTutorials">
-          <li><a :href="post.link" target="_blank">{{post.title}}</a><br></li>
-        </b-col>
-      </b-row>
-      <hr>
       <h3>Books</h3><br>
       <b-row>
         <b-col class="text-center" v-if="filiteredBooks.length < 1">
           Not found Yet, help us and contribute <b><a href="https://github.com/moumen-soliman/frontend-helper/blob/master/src/storedData/books.json" target="_blank">Github Repo</a></b>
         </b-col>
         <b-col v-else cols="6" v-for="post in filiteredBooks">
+          <li><a :href="post.link" target="_blank">{{post.title}}</a><br></li>
+        </b-col>
+      </b-row>
+      <hr>
+      <h3>Courses & Tutorials</h3><br>
+      <b-row>
+        <b-col class="text-center" v-if="filiteredTutorials.length < 1">
+          Not found Yet, help us and contribute <b><a href="https://github.com/moumen-soliman/frontend-helper/blob/master/src/storedData/tutorials.json" target="_blank">Github Repo</a></b>
+        </b-col>
+        <b-col v-else cols="6" v-for="post in filiteredTutorials">
           <li><a :href="post.link" target="_blank">{{post.title}}</a><br></li>
         </b-col>
       </b-row>
