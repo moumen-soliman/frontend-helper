@@ -481,5 +481,37 @@
     "title": "Mastering Webpack Plugins - FrontendMasters by Sean Larkin",
     "related": ["webpack"],
     "link": "https://frontendmasters.com/courses/webpack-plugins/"
+  },
+
+
+  {
+    "title": "Creating an ESLint Plugin",
+    "related": ["eslint"],
+    "link": "https://medium.com/tumblbug-engineering/creating-an-eslint-plugin-87f1cb42767f"
+  },
+  {
+    "title": "Lint Like It’s 2015",
+    "related": ["eslint"],
+    "link": "https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.5p3yk0b03"
+  },
+  {
+    "title": "Linting JavaScript with ESLint",
+    "related": ["eslint"],
+    "link": "https://egghead.io/lessons/javascript-linting-javascript-with-eslint"
+  },
+  {
+    "title": "Linting React JSX with ESLint (in ES6)",
+    "related": ["eslint"],
+    "link": "https://egghead.io/lessons/react-linting-react-jsx-with-eslint-in-es6"
+  },
+  {
+    "title": "Plugin Module with Mixins",
+    "related": ["eslint"],
+    "link": "https://akullpp.com/eslint-integration"
+  },
+  {
+    "title": "Writing a rule to spot undeclared props hiding in plain sight",
+    "related": ["eslint"],
+    "link": "http://blog.cowchimp.com/writing-a-custom-eslint-rule-to-spot-undeclared-props/"
   }
 ]
