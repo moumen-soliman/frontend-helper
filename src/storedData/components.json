@@ -1372,6 +1372,16 @@
     }]
   },
   {
+    "title": "Vue JSX",
+    "related": ["vue"],
+    "link": [{
+      "jsx-vue-functional": "https://github.com/nickmessing/babel-plugin-jsx-vue-functional",
+      "jsx-event-modifiers": "https://github.com/nickmessing/babel-plugin-jsx-event-modifiers",
+      "jsx-v-model": "https://github.com/nickmessing/babel-plugin-jsx-v-model",
+      "vue-jsx-sync": "https://github.com/njleonzhang/babel-plugin-vue-jsx-sync"
+    }]
+  },
+  {
     "title": "Vue Tables UI Components",
     "related": ["vue"],
     "link": [{
