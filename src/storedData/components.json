@@ -958,5 +958,25 @@
       "ELM Loader": "https://github.com/rtfeldman/elm-webpack-loader",
       "Fengari Loader": "https://github.com/fengari-lua/fengari-loader/"
     }]
+  },
+  {
+    "title": "Webpack Utility Libraries",
+    "related": ["webpack", "eslint", "jshint", "jscs", "babel", "angular"],
+    "link": [{
+      "Babel Loader": "https://github.com/babel/babel-loader",
+      "ESLint Loader": "https://github.com/MoOx/eslint-loader",
+      "JSHint Loader": "https://github.com/webpack/jshint-loader",
+      "JSCS Loader": "https://github.com/unindented/jscs-loader",
+      "Bundle Loader": "https://github.com/webpack/bundle-loader",
+      "Worker Loader": "https://github.com/webpack/worker-loader",
+      "Resolve URL Loader": "https://github.com/bholloway/resolve-url-loader",
+      "Import Loader": "https://github.com/webpack/imports-loader",
+      "SourceMap Loader": "https://github.com/webpack/source-map-loader",
+      "Combine Loader": "https://www.npmjs.com/package/webpack-combine-loaders",
+      "Icon Font Loader": "https://github.com/vusion/icon-font-loader",
+      "Icons Loader": "https://www.npmjs.com/package/icons-loader",
+      "Modernizr Loader": "https://www.npmjs.com/package/modernizr-loader",
+      "ngRouter Loader": "https://github.com/shlomiassaf/ng-router-loader"
+    }]
   }
 ]
