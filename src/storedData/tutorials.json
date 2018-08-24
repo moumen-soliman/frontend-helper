@@ -518,5 +518,22 @@
     "title": "Diving into ESLint by Andrew Mead",
     "related": ["eslint"],
     "link": "https://www.youtube.com/watch?v=nxxl2H_TOTc&list=PLMWjeRChIK6bnp6qaS3rxLGCpc9aQYzEE"
+  },
+
+
+  {
+    "title": "Improve code quality with JSHint",
+    "related": ["jshint"],
+    "link": "https://www.youtube.com/watch?v=n4QnDQwjd-I"
+  },
+  {
+    "title": "Using JsHint",
+    "related": ["jshint"],
+    "link": "https://www.youtube.com/watch?v=n1X0Cnoc0jI"
+  },
+  {
+    "title": "Running JavaScript code quality tool with JSHint and Grunt",
+    "related": ["jshint"],
+    "link": "https://www.youtube.com/watch?v=ekFaRprcmWo"
   }
 ]
