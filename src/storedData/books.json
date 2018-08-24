@@ -288,5 +288,17 @@
     "title": "Official SMACSS book",
     "related": ["smacss"],
     "link": "https://smacss.com/files/smacss-en.zip"
+  },
+
+
+  {
+    "title": "The Yarn Book (Textiles Handbooks) by Penny Walsh",
+    "related": ["yarn"],
+    "link": "https://www.amazon.com/Yarn-Book-Textiles-Handbooks/dp/0812219600"
+  },
+  {
+    "title": "The Knitter's Book of Yarn: The Ultimate Guide to Choosing, Using, and Enjoying Yarn by Clara Parkes",
+    "related": ["yarn"],
+    "link": "https://www.amazon.com/Knitters-Book-Yarn-Ultimate-Choosing/dp/0307352161"
   }
 ]
