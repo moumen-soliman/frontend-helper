@@ -836,5 +836,22 @@
       "npm Stats API": "https://github.com/npm/download-counts",
       "W3schools": "https://www.w3schools.com/nodejs/nodejs_npm.asp"
     }]
+  },
+
+
+  {
+    "title": "yarn Standards",
+    "related": ["yarn"],
+    "link": [{
+      "yarn Documentation": "https://yarnpkg.com/en/docs",
+      "The Yarn Workflow": "https://yarnpkg.com/en/docs",
+      "yarn CLI Commands": "https://yarnpkg.com/en/docs/cli/",
+      "Migrating from npm client": "https://yarnpkg.com/en/docs/migrating-from-npm",
+      "yarn Creating a Package": "https://yarnpkg.com/en/docs/creating-a-package",
+      "yarn Dependencies & Versions": "https://yarnpkg.com/en/docs/dependencies",
+      "yarn Configuration": "https://yarnpkg.com/en/docs/configuration",
+      "yarn Offline Mirror": "https://yarnpkg.com/en/docs/offline-mirror",
+      "yarn Workspaces": "https://yarnpkg.com/en/docs/workspaces"
+    }]
   }
 ]
