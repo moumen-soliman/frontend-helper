@@ -932,5 +932,18 @@
       "Markup-inline Loader Inline SVGs to HTML": "https://github.com/asnowwolf/markup-inline-loader",
       "Polymer Loader": "https://github.com/webpack-contrib/polymer-webpack-loader"
     }]
+  },
+  {
+    "title": "Webpack Styles Loaders Libraries",
+    "related": ["webpack", "postcss", "css", "sass", "less", "stylus"],
+    "link": [{
+      "Style Loader": "https://github.com/webpack/style-loader",
+      "PostCSS Loader": "https://github.com/postcss/postcss-loader",
+      "CSS Loader": "https://github.com/webpack/css-loader",
+      "SASS Loader": "https://github.com/jtangelder/sass-loader",
+      "Less loader": "https://github.com/webpack/less-loader",
+      "Stylus Loader": "https://github.com/shama/stylus-loader",
+      "Isomorphic Style Loader": "https://github.com/kriasoft/isomorphic-style-loader"
+    }]
   }
 ]
