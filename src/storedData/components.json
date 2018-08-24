@@ -1153,6 +1153,7 @@
     }]
   },
 
+
   {
     "title": "Linting Presets",
     "related": ["eslint", "jslint", "jshint", "jscs", "javascript"],
@@ -1167,6 +1168,17 @@
       "node-style-guide": "https://github.com/felixge/node-style-guide",
       "Wikimedia": "https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript",
       "WordPress": "https://make.wordpress.org/core/handbook/coding-standards/javascript/"
+    }]
+  },
+
+
+  {
+    "title": "Backbone Standards",
+    "related": ["backbone"],
+    "link": [{
+      "Backbone Official Website": "http://backbonejs.org/",
+      "Backbone Github Repo": "https://github.com/jashkenas/backbone",
+      "Backbone Documentation": "http://backbonejs.org/#Getting-started"
     }]
   }
 ]
