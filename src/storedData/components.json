@@ -1353,6 +1353,25 @@
     }]
   },
   {
+    "title": "Vue Miscellaneous",
+    "related": ["vue"],
+    "link": [{
+      "vue-container": "https://github.com/dealloc/vuec",
+      "vue-super": "https://github.com/rpkilby/vue-super",
+      "@skyrpex/props-to-local": "https://github.com/skyrpex/props-to-local",
+      "vue-inject": "https://github.com/jpex-js/vue-inject",
+      "vue-deepset": "https://github.com/bhoriuchi/vue-deepset",
+      "vue-gaspard": "https://github.com/lucaperret/vue-gaspard",
+      "vue-configuration": "https://github.com/alex-oleshkevich/vue-config",
+      "vue-lodash": "https://github.com/Ewocker/vue-lodash",
+      "vue-ramda": "https://github.com/choufeng/vue-ramda",
+      "vue-router-user-roles": "https://github.com/anthonygore/vue-router-user-roles",
+      "vue-messenger": "https://github.com/fjc0k/vue-messenger",
+      "vue-uuid-v4": "https://github.com/estudioliver/vue-uuid.git",
+      "vue-async-operations": "https://github.com/devstark-com/vue-async-operations"
+    }]
+  },
+  {
     "title": "Vue Tables UI Components",
     "related": ["vue"],
     "link": [{
