@@ -333,5 +333,17 @@
     "title": "npm Tutorials for Beginners by Red Stapler",
     "related": ["npm"],
     "link": "https://www.youtube.com/watch?v=Yx4wwv6grSY&list=PLbu98QxRH81JOpAj1cxh2HJnGkxAZcfd-"
+  },
+
+
+  {
+    "title": "Intro to Yarn Package Manager by Chris Courses",
+    "related": ["yarn"],
+    "link": "https://www.youtube.com/watch?v=7n467QmiANM"
+  },
+  {
+    "title": "Yarn Package Manager Crash Course",
+    "related": ["yarn"],
+    "link": "https://www.youtube.com/watch?v=g9_6KmiBISk"
   }
 ]
