@@ -917,5 +917,20 @@
       "GraphQL Loader": "https://github.com/stephen/graphql-loader",
       "C/C++ Loader": "https://github.com/ClickSimply/cpp-wasm-loader"
     }]
+  },
+  {
+    "title": "Webpack Component & Template Loaders Libraries",
+    "related": ["webpack"],
+    "link": [{
+      "Angular2 Template Loader": "https://github.com/TheLarkInn/angular2-template-loader",
+      "Handlebars Loader": "https://github.com/pcardune/handlebars-loader",
+      "Vue Loader": "https://github.com/vuejs/vue-loader",
+      "SVG React Loader": "https://github.com/jhamlet/svg-react-loader",
+      "Underscore Loader": "https://github.com/emaphp/underscore-template-loader",
+      "ngTemplate Loader": "https://github.com/WearyMonkey/ngtemplate-loader",
+      "ngInlineStylesLoader": "https://github.com/seveves/ng-inline-styles-loader",
+      "Markup-inline Loader Inline SVGs to HTML": "https://github.com/asnowwolf/markup-inline-loader",
+      "Polymer Loader": "https://github.com/webpack-contrib/polymer-webpack-loader"
+    }]
   }
 ]
