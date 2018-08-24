@@ -316,5 +316,22 @@
     "title": "Atomic Design: Create Design Systems, Not Pages",
     "related": ["atomic-css"],
     "link": "https://www.youtube.com/watch?v=wcAl0VXYBGE"
+  },
+
+
+  {
+    "title": "NPM Crash Course",
+    "related": ["npm"],
+    "link": "https://www.youtube.com/watch?v=jHDhaSSKmB0"
+  },
+  {
+    "title": "npm Tutorials for Beginners by Codevolution",
+    "related": ["npm"],
+    "link": "https://www.youtube.com/watch?v=6fj0cpmMiVg&list=PLC3y8-rFHvwhgWwm5J3KqzX47n7dwWNrq"
+  },
+  {
+    "title": "npm Tutorials for Beginners by Red Stapler",
+    "related": ["npm"],
+    "link": "https://www.youtube.com/watch?v=Yx4wwv6grSY&list=PLbu98QxRH81JOpAj1cxh2HJnGkxAZcfd-"
   }
 ]
