@@ -22,7 +22,7 @@ export default new Router({
       component: Home
     },
     {
-      path: '/about',
+      path: '/frontend-helper/about',
       name: 'About',
       component: About
     },
@@ -32,22 +32,22 @@ export default new Router({
       component: NotFound
     },
     {
-      path: '/item',
+      path: '/frontend-helper/item',
       name: 'Item',
       component: Item
     },
     {
-      path: '/Articles',
+      path: '/frontend-helper/Articles',
       name: 'Articles',
       component: Articles
     },
     {
-      path: '/Conferences',
+      path: '/frontend-helper/Conferences',
       name: 'Conferences',
       component: Conferences
     },
     {
-      path: '/Contributors',
+      path: '/frontend-helper/Contributors',
       name: 'Contributors',
       component: Contributors
     }
