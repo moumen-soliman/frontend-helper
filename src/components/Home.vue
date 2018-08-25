@@ -12,6 +12,9 @@
           </div>
         </router-link>
       </div>
+      <div class="not-found" v-if="filteredPosts.length < 1">
+        <h4>Not Found :( <br>If you need it you can add it on <a href="https://github.com/moumen-soliman/frontend-helper" target="_blank">Github Repo</a></h4>
+      </div>
     </div>
   </b-container>
 </template>
@@ -44,6 +47,14 @@ export default {
   padding: 10px;
   outline: none;
   font-size: 16px;
+}
+.not-found {
+  h4 {
+    margin: 28vh auto;
+    a {
+      text-decoration: underline;
+    }
+  }
 }
 .full-logos-items {
   padding: 30px 0;
