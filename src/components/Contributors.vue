@@ -7,12 +7,13 @@
     <br>
     <div>
       <b-row>
-        <b-col class="contribute-item" cols="4">
+        <b-col class="contribute-item" cols="4" v-for="key in info">
             <div class="main-object">
             <b-media>
-              <b-img slot="aside" :src="info.avatar_url" width="64" height="64" alt="placeholder" />
-              <h6 class="mt-0">@{{info.login}}</h6>
-              <a :href="info.html_url" target="_blank">
+              <b-img slot="aside" :src="key.author.avatar_url" width="64" height="64" alt="placeholder" />
+              <h6 class="mt-0">@{{key.author.login}}</h6>
+              <p>{{key.total}} commits</p>
+              <a :href="key.author.html_url" target="_blank">
                 <button type="button" class="btn btn-primary btn-sm">
                   Profile
                 </button>
@@ -38,7 +39,8 @@ export default {
   mounted () {
     axios
       .get('https://api.github.com/repos/moumen-soliman/frontend-helper/stats/contributors')
-      .then(response => (this.info = response.data[0].author))
+      .then(response => (this.info = response.data))
+      .catch(error => console.log(error.response))
   }
 }
 </script>
@@ -59,6 +61,11 @@ export default {
   box-shadow: 5px 5px 5px #e5e5e5;
   h6 {
     color: rgba(0, 0, 0, 0.5);
+  }
+  p {
+    margin-bottom: 0;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 13px;
   }
   span {
     @extend p;
