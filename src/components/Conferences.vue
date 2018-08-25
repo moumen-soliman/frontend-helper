@@ -1,6 +1,14 @@
 <template>
   <div>
     <b-row>
+      <b-col class="select-form" cols="12">
+        <b-form-select v-model="selected">
+            <option v-for="post in months" :value="post">{{ post.month }}</option>
+        </b-form-select>
+      </b-col>
+    </b-row>
+    <br>
+    <b-row>
       <b-col class="conference-item" cols="4" v-for="post in filiteredMap">
         <a :href="post.link" target="_blank">
           <div>
@@ -22,58 +30,78 @@ export default {
   data () {
     return {
       conf: conf,
+      selected: {
+        month: 'all'
+      },
       months: [
-      {
-        month: 'january',
-      },
-      {
-        month: 'february',
-      },
-      {
-        month: 'march',
-      },
-      {
-        month: 'april',
-      },
-      {
-        month: 'may',
-      },
-      {
-        month: 'june',
-      },
-      {
-        month: 'july',
-      },
-      {
-        month: 'august',
-      },
-      {
-        month: 'setember',
-      },
-      {
-        month: 'june',
-      },
-      {
-        month: 'october',
-      },
-      {
-        month: 'november',
-      },
-      {
-        month: 'december',
-      }
+        {
+          month: 'all',
+        },
+        {
+          month: 'january',
+        },
+        {
+          month: 'february',
+        },
+        {
+          month: 'march',
+        },
+        {
+          month: 'april',
+        },
+        {
+          month: 'may',
+        },
+        {
+          month: 'june',
+        },
+        {
+          month: 'july',
+        },
+        {
+          month: 'august',
+        },
+        {
+          month: 'setember',
+        },
+        {
+          month: 'june',
+        },
+        {
+          month: 'october',
+        },
+        {
+          month: 'november',
+        },
+        {
+          month: 'december',
+        }
       ]
     }
   },
   computed: {
-    filiteredMap() {
-      return this.conf.map(post => post)
+    filiteredMap: function() {
+      const { conf, selected } = this;
+      return conf.filter(function(post) {
+        if( selected.month == post.month) {
+          return post
+        } else if (selected.month == 'all'){
+          return post
+        }
+      });
     }
+
   }
 }
 </script>
 
 <style lang="scss" scoped>
+.select-form {
+  float: right;
+  select {
+    text-transform: capitalize;
+  }
+}
 .conference-item {
   a {
     text-decoration: none;
@@ -92,7 +120,7 @@ export default {
         font-size: 13px;
       }
       span {
-        @extend p;
+        @extend p
       }
     }
   }
