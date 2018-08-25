@@ -62,7 +62,7 @@ export default {
           month: 'august',
         },
         {
-          month: 'setember',
+          month: 'september',
         },
         {
           month: 'june',
