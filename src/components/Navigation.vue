@@ -32,22 +32,22 @@ export default {
         {
           id: 2,
           text: 'About',
-          page: '/About'
+          page: '/frontend-helper/About'
         },
         {
           id: 3,
           text: 'Articles',
-          page: '/Articles'
+          page: '/frontend-helper/Articles'
         },
         {
           id: 4,
           text: 'Conferences',
-          page:'/Conferences'
+          page:'/frontend-helper/Conferences'
         },
         {
           id: 5,
           text: 'Contributors',
-          page:'/Contributors'
+          page:'/frontend-helper/Contributors'
         }
       ]
     }

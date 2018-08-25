@@ -2,7 +2,7 @@
   <b-container>
     <div class="full-logos-items text-center">
       <div class="item" v-for="post in posts" :key="post.title">
-        <router-link class="nav-link" :to="`/item?page=${post.link[0]}`" exact>
+        <router-link class="nav-link" :to="`/frontend-helper/item?page=${post.link[0]}`" exact>
           <div v-if="post.img != 'notfound'">
             <b-img-lazy :src="require(`../assets/images/items/${post.img}`)"/>
           </div>

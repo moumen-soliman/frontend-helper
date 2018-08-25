@@ -17,6 +17,7 @@ export default {
 
 <style lang="scss" scoped>
 footer {
+  margin-top: 50px;
   padding-top: 15px;
   padding-bottom: 10px;
   border-top: 1px solid rgba($color: #000000, $alpha: 0.1);
