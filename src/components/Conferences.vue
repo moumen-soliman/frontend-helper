@@ -1,7 +1,10 @@
 <template>
   <div>
     <b-row>
-      <b-col class="select-form" cols="12">
+      <b-col cols="8">
+          <input class="form-control" placeholder="Search" type="text" v-model="filter"/>
+      </b-col>
+      <b-col class="select-form" cols="4">
         <b-form-select v-model="selected">
             <option v-for="post in months" :value="post">{{ post.month }}</option>
         </b-form-select>
@@ -30,6 +33,7 @@ export default {
   data () {
     return {
       conf: conf,
+      filter: "",
       selected: {
         month: 'all'
       },
@@ -80,15 +84,17 @@ export default {
     }
   },
   computed: {
-    filiteredMap: function() {
-      const { conf, selected } = this;
-      return conf.filter(function(post) {
-        if( selected.month == post.month) {
-          return post
-        } else if (selected.month == 'all'){
-          return post
-        }
-      });
+    filiteredMap () {
+      const { conf, selected, filter } = this;
+      return conf
+        .filter(post => {
+          if( selected.month == post.month) {
+            return post
+          } else if (selected.month == 'all') {
+            return post
+          }
+        })
+        .filter(post => post.conference.toLowerCase().includes(filter.toLowerCase()))
     }
 
   }
