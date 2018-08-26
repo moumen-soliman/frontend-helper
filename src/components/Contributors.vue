@@ -66,6 +66,7 @@ export default {
     margin-bottom: 0;
     color: rgba(0, 0, 0, 0.5);
     font-size: 13px;
+    display: initial;
   }
   span {
     @extend p;
