@@ -1,6 +1,6 @@
 <template>
   <b-container>
-    <input class="filter-items" placeholder="Search" type="text" v-model="filter"/>
+    <input class="form-control" placeholder="Search" type="text" v-model="filter"/>
     <div class="full-logos-items text-center">
       <div class="item" v-for="post in filteredPosts" :key="post.title">
         <router-link class="nav-link" :to="`/frontend-helper/item?page=${post.link[0]}`" exact>
@@ -31,23 +31,16 @@ export default {
     };
   },
   computed: {
-    filteredPosts: function() {
+    filteredPosts () {
       const { filter, posts } = this;
-      return posts.filter(function(post) {
-        return post.title.toLowerCase().indexOf(filter.toLowerCase()) >= 0;
-      });
+      return posts
+        .filter(post => post.title.toLowerCase().includes(filter.toLowerCase()))
     }
   }
 };
 </script>
 
 <style lang="scss" scoped>
-.filter-items {
-  width: 100%;
-  padding: 10px;
-  outline: none;
-  font-size: 16px;
-}
 .not-found {
   h4 {
     margin: 28vh auto;
