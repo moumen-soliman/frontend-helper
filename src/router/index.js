@@ -1,16 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 
-import Home from '@components/Home'
-import About from '@components/About'
-import Articles from '@components/Articles'
-import Conferences from '@components/Conferences'
-import Contributors from '@components/Contributors'
-import NotFound from '@components/NotFound'
-
-// Items
-import Item from '@components/itemsPages/Item'
-
 Vue.use(Router)
 
 export default new Router({
@@ -23,37 +13,37 @@ export default new Router({
     {
       path: '/frontend-helper',
       name: 'Home',
-      component: Home
+      component: () => import('@components/Home')
     },
     {
       path: '/frontend-helper/about',
       name: 'About',
-      component: About
+      component: () => import('@components/About')
     },
     {
       path: '/frontend-helper/item',
       name: 'Item',
-      component: Item
+      component: () => import('@components/itemsPages/Item')
     },
     {
       path: '/frontend-helper/Articles',
       name: 'Articles',
-      component: Articles
+      component: () => import('@components/Articles')
     },
     {
       path: '/frontend-helper/Conferences',
       name: 'Conferences',
-      component: Conferences
+      component: () => import('@components/Conferences')
     },
     {
       path: '/frontend-helper/Contributors',
       name: 'Contributors',
-      component: Contributors
+      component: () => import('@components/Contributors')
     },
     {
       path: '*',
       name: 'NotFound',
-      component: NotFound
+      component: () => import('@components/NotFound')
     }
   ]
 })
