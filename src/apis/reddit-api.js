@@ -1,5 +1,3 @@
-import axios from 'axios'
-
 const subreddits = {
   'development': [
     'angularjs',
@@ -37,13 +35,13 @@ const subreddits = {
 
 var redditCache = []
 
-export function fetchRedditPosts (cb) {
+export function fetchRedditPosts (http, cb) {
   var urlDict = []
 
   if (redditCache.length === 0) {
     for (var index = 0; index < subreddits['development'].length; index++) {
       var subreddit = subreddits['development'][index]
-      axios.get('https://www.reddit.com/r/' + subreddit + '/new.json?limit=50')
+      http.get('https://www.reddit.com/r/' + subreddit + '/new.json?limit=50')
         .then(function (resp) {
           for (var i = 0; i < resp.data.data.children.length; i++) {
             var post = resp.data.data.children[i].data

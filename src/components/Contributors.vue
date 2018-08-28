@@ -27,8 +27,6 @@
 </template>
 
 <script>
-import axios from 'axios'
-
 export default {
   name: 'Contributors', // this is the name of the component
   data () {
@@ -37,7 +35,7 @@ export default {
     }
   },
   mounted () {
-    axios
+    this.$http
       .get('https://api.github.com/repos/moumen-soliman/frontend-helper/stats/contributors')
       .then(response => (this.info = response.data.reverse()))
       .catch(error => console.log(error.response))

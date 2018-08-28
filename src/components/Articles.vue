@@ -26,7 +26,7 @@ export default {
   methods: {
     fetchData () {
       this.posts = []
-      fetchRedditPosts(this.loadPosts)
+      fetchRedditPosts(this.$http, this.loadPosts)
     },
     loadPosts (result) {
       this.posts = result
