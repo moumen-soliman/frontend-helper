@@ -21,7 +21,7 @@ npm run build --report
 ```
 ## How it work?
 
-There are 5 files .json you will find it at `src/storedData/...here`, every file it contains objects data, We display our data like items and components and books and tutorial based on this data and related links, If you want to share data in another item, just write the name like this.
+There are 5 files .json you will find it at `src/data/...here`, every file it contains objects data, We display our data like items and components and books and tutorial based on this data and related links, If you want to share data in another item, just write the name like this.
 
 ```bash
 # before
