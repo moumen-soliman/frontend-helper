@@ -21,6 +21,8 @@
         </span>
         <span class="dot" v-if="item.creator">•</span>
         <a :href="item.comments_url" title="View comments" target="_blank" v-if="item.comments_url">{{ item.num_comments }} comments</a>
+        <span class="dot" v-if="item.comments_url">•</span>
+        <span>{{ item.time  | moment("from", "now", true) }} ago</span>
       </div>
     </div>
   </div>
