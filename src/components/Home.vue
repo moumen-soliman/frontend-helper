@@ -5,10 +5,10 @@
       <b-col class="item" xs="12" sm="6" md="3" lg="2" v-for="post in filteredPosts" :key="post.title">
         <router-link class="nav-link" :to="`/frontend-helper/item?page=${post.link[0]}`" exact>
           <div v-if="post.img != 'notfound'">
-            <b-img-lazy :src="require(`../assets/images/items/${post.img}`)"/>
+            <b-img-lazy :src="require(`../assets/images/items/${post.img}`)" :offset="150" />
           </div>
           <div v-else>
-            <b-img-lazy :src="`https://lightwidget.com/widgets/empty-photo.jpg`" width="100"/>
+            <b-img-lazy :src="`https://lightwidget.com/widgets/empty-photo.jpg`" width="100" :offset="150" />
           </div>
         </router-link>
       </b-col>
