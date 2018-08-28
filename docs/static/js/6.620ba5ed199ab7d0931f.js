@@ -1,0 +1,2 @@
+webpackJsonp([6],{YcJa:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,n=this._self._c||e;return n("div",[n("h2",[this._v("\n    "+this._s(this.notfoundheadline)+"\n  ")])])},staticRenderFns:[]},s=t("VU/8")({name:"NotFound",data:function(){return{notfoundheadline:"404 sorry"}}},r,!1,null,null,null);n.default=s.exports}});
+//# sourceMappingURL=6.620ba5ed199ab7d0931f.js.map
