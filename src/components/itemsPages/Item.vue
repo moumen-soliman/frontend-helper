@@ -2,7 +2,7 @@
   <b-container>
     <router-link class="backHome-arrow" :to="`/frontend-helper`" exact>⮪</router-link>
     <b-row>
-      <div class="item-container" v-for="post in filiteredPage">
+      <div class="item-container" v-for="(post, index) in filiteredPage" :key="index">
         <b-col>
           <b-img-lazy class="pull-right" :src="require(`../../assets/images/items/${post.img}`)"/>
         </b-col>
@@ -21,12 +21,12 @@
         <b-col class="text-center" v-if="filiteredMap.length < 1">
           Not found Yet, help us and contribute <b><a href="https://github.com/moumen-soliman/frontend-helper/blob/master/src/storedData/components.json" target="_blank">Github Repo</a></b>
         </b-col>
-        <b-col v-else cols="4" v-for="post in filiteredMap">
+        <b-col v-else xs="12" sm="6" lg="4" v-for="(post, index) in filiteredMap" :key="index">
           <ul class="main-ul">
             <li><h5>{{post.title}}</h5></li>
             <ul>
-              <div v-for="(key,index,value) in post.link">
-                <div v-for="(key, index, value) in key">
+              <div v-for="(key, index) in post.link" :key="index">
+                <div v-for="(key, index) in key" :key="index">
                   <li><a :href="key" target="_blank">{{index}}</a><br></li>
                 </div>
               </div>
@@ -40,7 +40,7 @@
         <b-col class="text-center" v-if="filiteredBooks.length < 1">
           Not found Yet, help us and contribute <b><a href="https://github.com/moumen-soliman/frontend-helper/blob/master/src/storedData/books.json" target="_blank">Github Repo</a></b>
         </b-col>
-        <b-col v-else cols="6" v-for="post in filiteredBooks">
+        <b-col v-else xs="12" sm="6" lg="4" v-for="(post, index) in filiteredBooks" :key="index">
           <li><a :href="post.link" target="_blank">{{post.title}}</a><br></li>
         </b-col>
       </b-row>
@@ -50,7 +50,7 @@
         <b-col class="text-center" v-if="filiteredTutorials.length < 1">
           Not found Yet, help us and contribute <b><a href="https://github.com/moumen-soliman/frontend-helper/blob/master/src/storedData/tutorials.json" target="_blank">Github Repo</a></b>
         </b-col>
-        <b-col v-else cols="6" v-for="post in filiteredTutorials">
+        <b-col v-else xs="12" sm="6" lg="4" v-for="(post, index) in filiteredTutorials" :key="index">
           <li><a :href="post.link" target="_blank">{{post.title}}</a><br></li>
         </b-col>
       </b-row>
@@ -59,10 +59,10 @@
 </template>
 
 <script>
-import items from '../../storedData/items.json';
-import components from '../../storedData/components.json';
-import books from '../../storedData/books.json';
-import tutorials from '../../storedData/tutorials.json';
+import items from '../../storedData/items.json'
+import components from '../../storedData/components.json'
+import books from '../../storedData/books.json'
+import tutorials from '../../storedData/tutorials.json'
 
 export default {
   name: 'Item',
@@ -73,40 +73,40 @@ export default {
       books: books,
       tutorials: tutorials,
       currentPage: this.$route.query.page,
-      info : null
+      info: null
     }
   },
   computed: {
-      filiteredPage () {
-        return this.items
-          .filter(post => {
-            var includedLink = post.link.indexOf(this.currentPage.toLowerCase()) > -1
-            return includedLink
-          });
-      },
-      filiteredMap () {
-        return this.components
-          .filter(post => {
-            var includedLink = post.related.toString().indexOf(this.currentPage.toLowerCase()) > -1
-            return includedLink;
-          });
-      },
-      filiteredBooks () {
-        return this.books
-          .filter(post => {
-            var includedLink = post.related.toString().indexOf(this.currentPage.toLowerCase()) > -1
-            return includedLink;
-          });
-      },
-      filiteredTutorials () {
-        return this.tutorials
-          .filter(post => {
-            var includedLink = post.related.toString().indexOf(this.currentPage.toLowerCase()) > -1
-            return includedLink;
-          });
-      }
+    filiteredPage () {
+      return this.items
+        .filter(post => {
+          var includedLink = post.link.indexOf(this.currentPage.toLowerCase()) > -1
+          return includedLink
+        })
+    },
+    filiteredMap () {
+      return this.components
+        .filter(post => {
+          var includedLink = post.related.toString().indexOf(this.currentPage.toLowerCase()) > -1
+          return includedLink
+        })
+    },
+    filiteredBooks () {
+      return this.books
+        .filter(post => {
+          var includedLink = post.related.toString().indexOf(this.currentPage.toLowerCase()) > -1
+          return includedLink
+        })
+    },
+    filiteredTutorials () {
+      return this.tutorials
+        .filter(post => {
+          var includedLink = post.related.toString().indexOf(this.currentPage.toLowerCase()) > -1
+          return includedLink
+        })
     }
   }
+}
 </script>
 
 <style lang="scss" scoped>

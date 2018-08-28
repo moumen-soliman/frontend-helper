@@ -10,9 +10,8 @@
 export default {
   name: 'About', // this is the name of the component
   data () {
-    return {
-    }
-  },
+    return {}
+  }
 }
 </script>
 <style lang="scss" scoped>

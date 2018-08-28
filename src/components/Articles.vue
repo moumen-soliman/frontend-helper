@@ -12,9 +12,9 @@ export default {
     NewsList
   },
   data () {
-      return {
-          posts: []
-      }
+    return {
+      posts: []
+    }
   },
   created () {
     this.fetchData()

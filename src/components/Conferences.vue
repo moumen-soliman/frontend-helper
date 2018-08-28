@@ -6,13 +6,13 @@
       </b-col>
       <b-col class="select-form" cols="4">
         <b-form-select v-model="selected">
-            <option v-for="post in months" :value="post">{{ post.month }}</option>
+            <option v-for="(post, index) in months" :value="post" :key="index">{{ post.month }}</option>
         </b-form-select>
       </b-col>
     </b-row>
     <br>
     <b-row>
-      <b-col class="conference-item" cols="4" v-for="post in filiteredMap">
+      <b-col class="conference-item" xs="12" sm="6" lg="4" v-for="(post, index) in filiteredMap" :key="index">
         <a :href="post.link" target="_blank">
           <div>
             <h6>{{post.conference}}</h6>
@@ -26,71 +26,71 @@
 </template>
 <script>
 
-import conf from '../storedData/conference.json';
+import conf from '../storedData/conference.json'
 
 export default {
   name: 'Conferences',
   data () {
     return {
       conf: conf,
-      filter: "",
+      filter: '',
       selected: {
         month: 'all'
       },
       months: [
         {
-          month: 'all',
+          month: 'all'
         },
         {
-          month: 'january',
+          month: 'january'
         },
         {
-          month: 'february',
+          month: 'february'
         },
         {
-          month: 'march',
+          month: 'march'
         },
         {
-          month: 'april',
+          month: 'april'
         },
         {
-          month: 'may',
+          month: 'may'
         },
         {
-          month: 'june',
+          month: 'june'
         },
         {
-          month: 'july',
+          month: 'july'
         },
         {
-          month: 'august',
+          month: 'august'
         },
         {
-          month: 'september',
+          month: 'september'
         },
         {
-          month: 'june',
+          month: 'june'
         },
         {
-          month: 'october',
+          month: 'october'
         },
         {
-          month: 'november',
+          month: 'november'
         },
         {
-          month: 'december',
+          month: 'december'
         }
       ]
     }
   },
   computed: {
     filiteredMap () {
-      const { conf, selected, filter } = this;
+      const { conf, selected, filter } = this
       return conf
         .filter(post => {
-          if( selected.month == post.month) {
+          if (selected.month === post.month) {
             return post
-          } else if (selected.month == 'all') {
+          } else if (selected.month === 'all') {
             return post
           }
         })

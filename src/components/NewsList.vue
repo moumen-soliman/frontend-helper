@@ -2,7 +2,7 @@
   <div class="news-content section">
     <p v-if="!orderedPosts || orderedPosts < 1">Loading...</p>
     <ul class="sdr-list">
-        <li v-for="obj in orderedPosts">
+        <li v-for='(obj, index) in orderedPosts' :key="index">
             <post :item="obj"></post>
         </li>
     </ul>
@@ -21,9 +21,9 @@ export default {
   props: ['posts'],
   computed: {
     orderedPosts: function () {
-      return orderBy(this.posts, ['time'], ['desc']);
+      return orderBy(this.posts, ['time'], ['desc'])
     }
-  },
+  }
 }
 </script>
 
@@ -32,4 +32,3 @@ ul {
   list-style: none;
 }
 </style>
-

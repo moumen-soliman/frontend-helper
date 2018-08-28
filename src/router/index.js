@@ -17,6 +17,10 @@ export default new Router({
   mode: 'history',
   routes: [
     {
+      path: '',
+      redirect: { name: 'Home' }
+    },
+    {
       path: '/frontend-helper',
       name: 'Home',
       component: Home
@@ -25,11 +29,6 @@ export default new Router({
       path: '/frontend-helper/about',
       name: 'About',
       component: About
-    },
-    {
-      path: '*',
-      name: 'NotFound',
-      component: NotFound
     },
     {
       path: '/frontend-helper/item',
@@ -50,6 +49,11 @@ export default new Router({
       path: '/frontend-helper/Contributors',
       name: 'Contributors',
       component: Contributors
+    },
+    {
+      path: '*',
+      name: 'NotFound',
+      component: NotFound
     }
   ]
 })

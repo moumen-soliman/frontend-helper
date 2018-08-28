@@ -1,7 +1,7 @@
 <template>
   <div class="media media-left">
     <a :href="url" :title="title" target="_blank" class="thumbnail thumbnail-small">
-      <img :src="'https://www.google.com/s2/favicons?domain_url='+item.url"></img>
+      <img :src="'https://www.google.com/s2/favicons?domain_url='+item.url" />
     </a>
     <div class="media-body">
       <h5 class="entry-title">
@@ -12,7 +12,7 @@
         <img :src="item.previewImage" />
       </div>
       <div class="entry-meta">
-        <span v-for="category in item.categories">
+        <span v-for="(category, index) in item.categories" :key="index">
           <a class="category" :href="category.url" target="_blank">{{ category.title }}</a>
         </span>
         <span class="dot" v-if="item.categories">•</span>
@@ -26,21 +26,18 @@
   </div>
 </template>
 
-
 <script>
-import { unescapem } from './../filters'
-
 export default {
-    name: 'Post',
-    props: ['item'],
-    computed: {
-      url() {
-        return unescape(this.item.url);
-      },
-      title() {
-        return unescape(this.item.title);
-      }
+  name: 'Post',
+  props: ['item'],
+  computed: {
+    url () {
+      return unescape(this.item.url)
+    },
+    title () {
+      return unescape(this.item.title)
     }
+  }
 }
 </script>
 
@@ -70,4 +67,3 @@ export default {
   }
 }
 </style>
-
