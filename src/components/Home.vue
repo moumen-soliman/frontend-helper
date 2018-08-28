@@ -57,7 +57,7 @@ export default {
     img {
       width: 100%;
       max-width: 100px;
-      heught: auto;
+      height: auto;
       -webkit-filter: grayscale(97%);
       &:hover {
         -webkit-filter: grayscale(0);
