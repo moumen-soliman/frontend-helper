@@ -1,6 +1,12 @@
 # Frontend-helper
 
-In this project you will find all frontend stuff that help frontend developers (By Vue.js), Actually this project now is in beta version, Data based on JSON and in clear files, if you are a junior or mid-level or senior or expert you can add your resources and help other developers by add it on JSON file, it's built to be easy in contribute for all developers, You can also add features we still need search and sure resources in every item in homepage
+In this project you will find various frontend resources that will help out frontend developers (primarily those using Vue.js). Its a data-driven project, obviously, and the project uses JSON files with a clear and simple format.
+
+Regardless of whether you are a junior, mid-level, senior or expert developer you can add your own resources to the relevant JSON files, and create a PR.
+
+This project is built so as to easy to contribute to, for all developers, of all levels. You can also add features! We still need search and there is always room for more resources. So get contributing now!
+
+Note: This project is currently in beta.
 
 ### Project url: https://moumen-soliman.github.io/frontend-helper/
 
@@ -19,37 +25,43 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-## How it work?
+## How does it work?
 
-There are 5 files .json you will find it at `src/data/...here`, every file it contains objects data, We display our data like items and components and books and tutorial based on this data and related links, If you want to share data in another item, just write the name like this.
+There are 5 .json files which you will find located at `src/data/*`. Each file contains simple JSON object data. We display this data as `items`, `components`, `conference`, `books` and `tutorials` respectively.
+
+To ensure your data gets surfaces properly, you simply add a number of relevant tags to the `related` property. For books and tutorials data this might look like:
 
 ```bash
 # before
-related: ["javascript"] #this will display in javascript only now
+related: ["javascript"] #this will display in javascript only
 
 # after
-related: ["javascript", "webpack"] #now this object share in javascript item and webpack item
+related: ["javascript", "webpack"] #now this object will appear in both javascript and webpack
 ```
 
 #### items.json
-This file contains that items display on HomePage, and overview that display inside every item, so you can take this file as a base that we use to add our items.
+This file contains the items to display on the HomePage, and in the associated overview that displays alongside every item when clicked.
 
 #### components.json
-Here we add our Related links, there is array called `link` in every object that contain target and value that display in list, So you can add more than list with links in every list that display on item.
+Here we add our Related links, there is an array called `link` in each object that contains target and value fields which display in the related links list.
 
 #### books.json
-Here we add books with related links, but every object is a book to can share it between components
+Here we add books with related links and each object is a book which can be shared between components
 
 #### tutorials.json
-Here we add tutorials or courses and contain related array so you can share it between components.
+Here we add tutorials or courses, each of which contain a related array and again can be shared between components
 
 #### conference.json
-Here we add conferences data with date and location every object is conference.
+Here we add conferences with both date and location information.
 
-## How we sort items in files?
+## How do we sort the items in each file?
 
-We use a primitive way, We add 2 break lines after every item as we showed in `components.json`, `books.json` and `tutorials.json`, I know that's crazy but this project for everyone, I think to use smart way by DB or something updated automatically by form, but I need to catch contributors too that display in /Contributors + This project for everyone, If you beginner level you can add resources and start, About sorting we sort items as display in homepage, if you see `components.json`, `books.json` and `tutorials.json` you will find html first, css, svg, ...etc as display items in homepage or as items sorted in `items.json` file.
+We use a rather primitive approach at the moment, just to get things going. We add 2 line breaks after every item as shown in `components.json`, `books.json` and `tutorials.json`. I know that seems a little crazy but this project is for everyone so I wanted to make it accessible, initially.
+
+The ideal solution will be based around a much improved approach to search and sorting and the hope is that contributors will help out and make this a reality! So get coding!
 
 ## Contribute?
 
-It's easy!, This project built to be for everyone and levels so you can contribute by resources or features, Just open one of JSON files and add your resource, /Contributers page that display who contribute in frontend-helper repo automatically.
+Contribution is super easy! This project was built for anyone and everyone of all levels so people can contribute to resources or features (or both!). Just fork the project, open one of the JSON files and add your favourite/suggested resources and then create a PR with your additions.
+
+Contributers are automagically added to the Contributors page for all to see. What more could you possibly want!
