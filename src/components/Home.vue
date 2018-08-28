@@ -53,6 +53,7 @@ export default {
   padding: 30px 0;
   .item {
     margin: auto;
+    padding: 15px;
     // display: inline-block;
     img {
       width: auto;
