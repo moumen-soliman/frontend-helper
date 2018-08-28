@@ -3,8 +3,8 @@
 </template>
 
 <script>
-import NewsList from './../components/NewsList.vue'
-import {fetchRedditPosts} from './../apis/reddit-api'
+import NewsList from '@components/NewsList.vue'
+import {fetchRedditPosts} from '@apis/reddit-api'
 
 export default {
   name: 'articles',
@@ -26,7 +26,7 @@ export default {
   methods: {
     fetchData () {
       this.posts = []
-      fetchRedditPosts(this.loadPosts)
+      fetchRedditPosts(this.$http, this.loadPosts)
     },
     loadPosts (result) {
       this.posts = result

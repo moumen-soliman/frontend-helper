@@ -26,7 +26,8 @@
 </template>
 <script>
 
-import conf from '../storedData/conference.json'
+import conf from '@data/conference.json'
+import months from '@data/helpers/months.json'
 
 export default {
   name: 'Conferences',
@@ -37,50 +38,7 @@ export default {
       selected: {
         month: 'all'
       },
-      months: [
-        {
-          month: 'all'
-        },
-        {
-          month: 'january'
-        },
-        {
-          month: 'february'
-        },
-        {
-          month: 'march'
-        },
-        {
-          month: 'april'
-        },
-        {
-          month: 'may'
-        },
-        {
-          month: 'june'
-        },
-        {
-          month: 'july'
-        },
-        {
-          month: 'august'
-        },
-        {
-          month: 'september'
-        },
-        {
-          month: 'june'
-        },
-        {
-          month: 'october'
-        },
-        {
-          month: 'november'
-        },
-        {
-          month: 'december'
-        }
-      ]
+      months: [{ month: 'all' }].concat(months.map(m => { return { month: m } }))
     }
   },
   computed: {

@@ -10,8 +10,8 @@
 </template>
 
 <script>
-import Post from './Post.vue'
-import {orderBy} from 'lodash/collection'
+import Post from '@components/Post.vue'
+import { orderBy } from 'lodash/collection'
 
 export default {
   name: 'news-list',

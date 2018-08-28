@@ -13,9 +13,9 @@
 </template>
 
 <script>
-import Navigation from './components/Navigation'
-import HighlightMsg from './components/HighlightMsg'
-import Footer from './components/Footer'
+import Navigation from '@components/Navigation'
+import HighlightMsg from '@components/HighlightMsg'
+import Footer from '@components/Footer'
 
 export default {
   name: 'app',
