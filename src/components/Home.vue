@@ -1,7 +1,7 @@
 <template>
   <b-container>
     <input class="form-control" placeholder="Search" type="text" v-model="filter"/>
-    <b-row class="full-logos-items text-center">
+    <b-row class="full-logos-items text-center" align-v="center">
       <b-col class="item" xs="12" sm="6" md="3" lg="2" v-for="post in filteredPosts" :key="post.title">
         <router-link class="nav-link" :to="`/frontend-helper/item?page=${post.link[0]}`" exact>
           <div v-if="post.img != 'notfound'">
@@ -55,9 +55,10 @@ export default {
     margin: auto;
     // display: inline-block;
     img {
-      width: 100%;
+      width: auto;
       max-width: 100px;
       height: auto;
+      max-height: 100px;
       -webkit-filter: grayscale(97%);
       &:hover {
         -webkit-filter: grayscale(0);
