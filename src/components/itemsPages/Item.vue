@@ -59,10 +59,10 @@
 </template>
 
 <script>
-import items from '../../storedData/items.json'
-import components from '../../storedData/components.json'
-import books from '../../storedData/books.json'
-import tutorials from '../../storedData/tutorials.json'
+import items from '@data/items.json'
+import components from '@data/components.json'
+import books from '@data/books.json'
+import tutorials from '@data/tutorials.json'
 
 export default {
   name: 'Item',

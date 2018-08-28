@@ -20,7 +20,7 @@
 </template>
 
 <script>
-import item from '../storedData/items.json'
+import item from '@data/items.json'
 
 export default {
   name: 'Home', // this is the name of the component

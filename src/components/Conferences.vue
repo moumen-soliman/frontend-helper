@@ -26,8 +26,8 @@
 </template>
 <script>
 
-import conf from '../storedData/conference.json'
-import months from '../storedData/helpers/months.json'
+import conf from '@data/conference.json'
+import months from '@data/helpers/months.json'
 
 export default {
   name: 'Conferences',

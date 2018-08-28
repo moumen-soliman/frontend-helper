@@ -1,15 +1,15 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 
-import Home from '../components/Home'
-import About from '../components/About'
-import Articles from '../components/Articles'
-import Conferences from '../components/Conferences'
-import Contributors from '../components/Contributors'
-import NotFound from '../components/NotFound'
+import Home from '@components/Home'
+import About from '@components/About'
+import Articles from '@components/Articles'
+import Conferences from '@components/Conferences'
+import Contributors from '@components/Contributors'
+import NotFound from '@components/NotFound'
 
 // Items
-import Item from '../components/itemsPages/Item'
+import Item from '@components/itemsPages/Item'
 
 Vue.use(Router)
 
