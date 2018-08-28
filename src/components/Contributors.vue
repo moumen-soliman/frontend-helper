@@ -39,7 +39,7 @@ export default {
   mounted () {
     axios
       .get('https://api.github.com/repos/moumen-soliman/frontend-helper/stats/contributors')
-      .then(response => (this.info = response.data))
+      .then(response => (this.info = response.data.reverse()))
       .catch(error => console.log(error.response))
   }
 }
