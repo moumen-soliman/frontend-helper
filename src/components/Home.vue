@@ -52,7 +52,7 @@ export default {
 .full-logos-items {
   padding: 30px 0;
   .item {
-    // margin: auto;
+    margin: auto;
     // display: inline-block;
     img {
       width: 100%;
