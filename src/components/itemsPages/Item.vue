@@ -40,7 +40,7 @@
         <b-col class="text-center" v-if="filiteredBooks.length < 1">
           Not found Yet, help us and contribute <b><a href="https://github.com/moumen-soliman/frontend-helper/blob/master/src/storedData/books.json" target="_blank">Github Repo</a></b>
         </b-col>
-        <b-col v-else xs="12" sm="6" lg="4" v-for="(post, index) in filiteredBooks" :key="index">
+        <b-col tag="ul" v-else xs="12" sm="6" lg="4" v-for="(post, index) in filiteredBooks" :key="index">
           <li><a :href="post.link" target="_blank">{{post.title}}</a><br></li>
         </b-col>
       </b-row>
@@ -50,7 +50,7 @@
         <b-col class="text-center" v-if="filiteredTutorials.length < 1">
           Not found Yet, help us and contribute <b><a href="https://github.com/moumen-soliman/frontend-helper/blob/master/src/storedData/tutorials.json" target="_blank">Github Repo</a></b>
         </b-col>
-        <b-col v-else xs="12" sm="6" lg="4" v-for="(post, index) in filiteredTutorials" :key="index">
+        <b-col tag="ul" v-else xs="12" sm="6" lg="4" v-for="(post, index) in filiteredTutorials" :key="index">
           <li><a :href="post.link" target="_blank">{{post.title}}</a><br></li>
         </b-col>
       </b-row>
