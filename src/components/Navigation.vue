@@ -42,12 +42,12 @@ export default {
         {
           id: 4,
           text: 'Conferences',
-          page:'/frontend-helper/Conferences'
+          page: '/frontend-helper/Conferences'
         },
         {
           id: 5,
           text: 'Contributors',
-          page:'/frontend-helper/Contributors'
+          page: '/frontend-helper/Contributors'
         }
       ]
     }

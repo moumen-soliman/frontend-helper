@@ -7,7 +7,7 @@
     <br>
     <div>
       <b-row>
-        <b-col class="contribute-item" cols="4" v-for="key in info">
+        <b-col class="contribute-item" cols="4" v-for="(key, index) in info" :key="index">
             <div class="main-object">
             <b-media>
               <b-img slot="aside" :src="key.author.avatar_url" width="64" height="64" alt="placeholder" />
@@ -27,7 +27,7 @@
 </template>
 
 <script>
-import axios from 'axios';
+import axios from 'axios'
 
 export default {
   name: 'Contributors', // this is the name of the component
