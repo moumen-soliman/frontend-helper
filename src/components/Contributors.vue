@@ -6,22 +6,31 @@
     </div>
     <br>
     <div>
-      <b-row>
-        <b-col class="contribute-item" cols="4" v-for="(key, index) in info" :key="index">
-            <div class="main-object">
-            <b-media>
-              <b-img slot="aside" :src="key.author.avatar_url" width="64" height="64" alt="placeholder" />
-              <h6 class="mt-0">@{{key.author.login}}</h6>
-              <p>{{key.total}} commits</p>
-              <a :href="key.author.html_url" target="_blank">
-                <button type="button" class="btn btn-primary btn-sm">
-                  Profile
-                </button>
-              </a>
-            </b-media>
-            </div>
-        </b-col>
-      </b-row>
+      <section v-if="errored">
+        <p>We're sorry, we're not able to retrieve this getDatarmation at the moment, please try back later</p>
+      </section>
+
+      <section v-else>
+        <div v-if="loading">Loading...</div>
+        <div v-else>
+          <b-row>
+            <b-col class="contribute-item" cols="4" v-for="(key, index) in info" :key="index">
+                <div class="main-object">
+                <b-media>
+                  <b-img slot="aside" :src="key.author.avatar_url" width="64" height="64" alt="placeholder" />
+                  <h6 class="mt-0">@{{key.author.login}}</h6>
+                  <p>{{key.total}} commits</p>
+                  <a :href="key.author.html_url" target="_blank">
+                    <button type="button" class="btn btn-primary btn-sm">
+                      Profile
+                    </button>
+                  </a>
+                </b-media>
+                </div>
+            </b-col>
+          </b-row>
+        </div>
+      </section>
     </div>
   </b-container>
 </template>
@@ -31,7 +40,9 @@ export default {
   name: 'Contributors', // this is the name of the component
   data () {
     return {
-      info: null
+      info: null,
+      loading: true,
+      errored: false
     }
   },
   mounted () {
@@ -39,6 +50,7 @@ export default {
       .get('https://api.github.com/repos/moumen-soliman/frontend-helper/stats/contributors')
       .then(response => (this.info = response.data.reverse()))
       .catch(error => console.log(error.response))
+      .finally(() => this.loading = false)
   }
 }
 </script>
