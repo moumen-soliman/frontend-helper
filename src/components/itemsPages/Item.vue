@@ -19,7 +19,7 @@
       <h3>Related Links</h3><br>
       <b-row>
         <b-col class="text-center" v-if="filiteredMap.length < 1">
-          Not found Yet, help us and contribute <b><a href="https://github.com/moumen-soliman/frontend-helper/blob/master/src/storedData/components.json" target="_blank">Github Repo</a></b>
+          Not found Yet, help us and contribute <b><a href="https://github.com/moumen-soliman/frontend-helper/blob/master/src/data/components.json" target="_blank">Github Repo</a></b>
         </b-col>
         <b-col v-else xs="12" sm="6" lg="4" v-for="(post, index) in filiteredMap" :key="index">
           <ul class="main-ul">
@@ -38,7 +38,7 @@
       <h3>Books</h3><br>
       <b-row>
         <b-col class="text-center" v-if="filiteredBooks.length < 1">
-          Not found Yet, help us and contribute <b><a href="https://github.com/moumen-soliman/frontend-helper/blob/master/src/storedData/books.json" target="_blank">Github Repo</a></b>
+          Not found Yet, help us and contribute <b><a href="https://github.com/moumen-soliman/frontend-helper/blob/master/src/data/books.json" target="_blank">Github Repo</a></b>
         </b-col>
         <b-col tag="ul" v-else xs="12" sm="6" lg="4" v-for="(post, index) in filiteredBooks" :key="index">
           <li><a :href="post.link" target="_blank">{{post.title}}</a><br></li>
@@ -48,7 +48,7 @@
       <h3>Courses & Tutorials</h3><br>
       <b-row>
         <b-col class="text-center" v-if="filiteredTutorials.length < 1">
-          Not found Yet, help us and contribute <b><a href="https://github.com/moumen-soliman/frontend-helper/blob/master/src/storedData/tutorials.json" target="_blank">Github Repo</a></b>
+          Not found Yet, help us and contribute <b><a href="https://github.com/moumen-soliman/frontend-helper/blob/master/src/data/tutorials.json" target="_blank">Github Repo</a></b>
         </b-col>
         <b-col tag="ul" v-else xs="12" sm="6" lg="4" v-for="(post, index) in filiteredTutorials" :key="index">
           <li><a :href="post.link" target="_blank">{{post.title}}</a><br></li>
